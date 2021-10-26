@@ -8,7 +8,7 @@ This project is derived from the Type-1 font *U004006T URW Grotesk 2031 Bold* an
 Legal Notice
 ---------------
 
-Since the font software in this repo is directly derived from URW's old Type-1 font licensed under GPLv2+, it falls under the same license:
+Since the font software in this repo is directly derived from URW's old Type-1 font licensed under GPLv2+, it carries the same license:
 
 > ```
 > Copyright (c) 2021 ghostlyfoundry
