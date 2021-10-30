@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Adieresis" format="2">
+  <advance width="665"/>
+  <unicode hex="00C4"/>
+  <outline>
+    <contour>
+      <point x="458" y="667" type="line"/>
+      <point x="220" y="667" type="line"/>
+      <point x="-20" y="0" type="line"/>
+      <point x="174" y="0" type="line"/>
+      <point x="207" y="99" type="line"/>
+      <point x="423" y="99" type="line"/>
+      <point x="449" y="0" type="line"/>
+      <point x="663" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="387" y="238" type="line"/>
+      <point x="254" y="238" type="line"/>
+      <point x="328" y="446" type="line"/>
+    </contour>
+    <contour>
+      <point x="224" y="893" type="curve" smooth="yes"/>
+      <point x="172" y="893"/>
+      <point x="135" y="858"/>
+      <point x="135" y="808" type="curve" smooth="yes"/>
+      <point x="135" y="758"/>
+      <point x="172" y="723"/>
+      <point x="224" y="723" type="curve" smooth="yes"/>
+      <point x="277" y="723"/>
+      <point x="314" y="758"/>
+      <point x="314" y="808" type="curve" smooth="yes"/>
+      <point x="314" y="858"/>
+      <point x="277" y="893"/>
+    </contour>
+    <contour>
+      <point x="446" y="893" type="curve" smooth="yes"/>
+      <point x="393" y="893"/>
+      <point x="357" y="859"/>
+      <point x="357" y="808" type="curve" smooth="yes"/>
+      <point x="357" y="757"/>
+      <point x="393" y="723"/>
+      <point x="446" y="723" type="curve" smooth="yes"/>
+      <point x="499" y="723"/>
+      <point x="536" y="758"/>
+      <point x="536" y="808" type="curve" smooth="yes"/>
+      <point x="536" y="858"/>
+      <point x="499" y="893"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>062e24a2b10266fc796e5008981f3f30b11e752ddd152042602a8fe70fecf3c46161610426d2642718e64e039bc1ae57fafb1540c7eebdd6b8fa0d766ebdbf1a</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 20</string>
+          <string>hstem 99 139</string>
+          <string>hstem 647 20</string>
+          <string>vstem -20 179</string>
+          <string>vstem -20 683</string>
+          <string>vstem 202 179</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tilde" format="2">
+  <advance width="500"/>
+  <unicode hex="02DC"/>
+  <outline>
+    <contour>
+      <point x="365" y="661" type="line"/>
+      <point x="342" y="631"/>
+      <point x="323" y="619"/>
+      <point x="299" y="619" type="curve" smooth="yes"/>
+      <point x="288" y="619"/>
+      <point x="282" y="621"/>
+      <point x="269" y="627" type="curve" smooth="yes"/>
+      <point x="207" y="659"/>
+      <point x="191" y="665" name="hr01"/>
+      <point x="169" y="665" type="curve" smooth="yes"/>
+      <point x="135" y="665"/>
+      <point x="128" y="659"/>
+      <point x="64" y="580" type="curve"/>
+      <point x="85" y="563" type="line"/>
+      <point x="118" y="599"/>
+      <point x="130" y="608"/>
+      <point x="150" y="608" type="curve" smooth="yes"/>
+      <point x="163" y="608"/>
+      <point x="185" y="603"/>
+      <point x="196" y="597" type="curve" smooth="yes"/>
+      <point x="252" y="568"/>
+      <point x="273" y="559" name="hr02"/>
+      <point x="289" y="559" type="curve" smooth="yes"/>
+      <point x="319" y="559"/>
+      <point x="339" y="576"/>
+      <point x="386" y="642" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>1882cf34019bf236bc912679a1e8c9911540254ff2b2918578c610e6ab454096f26b49ac48a80964d820708f1d2f2c36eda61fb67bfe4c64cf8d248f2a31d3aa</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 559 60</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 608 57</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr01</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 559 60</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr02</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

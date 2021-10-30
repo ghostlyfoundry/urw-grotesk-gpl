@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ntilde" format="2">
+  <advance width="756"/>
+  <unicode hex="00D1"/>
+  <outline>
+    <contour>
+      <point x="38" y="0" type="line"/>
+      <point x="156" y="0" type="line"/>
+      <point x="259" y="484" type="line"/>
+      <point x="507" y="0" type="line"/>
+      <point x="624" y="0" type="line"/>
+      <point x="766" y="667" type="line"/>
+      <point x="649" y="667" type="line"/>
+      <point x="546" y="185" type="line"/>
+      <point x="298" y="667" type="line"/>
+      <point x="180" y="667" type="line"/>
+    </contour>
+    <contour>
+      <point x="347" y="742" type="line"/>
+      <point x="384" y="780"/>
+      <point x="410" y="795"/>
+      <point x="436" y="795" type="curve" smooth="yes"/>
+      <point x="451" y="795"/>
+      <point x="466" y="789"/>
+      <point x="489" y="774" type="curve" smooth="yes"/>
+      <point x="528" y="749"/>
+      <point x="542" y="743" name="hr01"/>
+      <point x="566" y="743" type="curve" smooth="yes"/>
+      <point x="590" y="743"/>
+      <point x="595" y="746"/>
+      <point x="634" y="781" type="curve" smooth="yes"/>
+      <point x="668" y="813"/>
+      <point x="668" y="813"/>
+      <point x="683" y="833" type="curve"/>
+      <point x="661" y="853" type="line"/>
+      <point x="629" y="820"/>
+      <point x="595" y="800"/>
+      <point x="571" y="800" type="curve" smooth="yes"/>
+      <point x="559" y="800"/>
+      <point x="554" y="803"/>
+      <point x="521" y="824" type="curve" smooth="yes"/>
+      <point x="496" y="841"/>
+      <point x="472" y="849" name="hr02"/>
+      <point x="450" y="849" type="curve" smooth="yes"/>
+      <point x="414" y="849"/>
+      <point x="372" y="820"/>
+      <point x="326" y="762" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>3578edd25817726349aced7d2eb9b83fb2a220d9f183cb4f8fdafbf903ea614d6b967d5f3ce4b811be613a0ff7cd53d7cddb982758487e0431736af601ff8cad</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 20</string>
+          <string>hstem 647 20</string>
+          <string>hstem 795 54</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 743 57</string>
+          <string>hstem 0 20</string>
+          <string>hstem 647 20</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr01</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 795 54</string>
+          <string>hstem 0 20</string>
+          <string>hstem 647 20</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr02</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="onesuperior" format="2">
+  <advance width="383"/>
+  <unicode hex="00B9"/>
+  <outline>
+    <contour>
+      <point x="286" y="667" type="line"/>
+      <point x="178" y="667" type="line"/>
+      <point x="157" y="618"/>
+      <point x="125" y="602"/>
+      <point x="42" y="599" type="curve"/>
+      <point x="42" y="511" type="line"/>
+      <point x="161" y="520" type="line"/>
+      <point x="161" y="267" type="line"/>
+      <point x="286" y="267" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w383m286,667l178,667c157,618 125,602 42,599l42,511l161,520l161,267l286,267</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 647 20</string>
+          <string>vstem 161 125</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

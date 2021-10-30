@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Aring" format="2">
+  <advance width="623"/>
+  <unicode hex="00C5"/>
+  <outline>
+    <contour>
+      <point x="-55" y="0" type="line"/>
+      <point x="68" y="0" type="line"/>
+      <point x="170" y="176" type="line"/>
+      <point x="426" y="176" type="line"/>
+      <point x="453" y="0" type="line"/>
+      <point x="578" y="0" type="line"/>
+      <point x="475" y="667" type="line"/>
+      <point x="343" y="667" type="line"/>
+    </contour>
+    <contour>
+      <point x="219" y="263" type="line"/>
+      <point x="378" y="537" type="line"/>
+      <point x="418" y="263" type="line"/>
+    </contour>
+    <contour>
+      <point x="445" y="900" type="curve" smooth="yes"/>
+      <point x="374" y="900"/>
+      <point x="321" y="855"/>
+      <point x="321" y="795" type="curve" smooth="yes"/>
+      <point x="321" y="739"/>
+      <point x="360" y="707"/>
+      <point x="427" y="707" type="curve" smooth="yes"/>
+      <point x="499" y="707"/>
+      <point x="550" y="751"/>
+      <point x="550" y="815" type="curve" smooth="yes"/>
+      <point x="550" y="867"/>
+      <point x="509" y="900"/>
+    </contour>
+    <contour>
+      <point x="442" y="863" type="curve" smooth="yes"/>
+      <point x="472" y="863"/>
+      <point x="493" y="844"/>
+      <point x="493" y="816" type="curve" smooth="yes"/>
+      <point x="493" y="775"/>
+      <point x="465" y="744"/>
+      <point x="429" y="744" type="curve" smooth="yes"/>
+      <point x="398" y="744"/>
+      <point x="378" y="764"/>
+      <point x="378" y="795" type="curve" smooth="yes"/>
+      <point x="378" y="832"/>
+      <point x="407" y="863"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>1c9998a2c6aba4263dfed8328c44c7743144245b1ec8e7d2f19663e7237a372ba89ac492e106991c19a75915243b85c00651c9182762db764b8989a19fe93b99</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 20</string>
+          <string>hstem 176 87</string>
+          <string>hstem 647 20</string>
+          <string>hstem 707 37</string>
+          <string>hstem 863 37</string>
+          <string>vstem -55 57</string>
+          <string>vstem 117 57</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

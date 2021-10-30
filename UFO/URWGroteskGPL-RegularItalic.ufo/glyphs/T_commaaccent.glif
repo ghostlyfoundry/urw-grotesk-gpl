@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tcommaaccent" format="2">
+  <advance width="473"/>
+  <unicode hex="021A"/>
+  <outline>
+    <contour>
+      <point x="130" y="0" type="line"/>
+      <point x="250" y="0" type="line"/>
+      <point x="371" y="573" type="line"/>
+      <point x="556" y="573" type="line"/>
+      <point x="576" y="667" type="line"/>
+      <point x="80" y="667" type="line"/>
+      <point x="60" y="573" type="line"/>
+      <point x="251" y="573" type="line"/>
+    </contour>
+    <contour>
+      <point x="218" y="-53" type="line"/>
+      <point x="146" y="-53" type="line"/>
+      <point x="133" y="-110" type="line" smooth="yes"/>
+      <point x="127" y="-134"/>
+      <point x="117" y="-153"/>
+      <point x="101" y="-179" type="curve"/>
+      <point x="64" y="-231" type="line"/>
+      <point x="113" y="-231" type="line"/>
+      <point x="200" y="-138" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>4389b33006acfe1d2006cb02a651d9d7925d6705e0a30239fad83b94f6528e4dbb92d9d02e1c18eb5752aab98e4a9c750ea692d365e51d40da06e1a094caae8c</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -231 20</string>
+          <string>hstem 0 20</string>
+          <string>hstem 573 94</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="imacron" format="2">
+  <advance width="287"/>
+  <unicode hex="012B"/>
+  <outline>
+    <contour>
+      <point x="-1" y="0" type="line"/>
+      <point x="192" y="0" type="line"/>
+      <point x="291" y="467" type="line"/>
+      <point x="98" y="467" type="line"/>
+    </contour>
+    <contour>
+      <point x="97" y="655" type="line"/>
+      <point x="81" y="578" type="line"/>
+      <point x="351" y="578" type="line"/>
+      <point x="367" y="655" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w287m-1,0l192,0l291,467l98,467m97,655l81,578l351,578l367,655</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 20</string>
+          <string>hstem 447 20</string>
+          <string>hstem 578 77</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

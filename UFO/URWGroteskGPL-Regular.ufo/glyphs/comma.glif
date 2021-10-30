@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="comma" format="2">
+  <advance width="249"/>
+  <unicode hex="002C"/>
+  <outline>
+    <contour>
+      <point x="179" y="136" type="line"/>
+      <point x="77" y="136" type="line"/>
+      <point x="77" y="57" type="line" smooth="yes"/>
+      <point x="77" y="35"/>
+      <point x="71" y="7"/>
+      <point x="55" y="-39" type="curve" smooth="yes"/>
+      <point x="20" y="-140" type="line"/>
+      <point x="82" y="-136" type="line"/>
+      <point x="179" y="19" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w249m179,136l77,136l77,57c77,35 71,7 55,-39l20,-140l82,-136l179,19</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 77 102</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

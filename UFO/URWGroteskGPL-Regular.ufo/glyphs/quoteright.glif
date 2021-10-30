@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quoteright" format="2">
+  <advance width="280"/>
+  <unicode hex="2019"/>
+  <outline>
+    <contour>
+      <point x="206" y="700" type="line"/>
+      <point x="104" y="700" type="line"/>
+      <point x="104" y="621" type="line" smooth="yes"/>
+      <point x="104" y="599"/>
+      <point x="98" y="572"/>
+      <point x="82" y="525" type="curve" smooth="yes"/>
+      <point x="47" y="424" type="line"/>
+      <point x="109" y="429" type="line"/>
+      <point x="206" y="583" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w280m206,700l104,700l104,621c104,599 98,572 82,525l47,424l109,429l206,583</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 104 102</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guilsinglright" format="2">
+  <advance width="292"/>
+  <unicode hex="203A"/>
+  <outline>
+    <contour>
+      <point x="37" y="467" type="line"/>
+      <point x="107" y="234" type="line"/>
+      <point x="38" y="0" type="line"/>
+      <point x="138" y="0" type="line"/>
+      <point x="262" y="234" type="line"/>
+      <point x="137" y="467" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w292m37,467l107,234l38,0l138,0l262,234l137,467</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 20</string>
+          <string>hstem 447 20</string>
+          <string>vstem 37 225</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

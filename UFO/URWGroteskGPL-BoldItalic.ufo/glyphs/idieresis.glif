@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="idieresis" format="2">
+  <advance width="287"/>
+  <unicode hex="00EF"/>
+  <outline>
+    <contour>
+      <point x="-1" y="0" type="line"/>
+      <point x="192" y="0" type="line"/>
+      <point x="291" y="467" type="line"/>
+      <point x="98" y="467" type="line"/>
+    </contour>
+    <contour>
+      <point x="131" y="706" type="curve" smooth="yes"/>
+      <point x="82" y="706"/>
+      <point x="47" y="670"/>
+      <point x="47" y="621" type="curve" smooth="yes"/>
+      <point x="47" y="573"/>
+      <point x="78" y="541"/>
+      <point x="124" y="541" type="curve" smooth="yes"/>
+      <point x="172" y="541"/>
+      <point x="207" y="578"/>
+      <point x="207" y="629" type="curve" smooth="yes"/>
+      <point x="207" y="673"/>
+      <point x="174" y="706"/>
+    </contour>
+    <contour>
+      <point x="326" y="706" type="curve" smooth="yes"/>
+      <point x="279" y="706"/>
+      <point x="244" y="669"/>
+      <point x="244" y="621" type="curve" smooth="yes"/>
+      <point x="244" y="573"/>
+      <point x="275" y="541"/>
+      <point x="322" y="541" type="curve" smooth="yes"/>
+      <point x="370" y="541"/>
+      <point x="404" y="578"/>
+      <point x="404" y="629" type="curve" smooth="yes"/>
+      <point x="404" y="675"/>
+      <point x="373" y="706"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>2ced8c7f6dfc700173dda3f30e3d08dd80097fe2c37122993352996c348d8319ff8b0c5ab1596099cb4bf63b93bc4ea0a1c48b3a25650df9fa2f0764571289fa</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 20</string>
+          <string>hstem 447 20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

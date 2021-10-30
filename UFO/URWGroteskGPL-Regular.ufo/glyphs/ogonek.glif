@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ogonek" format="2">
+  <advance width="500"/>
+  <unicode hex="02DB"/>
+  <outline>
+    <contour>
+      <point x="327" y="0" type="line"/>
+      <point x="270" y="-34"/>
+      <point x="253" y="-56"/>
+      <point x="253" y="-94" type="curve" smooth="yes"/>
+      <point x="253" y="-151"/>
+      <point x="302" y="-181"/>
+      <point x="394" y="-181" type="curve" smooth="yes"/>
+      <point x="417" y="-181" type="line"/>
+      <point x="424" y="-154" type="line"/>
+      <point x="398" y="-153"/>
+      <point x="387" y="-151"/>
+      <point x="374" y="-144" type="curve" smooth="yes"/>
+      <point x="348" y="-130"/>
+      <point x="332" y="-105"/>
+      <point x="332" y="-79" type="curve" smooth="yes"/>
+      <point x="332" y="-45"/>
+      <point x="355" y="-19"/>
+      <point x="400" y="0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>7d7d47a3381c1f70d435da691426e413c919f627a82f29e8f53b396b31acaf5d858431dce0b6d5c0a3ae60d456073c8c53e19ce63197d645bd31f451e9ca4825</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 253 79</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zacute" format="2">
+  <advance width="447"/>
+  <unicode hex="017A"/>
+  <outline>
+    <contour>
+      <point x="-30" y="0" type="line"/>
+      <point x="382" y="0" type="line"/>
+      <point x="400" y="87" type="line"/>
+      <point x="148" y="87" type="line"/>
+      <point x="446" y="367" type="line"/>
+      <point x="463" y="448" type="line"/>
+      <point x="91" y="448" type="line"/>
+      <point x="72" y="361" type="line"/>
+      <point x="301" y="361" type="line"/>
+      <point x="-13" y="79" type="line"/>
+    </contour>
+    <contour>
+      <point x="228" y="544" type="line"/>
+      <point x="266" y="535" type="line"/>
+      <point x="496" y="666" type="line"/>
+      <point x="410" y="697" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w447m-30,0l382,0l400,87l148,87l446,367l463,448l91,448l72,361l301,361l-13,79m228,544l266,535l496,666l410,697</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 87</string>
+          <string>hstem 361 87</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

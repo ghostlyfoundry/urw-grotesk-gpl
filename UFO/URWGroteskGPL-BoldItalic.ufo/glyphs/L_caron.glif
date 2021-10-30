@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lcaron" format="2">
+  <advance width="519"/>
+  <unicode hex="013D"/>
+  <outline>
+    <contour>
+      <point x="20" y="0" type="line"/>
+      <point x="466" y="0" type="line"/>
+      <point x="500" y="160" type="line"/>
+      <point x="261" y="160" type="line"/>
+      <point x="368" y="667" type="line"/>
+      <point x="162" y="667" type="line"/>
+    </contour>
+    <contour>
+      <point x="565" y="667" type="line"/>
+      <point x="468" y="667" type="line"/>
+      <point x="457" y="613" type="line"/>
+      <point x="449" y="583"/>
+      <point x="442" y="564"/>
+      <point x="428" y="537" type="curve"/>
+      <point x="395" y="469" type="line"/>
+      <point x="463" y="477" type="line"/>
+      <point x="548" y="587" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w519m20,0l466,0l500,160l261,160l368,667l162,667m565,667l468,667l457,613c449,583 442,564 428,537l395,469l463,477l548,587</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 160</string>
+          <string>hstem 647 20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lcaron" format="2">
+  <advance width="425"/>
+  <unicode hex="013E"/>
+  <outline>
+    <contour>
+      <point x="243" y="700" type="line"/>
+      <point x="50" y="700" type="line"/>
+      <point x="50" y="0" type="line"/>
+      <point x="243" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="412" y="700" type="line"/>
+      <point x="315" y="700" type="line"/>
+      <point x="315" y="646" type="line" smooth="yes"/>
+      <point x="315" y="624"/>
+      <point x="311" y="602"/>
+      <point x="302" y="570" type="curve" smooth="yes"/>
+      <point x="284" y="502" type="line"/>
+      <point x="350" y="510" type="line"/>
+      <point x="412" y="620" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w425m243,700l50,700l50,0l243,0m412,700l315,700l315,646c315,624 311,602 302,570l284,502l350,510l412,620</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 20</string>
+          <string>vstem 50 193</string>
+          <string>vstem 315 97</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

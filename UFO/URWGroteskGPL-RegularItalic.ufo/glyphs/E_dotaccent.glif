@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Edotaccent" format="2">
+  <advance width="529"/>
+  <unicode hex="0116"/>
+  <outline>
+    <contour>
+      <point x="38" y="0" type="line"/>
+      <point x="447" y="0" type="line"/>
+      <point x="467" y="94" type="line"/>
+      <point x="178" y="94" type="line"/>
+      <point x="221" y="295" type="line"/>
+      <point x="473" y="295" type="line"/>
+      <point x="492" y="385" type="line"/>
+      <point x="240" y="385" type="line"/>
+      <point x="280" y="573" type="line"/>
+      <point x="532" y="573" type="line"/>
+      <point x="552" y="667" type="line"/>
+      <point x="180" y="667" type="line"/>
+    </contour>
+    <contour>
+      <point x="397" y="864" type="curve" smooth="yes"/>
+      <point x="356" y="864"/>
+      <point x="325" y="834"/>
+      <point x="325" y="794" type="curve" smooth="yes"/>
+      <point x="325" y="758"/>
+      <point x="349" y="734"/>
+      <point x="386" y="734" type="curve" smooth="yes"/>
+      <point x="427" y="734"/>
+      <point x="458" y="764"/>
+      <point x="458" y="805" type="curve" smooth="yes"/>
+      <point x="458" y="840"/>
+      <point x="434" y="864"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>f73077182cd32479f73940c03dbe3e4ef64f6fb64d5e4e519295393945f07bcbd29ba133f5f999e9e0e6151871346020e72da915ae9df9f6b3bee272a88ea117</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 94</string>
+          <string>hstem 295 90</string>
+          <string>hstem 573 94</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="backslash" format="2">
+  <advance width="458"/>
+  <unicode hex="005C"/>
+  <outline>
+    <contour>
+      <point x="327" y="-206" type="line"/>
+      <point x="242" y="707" type="line"/>
+      <point x="144" y="693" type="line"/>
+      <point x="229" y="-220" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w458m327,-206l242,707l144,693l229,-220</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -220 20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

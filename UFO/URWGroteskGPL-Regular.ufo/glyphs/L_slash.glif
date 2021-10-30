@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lslash" format="2">
+  <advance width="461"/>
+  <unicode hex="0141"/>
+  <outline>
+    <contour>
+      <point x="82" y="352" type="line"/>
+      <point x="-8" y="291" type="line"/>
+      <point x="32" y="239" type="line"/>
+      <point x="82" y="274" type="line"/>
+      <point x="82" y="0" type="line"/>
+      <point x="461" y="0" type="line"/>
+      <point x="461" y="94" type="line"/>
+      <point x="202" y="94" type="line"/>
+      <point x="202" y="336" type="line"/>
+      <point x="364" y="445" type="line"/>
+      <point x="328" y="498" type="line"/>
+      <point x="202" y="414" type="line"/>
+      <point x="202" y="667" type="line"/>
+      <point x="82" y="667" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w461m82,352l-8,291l32,239l82,274l82,0l461,0l461,94l202,94l202,336l364,445l328,498l202,414l202,667l82,667</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 94</string>
+          <string>hstem 647 20</string>
+          <string>vstem 82 120</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

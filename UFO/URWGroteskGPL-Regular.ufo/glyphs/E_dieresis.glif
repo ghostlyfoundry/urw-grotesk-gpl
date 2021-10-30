@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Edieresis" format="2">
+  <advance width="526"/>
+  <unicode hex="00CB"/>
+  <outline>
+    <contour>
+      <point x="205" y="384" type="line"/>
+      <point x="205" y="573" type="line"/>
+      <point x="454" y="573" type="line"/>
+      <point x="454" y="667" type="line"/>
+      <point x="85" y="667" type="line"/>
+      <point x="85" y="0" type="line"/>
+      <point x="491" y="0" type="line"/>
+      <point x="491" y="94" type="line"/>
+      <point x="205" y="94" type="line"/>
+      <point x="205" y="293" type="line"/>
+      <point x="454" y="293" type="line"/>
+      <point x="454" y="384" type="line"/>
+    </contour>
+    <contour>
+      <point x="164" y="865" type="curve" smooth="yes"/>
+      <point x="128" y="865"/>
+      <point x="101" y="838"/>
+      <point x="101" y="804" type="curve" smooth="yes"/>
+      <point x="101" y="768"/>
+      <point x="128" y="741"/>
+      <point x="163" y="741" type="curve" smooth="yes"/>
+      <point x="198" y="741"/>
+      <point x="225" y="768"/>
+      <point x="225" y="803" type="curve" smooth="yes"/>
+      <point x="225" y="838"/>
+      <point x="198" y="865"/>
+    </contour>
+    <contour>
+      <point x="379" y="865" type="curve" smooth="yes"/>
+      <point x="344" y="865"/>
+      <point x="317" y="838"/>
+      <point x="317" y="804" type="curve" smooth="yes"/>
+      <point x="317" y="768"/>
+      <point x="343" y="741"/>
+      <point x="378" y="741" type="curve" smooth="yes"/>
+      <point x="413" y="741"/>
+      <point x="441" y="768"/>
+      <point x="441" y="803" type="curve" smooth="yes"/>
+      <point x="441" y="838"/>
+      <point x="414" y="865"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>450ceb8d16b4b62c70d38591ae2257cd1c0579097c61d27264fac1c828290ef34563e4826beb179127b152c20c7b2543e885815a4ff55012fe2c5b7c19af7ce7</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 94</string>
+          <string>hstem 293 91</string>
+          <string>hstem 573 94</string>
+          <string>vstem 85 120</string>
+          <string>vstem 85 124</string>
+          <string>vstem 301 124</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

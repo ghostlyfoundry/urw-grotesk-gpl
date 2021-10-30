@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Delta" format="2">
+  <advance width="612"/>
+  <unicode hex="0394"/>
+  <outline>
+    <contour>
+      <point x="6" y="0" type="line"/>
+      <point x="608" y="0" type="line"/>
+      <point x="399" y="688" type="line"/>
+    </contour>
+    <contour>
+      <point x="82" y="51" type="line"/>
+      <point x="343" y="509" type="line"/>
+      <point x="484" y="51" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w612m6,0l608,0l399,688m82,51l343,509l484,51</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 51</string>
+          <string>vstem 6 602</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

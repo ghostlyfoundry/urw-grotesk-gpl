@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Agrave" format="2">
+  <advance width="620"/>
+  <unicode hex="00C0"/>
+  <outline>
+    <contour>
+      <point x="374" y="667" type="line"/>
+      <point x="249" y="667" type="line"/>
+      <point x="-9" y="0" type="line"/>
+      <point x="111" y="0" type="line"/>
+      <point x="176" y="179" type="line"/>
+      <point x="430" y="179" type="line"/>
+      <point x="495" y="0" type="line"/>
+      <point x="621" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="400" y="267" type="line"/>
+      <point x="209" y="267" type="line"/>
+      <point x="306" y="530" type="line"/>
+    </contour>
+    <contour>
+      <point x="228" y="894" type="line"/>
+      <point x="131" y="863" type="line"/>
+      <point x="329" y="714" type="line"/>
+      <point x="374" y="722" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w620m374,667l249,667l-9,0l111,0l176,179l430,179l495,0l621,0m400,267l209,267l306,530m228,894l131,863l329,714l374,722</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 20</string>
+          <string>hstem 179 88</string>
+          <string>hstem 647 20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

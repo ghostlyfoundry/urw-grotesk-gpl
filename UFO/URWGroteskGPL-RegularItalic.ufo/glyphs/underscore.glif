@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="underscore" format="2">
+  <advance width="562"/>
+  <unicode hex="005F"/>
+  <outline>
+    <contour>
+      <point x="-51" y="-59" type="line"/>
+      <point x="-51" y="-115" type="line"/>
+      <point x="512" y="-115" type="line"/>
+      <point x="512" y="-59" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w562m-51,-59l-51,-115l512,-115l512,-59</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -115 56</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>
