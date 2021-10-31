@@ -69,15 +69,15 @@
         <key>stems</key>
         <array>
           <string>hstem 222 148</string>
+          <string>hstem -17 151</string>
           <string>vstem 51 224</string>
           <string>hstem 524 161</string>
-          <string>hstem -17 20</string>
         </array>
       </dict>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -2 20</string>
+          <string>hstem 19 -21</string>
           <string>hstem 222 148</string>
           <string>hstem 524 161</string>
           <string>vstem 51 224</string>

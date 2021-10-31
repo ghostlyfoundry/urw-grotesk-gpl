@@ -22,7 +22,7 @@
       <point x="32" y="-225"/>
       <point x="50" y="-225" type="curve" smooth="yes"/>
       <point x="149" y="-225"/>
-      <point x="195" y="-179"/>
+      <point x="194.58" y="-178.819"/>
       <point x="270" y="-4" type="curve" smooth="yes"/>
     </contour>
   </outline>
@@ -33,14 +33,14 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>63f0e4592fc548000de599b5f9c4da9609baa99a0bf876790d1cbbfef8f7127a135dce8edf18ac6bb918ecc09214002f70ccd5a8bd87292696b04cb9739491e8</string>
+    <string>914a51576f6756a17cc9bef8d4cd8ef0a1a9d8ac7bd733365e426ab24b49001f91ca5fae5b5045386fc173b93fed0208762a6ae528e38634fea906711e45741f</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
           <string>hstem -225 91</string>
-          <string>hstem 428 20</string>
+          <string>hstem 448 -20</string>
         </array>
       </dict>
     </array>

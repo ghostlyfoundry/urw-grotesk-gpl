@@ -51,7 +51,7 @@
       <point x="521" y="41" name="hr01"/>
       <point x="497" y="41" type="curve" smooth="yes"/>
       <point x="468" y="41"/>
-      <point x="453" y="77"/>
+      <point x="452.402" y="77.0809"/>
       <point x="460" y="131" type="curve" smooth="yes"/>
     </contour>
   </outline>
@@ -62,25 +62,23 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>2782405b40e456ef4a28c6d41fa78af3005b28c3fe2cbe4aab8dc35b4c12f1a92641653f205c6ce284d9980009316d36b8623ccb7c58844aba6559ecbf2d3dc4</string>
+    <string>39016e75f5583dccf7498519761a69066443bbbb5c92fe673c8bb5e19784d5b3c0e87d133df5271f674898cc3f3af725e2184d0b0e61b0ed6639c7d21b6d1c97</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>vstem 353 89</string>
+          <string>hstem 500 -20</string>
           <string>hstem -13 71</string>
-          <string>vstem 62 88</string>
-          <string>hstem -219 20</string>
+          <string>hstem -198 -21</string>
         </array>
       </dict>
       <dict>
         <key>stems</key>
         <array>
           <string>hstem -13 54</string>
-          <string>vstem 353 89</string>
-          <string>hstem -219 20</string>
-          <string>vstem 62 88</string>
+          <string>hstem 500 -20</string>
+          <string>hstem -198 -21</string>
         </array>
         <key>pointTag</key>
         <string>hr01</string>

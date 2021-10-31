@@ -63,9 +63,9 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 0 20</string>
+          <string>hstem 21 -21</string>
           <string>hstem 176 87</string>
-          <string>hstem 647 20</string>
+          <string>hstem 667 -20</string>
           <string>hstem 795 54</string>
         </array>
       </dict>
@@ -73,9 +73,9 @@
         <key>stems</key>
         <array>
           <string>hstem 743 57</string>
-          <string>hstem 0 20</string>
           <string>hstem 176 87</string>
-          <string>hstem 647 20</string>
+          <string>hstem 667 -20</string>
+          <string>hstem 21 -21</string>
         </array>
         <key>pointTag</key>
         <string>hr01</string>
@@ -84,9 +84,9 @@
         <key>stems</key>
         <array>
           <string>hstem 795 54</string>
-          <string>hstem 0 20</string>
           <string>hstem 176 87</string>
-          <string>hstem 647 20</string>
+          <string>hstem 667 -20</string>
+          <string>hstem 21 -21</string>
         </array>
         <key>pointTag</key>
         <string>hr02</string>

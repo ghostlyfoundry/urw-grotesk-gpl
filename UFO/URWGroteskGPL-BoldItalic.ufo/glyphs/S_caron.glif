@@ -73,10 +73,21 @@
         <key>stems</key>
         <array>
           <string>hstem -17 160</string>
+          <string>vstem 373 233</string>
+          <string>vstem 98 209</string>
           <string>hstem 547 137</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 684 61</string>
+          <string>hstem -17 160</string>
           <string>vstem 98 209</string>
           <string>vstem 373 233</string>
         </array>
+        <key>pointTag</key>
+        <string>._.2671735425168</string>
       </dict>
     </array>
   </dict>

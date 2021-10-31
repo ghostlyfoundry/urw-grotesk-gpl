@@ -83,9 +83,9 @@
       <dict>
         <key>stems</key>
         <array>
+          <string>hstem 21 -21</string>
           <string>hstem 619 83</string>
           <string>vstem 417 99</string>
-          <string>hstem -6 88</string>
           <string>hstem 361 87</string>
         </array>
       </dict>
@@ -128,7 +128,7 @@
           <string>vstem 396 120</string>
           <string>hstem 619 83</string>
           <string>hstem 361 87</string>
-          <string>hstem -6 88</string>
+          <string>hstem 21 -21</string>
         </array>
         <key>pointTag</key>
         <string>hr04</string>

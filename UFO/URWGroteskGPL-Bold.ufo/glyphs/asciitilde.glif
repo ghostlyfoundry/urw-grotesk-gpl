@@ -46,14 +46,12 @@
         <key>stems</key>
         <array>
           <string>hstem 578 182</string>
-          <string>vstem 55 500</string>
         </array>
       </dict>
       <dict>
         <key>stems</key>
         <array>
           <string>hstem 528 183</string>
-          <string>vstem 55 500</string>
         </array>
         <key>pointTag</key>
         <string>hr01</string>
@@ -62,7 +60,6 @@
         <key>stems</key>
         <array>
           <string>hstem 578 182</string>
-          <string>vstem 55 500</string>
         </array>
         <key>pointTag</key>
         <string>hr02</string>

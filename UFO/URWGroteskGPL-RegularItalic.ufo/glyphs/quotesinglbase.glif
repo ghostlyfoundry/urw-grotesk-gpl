@@ -18,4 +18,24 @@
       <point x="-10" y="-86" type="curve" smooth="yes"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w263m-40,-140l19,-136l149,20l174,135l75,135l68,104c52,32 47,17 25,-25c13,-45 1,-66 -10,-86</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 135 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

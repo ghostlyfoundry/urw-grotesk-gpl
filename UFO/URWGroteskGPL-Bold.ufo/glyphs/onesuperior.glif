@@ -28,9 +28,22 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 647 20</string>
-          <string>vstem 161 125</string>
+          <string>hstem 667 -20</string>
+          <string>vstem 42 244</string>
+          <string>hstem 515.5 83.5</string>
+          <string>hstem 288 -21</string>
         </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 42 244</string>
+          <string>hstem 288 -21</string>
+          <string>hstem 667 -20</string>
+          <string>hstem 515.5 83.5</string>
+        </array>
+        <key>pointTag</key>
+        <string>._.2671537611712</string>
       </dict>
     </array>
   </dict>

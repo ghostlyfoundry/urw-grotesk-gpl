@@ -15,7 +15,7 @@
       <point x="482" y="-10"/>
       <point x="521" y="17" type="curve" smooth="yes"/>
       <point x="607" y="75"/>
-      <point x="655" y="148"/>
+      <point x="654.881" y="148.025"/>
       <point x="678" y="256" type="curve" smooth="yes"/>
       <point x="766" y="667" type="line"/>
       <point x="559" y="667" type="line"/>
@@ -65,15 +65,15 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>b75ce1b66ec43c701135d7a0385cd87e88f4bf825bbf1f68816152771fee8b011e04cd79ffead40beda66786a50dd422567c365ae34641e0f214e97d29d958a6</string>
+    <string>15cfa0b2508179c8566f72b85c218d95713e1697dd445b8929660bb51e108b62a043eb0008ea5190b08ad6e2d6e7d302063b41aac96ffebb6b5ae61b20edcd7e</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -221 20</string>
+          <string>hstem -200 -21</string>
           <string>hstem -17 160</string>
-          <string>hstem 647 20</string>
+          <string>hstem 667 -20</string>
           <string>vstem 59 209</string>
           <string>vstem 297 121</string>
         </array>

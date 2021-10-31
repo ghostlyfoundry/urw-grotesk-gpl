@@ -20,4 +20,24 @@
       <point x="81" y="-172" type="curve"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w500m103,-189c187,-164 232,-121 232,-68c232,-46 225,-31 208,-11l131,-58c148,-72 155,-84 155,-100c155,-131 130,-155 81,-172</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 155 77</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

@@ -89,14 +89,12 @@
           <string>hstem 367 113</string>
           <string>vstem 41 188</string>
           <string>hstem -14 123</string>
-          <string>hstem -218 20</string>
         </array>
       </dict>
       <dict>
         <key>stems</key>
         <array>
           <string>vstem 209 106</string>
-          <string>hstem -218 20</string>
           <string>hstem -14 123</string>
           <string>hstem 367 113</string>
         </array>

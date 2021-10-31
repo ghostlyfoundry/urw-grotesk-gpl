@@ -85,6 +85,10 @@
       <dict>
         <key>stems</key>
         <array>
+          <string>hstem -112 -21</string>
+          <string>hstem -13 138</string>
+          <string>hstem 529 144</string>
+          <string>hstem 759 -20</string>
           <string>vstem 40 181</string>
           <string>vstem 293 67</string>
           <string>vstem 438 200</string>

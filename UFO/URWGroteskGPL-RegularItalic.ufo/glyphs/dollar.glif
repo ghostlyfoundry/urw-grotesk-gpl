@@ -89,9 +89,39 @@
       <dict>
         <key>stems</key>
         <array>
+          <string>hstem -9 82</string>
+          <string>hstem -96 -21</string>
+          <string>vstem 392 122</string>
+          <string>hstem 595 80</string>
+          <string>hstem 769 -20</string>
+          <string>vstem 127 116</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -9 84</string>
+          <string>vstem 127 116</string>
+          <string>hstem 595 80</string>
+          <string>vstem 392 122</string>
+          <string>hstem -96 -21</string>
+          <string>hstem 769 -20</string>
+        </array>
+        <key>pointTag</key>
+        <string>._.2671747751408</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -9 82</string>
+          <string>hstem 595 80</string>
+          <string>hstem -96 -21</string>
+          <string>hstem 769 -20</string>
           <string>vstem 127 116</string>
           <string>vstem 392 122</string>
         </array>
+        <key>pointTag</key>
+        <string>._.2671747753728</string>
       </dict>
     </array>
   </dict>

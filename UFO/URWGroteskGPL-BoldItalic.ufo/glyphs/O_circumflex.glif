@@ -68,6 +68,7 @@
         <array>
           <string>hstem -17 160</string>
           <string>hstem 524 160</string>
+          <string>hstem 900 -20</string>
           <string>vstem 51 224</string>
           <string>vstem 542 224</string>
         </array>

@@ -49,15 +49,15 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 447 20</string>
+          <string>hstem 467 61</string>
           <string>vstem 50 187</string>
-          <string>hstem 0 20</string>
+          <string>hstem 21 -21</string>
         </array>
       </dict>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 0 20</string>
+          <string>hstem 21 -21</string>
           <string>vstem 50 193</string>
           <string>hstem 296 185</string>
         </array>
@@ -68,8 +68,8 @@
         <key>stems</key>
         <array>
           <string>vstem 50 187</string>
-          <string>hstem 447 20</string>
-          <string>hstem 0 20</string>
+          <string>hstem 467 61</string>
+          <string>hstem 21 -21</string>
         </array>
         <key>pointTag</key>
         <string>hr02</string>

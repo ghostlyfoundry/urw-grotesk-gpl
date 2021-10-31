@@ -24,7 +24,6 @@
         <key>stems</key>
         <array>
           <string>hstem 182 123</string>
-          <string>vstem 0 272</string>
         </array>
       </dict>
     </array>

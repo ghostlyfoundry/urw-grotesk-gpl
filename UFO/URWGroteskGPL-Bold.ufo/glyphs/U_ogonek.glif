@@ -70,7 +70,8 @@
         <array>
           <string>vstem 352 115</string>
           <string>hstem -17 160</string>
-          <string>hstem 647 20</string>
+          <string>hstem 667 -20</string>
+          <string>hstem -191 -21</string>
           <string>vstem 60 207</string>
         </array>
       </dict>
@@ -79,8 +80,9 @@
         <array>
           <string>hstem -17 160</string>
           <string>vstem 461 207</string>
-          <string>hstem 647 20</string>
+          <string>hstem 667 -20</string>
           <string>vstem 60 207</string>
+          <string>hstem -191 -21</string>
         </array>
         <key>pointTag</key>
         <string>hr01</string>
@@ -89,8 +91,9 @@
         <key>stems</key>
         <array>
           <string>vstem 352 115</string>
+          <string>hstem -191 -21</string>
           <string>hstem -17 160</string>
-          <string>hstem 647 20</string>
+          <string>hstem 667 -20</string>
           <string>vstem 60 207</string>
         </array>
         <key>pointTag</key>

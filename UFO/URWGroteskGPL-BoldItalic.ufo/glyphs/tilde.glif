@@ -55,7 +55,6 @@
         <key>stems</key>
         <array>
           <string>hstem 553 77</string>
-          <string>hstem 660 20</string>
         </array>
         <key>pointTag</key>
         <string>hr01</string>
@@ -72,7 +71,6 @@
         <key>stems</key>
         <array>
           <string>hstem 553 77</string>
-          <string>hstem 660 20</string>
         </array>
         <key>pointTag</key>
         <string>hr03</string>

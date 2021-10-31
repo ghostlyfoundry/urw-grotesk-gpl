@@ -52,12 +52,26 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -17 20</string>
+          <string>hstem 667 -20</string>
+          <string>vstem 70 187</string>
+          <string>hstem 557 45</string>
           <string>hstem 85 60</string>
-          <string>hstem 665 20</string>
-          <string>vstem 179 78</string>
+          <string>hstem 21 -21</string>
           <string>vstem 710 73</string>
         </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 70 187</string>
+          <string>hstem 667 -20</string>
+          <string>vstem 710 73</string>
+          <string>hstem 85 60</string>
+          <string>hstem 21 -21</string>
+          <string>hstem 557 45</string>
+        </array>
+        <key>pointTag</key>
+        <string>._.2671677409616</string>
       </dict>
     </array>
   </dict>

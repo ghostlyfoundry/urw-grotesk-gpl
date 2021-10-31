@@ -37,9 +37,9 @@
       <point x="487" y="229"/>
       <point x="452" y="257" type="curve" smooth="yes"/>
       <point x="422" y="281"/>
-      <point x="388" y="290"/>
+      <point x="388.047" y="290.518"/>
       <point x="302" y="298" type="curve" smooth="yes"/>
-      <point x="250" y="302"/>
+      <point x="250.042" y="302.518"/>
       <point x="229" y="314"/>
       <point x="229" y="338" type="curve" smooth="yes"/>
       <point x="229" y="356"/>
@@ -50,7 +50,7 @@
       <point x="338" y="323" type="curve"/>
     </contour>
     <contour>
-      <point x="309" y="-53" type="line" name="hr01"/>
+      <point x="309" y="-53" type="line"/>
       <point x="212" y="-53" type="line"/>
       <point x="212" y="-107" type="line" smooth="yes"/>
       <point x="212" y="-129"/>
@@ -68,7 +68,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>3a21d77d854af28dcc10fef75baf14a38431a9ca094bbb64c12fa23f74a7b8f9edde507bc3bb28a598411345285255df28c46566642614658a1be1d06d1f74ee</string>
+    <string>8a2606c4e7a4271fe3b9d216aeb5ff650b06869a1e1a1a5432380f0188848bf13139fd484a1b817e19fa731fa0ee7edb81a709bdd659585733d2ee022bd1f7a8</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -83,12 +83,23 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>vstem 212 97</string>
-          <string>hstem -14 123</string>
-          <string>hstem 367 113</string>
+          <string>hstem 298 69</string>
+          <string>vstem 302 201</string>
+          <string>vstem 41 188</string>
+          <string>hstem -53 39</string>
         </array>
         <key>pointTag</key>
-        <string>hr01</string>
+        <string>._.2671629198048</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -53 39</string>
+          <string>vstem 212 97</string>
+          <string>hstem 298 69</string>
+        </array>
+        <key>pointTag</key>
+        <string>._.2671629198528</string>
       </dict>
     </array>
   </dict>
