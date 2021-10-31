@@ -1,16 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="less" format="2">
-  <advance width="567"/>
+  <advance width="607"/>
   <unicode hex="003C"/>
   <outline>
     <contour>
-      <point x="19" y="204" type="line"/>
-      <point x="467" y="23" type="line"/>
-      <point x="529" y="93" type="line"/>
-      <point x="177" y="231" type="line"/>
-      <point x="529" y="368" type="line"/>
-      <point x="479" y="439" type="line"/>
-      <point x="19" y="261" type="line"/>
+      <point x="642.361" y="667" type="line"/>
+      <point x="76.9815" y="423" type="line"/>
+      <point x="31.966" y="255" type="line"/>
+      <point x="466.586" y="11" type="line"/>
+      <point x="518.908" y="210" type="line"/>
+      <point x="267.206" y="338" type="line"/>
+      <point x="588.503" y="466" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w607m642.36,667l76.98,423l31.97,255l466.59,11l518.91,210l267.21,338l588.5,466</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 647 20</string>
+          <string>vstem 53 500</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

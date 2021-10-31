@@ -4,12 +4,12 @@
   <unicode hex="00AC"/>
   <outline>
     <contour>
-      <point x="-2" y="250" type="line"/>
-      <point x="-2" y="193" type="line"/>
-      <point x="443" y="193" type="line"/>
-      <point x="443" y="-30" type="line"/>
-      <point x="503" y="-30" type="line"/>
-      <point x="503" y="250" type="line"/>
+      <point x="62.0718" y="330" type="line"/>
+      <point x="49.9561" y="273" type="line"/>
+      <point x="494.956" y="273" type="line"/>
+      <point x="447.556" y="50" type="line"/>
+      <point x="507.556" y="50" type="line"/>
+      <point x="567.072" y="330" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -19,14 +19,14 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w575m-2,250l-2,193l443,193l443,-30l503,-30l503,250</string>
+    <string>w575m62.07,330l49.96,273l494.96,273l447.56,50l507.56,50l567.07,330</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
           <string>hstem 193 57</string>
-          <string>vstem 443 60</string>
+          <string>vstem 472 60</string>
         </array>
       </dict>
     </array>

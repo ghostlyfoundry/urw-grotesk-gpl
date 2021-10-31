@@ -4,26 +4,26 @@
   <unicode hex="2260"/>
   <outline>
     <contour>
-      <point x="30" y="320" type="line"/>
-      <point x="30" y="263" type="line"/>
-      <point x="288" y="263" type="line"/>
-      <point x="226" y="184" type="line"/>
-      <point x="30" y="184" type="line"/>
-      <point x="30" y="126" type="line"/>
-      <point x="180" y="126" type="line"/>
-      <point x="99" y="25" type="line"/>
-      <point x="146" y="-1" type="line"/>
-      <point x="245" y="126" type="line"/>
-      <point x="541" y="126" type="line"/>
-      <point x="541" y="184" type="line"/>
-      <point x="291" y="184" type="line"/>
-      <point x="353" y="263" type="line"/>
-      <point x="541" y="263" type="line"/>
-      <point x="541" y="320" type="line"/>
-      <point x="398" y="320" type="line"/>
-      <point x="479" y="422" type="line"/>
-      <point x="434" y="448" type="line"/>
-      <point x="331" y="320" type="line"/>
+      <point x="62.9463" y="438" type="line"/>
+      <point x="50.8305" y="381" type="line"/>
+      <point x="308.831" y="381" type="line"/>
+      <point x="230.039" y="302" type="line"/>
+      <point x="34.0386" y="302" type="line"/>
+      <point x="21.7103" y="244" type="line"/>
+      <point x="171.71" y="244" type="line"/>
+      <point x="69.2421" y="143" type="line"/>
+      <point x="110.716" y="117" type="line"/>
+      <point x="236.71" y="244" type="line"/>
+      <point x="532.71" y="244" type="line"/>
+      <point x="545.039" y="302" type="line"/>
+      <point x="295.039" y="302" type="line"/>
+      <point x="373.831" y="381" type="line"/>
+      <point x="561.831" y="381" type="line"/>
+      <point x="573.946" y="438" type="line"/>
+      <point x="430.946" y="438" type="line"/>
+      <point x="533.627" y="540" type="line"/>
+      <point x="494.154" y="566" type="line"/>
+      <point x="363.946" y="438" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -33,7 +33,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>133a9700405b676988bc4e6d6b32cb7956f488f5ac1c8c86fccc6bca903db0f6fbb0c0783e55db707d325c8952539eb5695d6978933d81156fe49e1620212ae3</string>
+    <string>ce1445d6f4da859263715c465832ba5a0cd8ae31e3ba1e98b3581bdefb36067cbbee61e42f216c7ec2d9ec34e7c7a3897a376c15b7decae0cc3ce61af3ecf2ee</string>
     <key>hintSetList</key>
     <array>
       <dict>

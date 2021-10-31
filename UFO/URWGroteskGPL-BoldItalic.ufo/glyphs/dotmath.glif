@@ -1,21 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dotmath" format="2">
-  <advance width="293"/>
+  <advance width="308"/>
   <unicode hex="22C5"/>
   <outline>
     <contour>
-      <point x="157" y="341" type="curve" smooth="yes"/>
-      <point x="96" y="341"/>
-      <point x="52" y="299"/>
-      <point x="52" y="242" type="curve" smooth="yes"/>
-      <point x="52" y="185"/>
-      <point x="91" y="147"/>
-      <point x="149" y="147" type="curve" smooth="yes"/>
-      <point x="209" y="147"/>
-      <point x="252" y="190"/>
-      <point x="252" y="250" type="curve" smooth="yes"/>
-      <point x="252" y="304"/>
-      <point x="213" y="341"/>
+      <point x="186.411" y="447" type="curve" smooth="yes"/>
+      <point x="124.411" y="447"/>
+      <point x="71.6649" y="399"/>
+      <point x="62.8108" y="336" type="curve" smooth="yes"/>
+      <point x="53.5351" y="270"/>
+      <point x="91.7892" y="222"/>
+      <point x="154.789" y="222" type="curve" smooth="yes"/>
+      <point x="215.789" y="222"/>
+      <point x="268.535" y="270"/>
+      <point x="277.53" y="334" type="curve" smooth="yes"/>
+      <point x="286.665" y="399"/>
+      <point x="247.411" y="447"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>8701babb203061622577bb49a310d0a201ce012ec111c691eb64a992a9bc3124183ee1a2a7de851b3c3c7a50a1a66628f13c8a163b958325248e06e77c7540cf</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 147 225</string>
+          <string>vstem 47 215</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

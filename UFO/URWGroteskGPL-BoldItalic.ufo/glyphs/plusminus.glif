@@ -4,24 +4,24 @@
   <unicode hex="00B1"/>
   <outline>
     <contour>
-      <point x="47" y="432" type="line"/>
-      <point x="47" y="349" type="line"/>
-      <point x="272" y="349" type="line"/>
-      <point x="272" y="125" type="line"/>
-      <point x="360" y="125" type="line"/>
-      <point x="360" y="349" type="line"/>
-      <point x="585" y="349" type="line"/>
-      <point x="585" y="432" type="line"/>
-      <point x="360" y="432" type="line"/>
-      <point x="360" y="657" type="line"/>
-      <point x="272" y="657" type="line"/>
-      <point x="272" y="432" type="line"/>
+      <point x="66.2498" y="432" type="line"/>
+      <point x="51.6147" y="349" type="line"/>
+      <point x="276.615" y="349" type="line"/>
+      <point x="237.117" y="125" type="line"/>
+      <point x="325.117" y="125" type="line"/>
+      <point x="364.615" y="349" type="line"/>
+      <point x="589.615" y="349" type="line"/>
+      <point x="604.25" y="432" type="line"/>
+      <point x="379.25" y="432" type="line"/>
+      <point x="418.923" y="657" type="line"/>
+      <point x="330.923" y="657" type="line"/>
+      <point x="291.25" y="432" type="line"/>
     </contour>
     <contour>
-      <point x="47" y="85" type="line"/>
-      <point x="47" y="0" type="line"/>
-      <point x="585" y="0" type="line"/>
-      <point x="585" y="85" type="line"/>
+      <point x="5.06438" y="85" type="line"/>
+      <point x="-9.92341" y="0" type="line"/>
+      <point x="528.077" y="0" type="line"/>
+      <point x="543.064" y="85" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -31,7 +31,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w633m47,432l47,349l272,349l272,125l360,125l360,349l585,349l585,432l360,432l360,657l272,657l272,432m47,85l47,0l585,0l585,85</string>
+    <string>55c3d1f22aa3d984a78daa0c1d69472de9919ba2ebc92690a74002404b29be4efba39cae1eb5d9f97997e391075bd558867dcb82699e5b06ddc43db13c795c0c</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -39,7 +39,7 @@
         <array>
           <string>hstem 0 85</string>
           <string>hstem 349 83</string>
-          <string>vstem 272 88</string>
+          <string>vstem 273 88</string>
         </array>
       </dict>
     </array>
