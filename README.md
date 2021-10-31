@@ -30,4 +30,4 @@ Since the font software in this repo is directly derived from URW's old Type-1 f
 > of the conditions or license applying to the document itself.
 > ```
 
-I couldn't find out if URW/URW++ made the source font *U004006T* also available under additional licenses like AGPL or LPPL as they did with other fonts. If you know about later versions of the font released under a free license, I'd be happy to hear about it.
+I couldn't find out if URW/URW++ made the source font *U004006T* also available under additional licenses, like LPPL, as they did with other fonts. If you know about this or later versions of this font released under a free license, I'd be happy to hear about it.
