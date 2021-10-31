@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="daggerdbl" format="2">
+  <advance width="550"/>
+  <unicode hex="2021"/>
+  <outline>
+    <contour>
+      <point x="302.282" y="677.6" type="line"/>
+      <point x="247.421" y="677.6" type="line" name="hr01"/>
+      <point x="261.255" y="462.653" type="line"/>
+      <point x="65.8981" y="470.126" type="line" name="hr02"/>
+      <point x="65.8981" y="421.11" type="line"/>
+      <point x="258.813" y="433.83" type="line"/>
+      <point x="258.813" y="115.513" type="line"/>
+      <point x="65.8981" y="128.233" type="line"/>
+      <point x="65.8981" y="78.2762" type="line"/>
+      <point x="260.086" y="86.812" type="line"/>
+      <point x="247.31" y="-129.316" type="line" name="hr03"/>
+      <point x="302.393" y="-129.316" type="line"/>
+      <point x="289.617" y="86.812" type="line"/>
+      <point x="483.805" y="78.2762" type="line"/>
+      <point x="483.805" y="128.233" type="line"/>
+      <point x="290.891" y="115.513" type="line"/>
+      <point x="290.891" y="433.83" type="line"/>
+      <point x="483.805" y="421.11" type="line"/>
+      <point x="483.805" y="470.126" type="line"/>
+      <point x="288.449" y="462.653" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>acc21c6b2020df17c4f2bb28a74179154609b7dc6f77de53fea2794be72a6a8a18091d7b0128993c7a27fbfcf39debe1eb6f81d690998eb8d3c905f4b59ecee8</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 677 -20</string>
+          <string>hstem 95.87 39.26</string>
+          <string>hstem -122 2.13</string>
+          <string>vstem 256.87 42.26</string>
+          <string>hstem 420.87 38.76</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 677 -20</string>
+          <string>hstem 95.87 39.26</string>
+          <string>hstem -122 2.13</string>
+          <string>vstem 247 68</string>
+          <string>hstem 420.87 38.76</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr01</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 95.87 39.26</string>
+          <string>hstem -122 2.13</string>
+          <string>vstem 65 250</string>
+          <string>hstem 420.87 38.76</string>
+          <string>hstem 677 -20</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr02</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 95.87 39.26</string>
+          <string>hstem -122 2.13</string>
+          <string>vstem 247 68</string>
+          <string>hstem 420.87 38.76</string>
+          <string>hstem 677 -20</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr03</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

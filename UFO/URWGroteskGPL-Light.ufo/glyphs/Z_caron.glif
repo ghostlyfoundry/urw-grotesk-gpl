@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zcaron" format="2">
+  <advance width="512"/>
+  <unicode hex="017D"/>
+  <outline>
+    <contour>
+      <point x="38.1589" y="667" type="line"/>
+      <point x="38.1589" y="607.363" type="line"/>
+      <point x="388.924" y="607.363" type="line"/>
+      <point x="2.11994" y="68.9578" type="line"/>
+      <point x="2.11994" y="0" type="line"/>
+      <point x="519.664" y="0" type="line"/>
+      <point x="519.664" y="60.6972" type="line"/>
+      <point x="97.9078" y="60.6972" type="line"/>
+      <point x="480.445" y="593.796" type="line"/>
+      <point x="480.445" y="667" type="line"/>
+    </contour>
+    <contour>
+      <point x="409.468" y="904.453" type="line"/>
+      <point x="259.979" y="784.425" type="line"/>
+      <point x="108.09" y="903.397" type="line"/>
+      <point x="231.761" y="763.178" type="line"/>
+      <point x="283.71" y="763.178" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>046e3013eb1fb7ca1d12c8374a339a1693b728a2fcdf0dc9eba23599cb55aa18911b81bf1be8cc0c4952d5d2852dd73500974be612c242aff8151749d4f3ac1f</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 95</string>
+          <string>hstem 573 94</string>
+          <string>hstem 667 53</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

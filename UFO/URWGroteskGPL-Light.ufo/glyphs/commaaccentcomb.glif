@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="commaaccentcomb" format="2">
+  <advance width="457"/>
+  <unicode hex="0326"/>
+  <unicode hex="F6C3"/>
+  <outline>
+    <contour>
+      <point x="245.331" y="-96.1784" type="line"/>
+      <point x="207.954" y="-96.1784" type="line"/>
+      <point x="207.954" y="-136.597" type="line" smooth="yes"/>
+      <point x="207.954" y="-157.24"/>
+      <point x="201.019" y="-185.593"/>
+      <point x="187.163" y="-216.77" type="curve" smooth="yes"/>
+      <point x="171.871" y="-251.318" type="line"/>
+      <point x="180.389" y="-250.785" type="line"/>
+      <point x="245.331" y="-159.867" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>fb469210caab1fe6b50485858fb86f44ce5ef5a524ba946a3ec2f8fb867d7a3dbc3265554cad6f32de15cefbe2f9e3c7cc9dcd070999a09cbae0b16506a460ca</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -53 -20</string>
+          <string>vstem 216 73</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

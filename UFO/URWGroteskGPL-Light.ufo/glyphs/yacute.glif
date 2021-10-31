@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yacute" format="2">
+  <advance width="444"/>
+  <unicode hex="00FD"/>
+  <outline>
+    <contour>
+      <point x="453.108" y="448" type="line"/>
+      <point x="378.209" y="448" type="line"/>
+      <point x="230.757" y="87.83" type="line"/>
+      <point x="100.225" y="448" type="line"/>
+      <point x="10.5167" y="448" type="line"/>
+      <point x="183.804" y="-0.876358" type="line"/>
+      <point x="145.686" y="-87.8325" type="line" smooth="yes"/>
+      <point x="118.358" y="-151.183"/>
+      <point x="69.3024" y="-185.964"/>
+      <point x="8.58929" y="-185.964" type="curve" smooth="yes"/>
+      <point x="-4.55379" y="-185.964"/>
+      <point x="-16.56" y="-184.444"/>
+      <point x="-31.8746" y="-180.825" type="curve"/>
+      <point x="-20.1793" y="-239.302" type="line"/>
+      <point x="1.87724" y="-243.397"/>
+      <point x="16.4166" y="-245.089"/>
+      <point x="31.4643" y="-245.089" type="curve" smooth="yes"/>
+      <point x="128.883" y="-245.089"/>
+      <point x="175.143" y="-197.501"/>
+      <point x="252.734" y="-16.4567" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="345.763" y="724.309" type="line"/>
+      <point x="220.589" y="576.377" type="line"/>
+      <point x="226.719" y="575.287" type="line"/>
+      <point x="401.903" y="709.565" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>a23d42231ac6c466e7d24da788509d65177b26d158a59ce51174ca4290caeb984878d4fcadc6305405fc764e2bbf97119cef5a3a994d56afa104564e68147485</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -225 91</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

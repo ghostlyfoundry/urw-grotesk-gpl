@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="period" format="2">
+  <advance width="218"/>
+  <unicode hex="002E"/>
+  <outline>
+    <contour>
+      <point x="108.436" y="90.3763" type="curve" smooth="yes"/>
+      <point x="79.3339" y="90.3763"/>
+      <point x="56.3583" y="67.5324"/>
+      <point x="56.3583" y="39.3583" type="curve" smooth="yes"/>
+      <point x="56.3583" y="9.32384"/>
+      <point x="79.3339" y="-13.7796"/>
+      <point x="108.436" y="-13.7796" type="curve" smooth="yes"/>
+      <point x="137.539" y="-13.7796"/>
+      <point x="160.514" y="9.19596"/>
+      <point x="160.514" y="38.2984" type="curve" smooth="yes"/>
+      <point x="160.514" y="67.4007"/>
+      <point x="137.539" y="90.3763"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>ab53901329715c0f451a60bf2f1acacca7ec564cdc2cbc3df93337817c2687b1d4674b4240cdd62725dc4f29c3d599841b16d7f57059e6fa3d9a8cc3024ffffa</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -13 136</string>
+          <string>vstem 56 136</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

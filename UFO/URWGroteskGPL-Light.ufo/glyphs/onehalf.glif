@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="onehalf" format="2">
+  <advance width="869"/>
+  <unicode hex="00BD"/>
+  <outline>
+    <contour>
+      <point x="228.412" y="667" type="line"/>
+      <point x="200.12" y="667" type="line"/>
+      <point x="175.876" y="624.55"/>
+      <point x="144.123" y="606.972"/>
+      <point x="70.1979" y="599.769" type="curve" name="hr01"/>
+      <point x="70.1979" y="588.355" type="line"/>
+      <point x="185.735" y="594.714" type="line"/>
+      <point x="185.735" y="283.012" type="line"/>
+      <point x="228.412" y="283.012" type="line"/>
+    </contour>
+    <contour>
+      <point x="669.808" y="681.819" type="line"/>
+      <point x="655.539" y="684.197" type="line"/>
+      <point x="202.418" y="-13.6077" type="line"/>
+      <point x="218.562" y="-16.2021" type="line"/>
+    </contour>
+    <contour>
+      <point x="818.816" y="26.7781" type="line"/>
+      <point x="614.001" y="26.7781" type="line"/>
+      <point x="764.787" y="175.071"/>
+      <point x="807.156" y="234.575"/>
+      <point x="807.156" y="297.991" type="curve" smooth="yes"/>
+      <point x="807.156" y="359.226"/>
+      <point x="765.474" y="392.468"/>
+      <point x="689.36" y="392.468" type="curve" smooth="yes"/>
+      <point x="632.35" y="392.468"/>
+      <point x="602.655" y="372.85"/>
+      <point x="580.48" y="317.833" type="curve"/>
+      <point x="614.141" y="299.295" type="line"/>
+      <point x="625.412" y="345.448"/>
+      <point x="647.468" y="364.63"/>
+      <point x="689.36" y="364.63" type="curve" smooth="yes"/>
+      <point x="735.828" y="364.63"/>
+      <point x="763.418" y="335.738"/>
+      <point x="763.418" y="289.511" type="curve" smooth="yes"/>
+      <point x="763.418" y="219.289"/>
+      <point x="718.474" y="157.047"/>
+      <point x="573.684" y="29.2612" type="curve"/>
+      <point x="573.684" y="0" type="line"/>
+      <point x="818.816" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>95c1f4a468d59025f11e73763487545abcd8008c32dcba284187d3b0623d067e05c912beb9ca23885480c9aa0fbf51840131ddb9b0f03bf317acd3bd0721fad7</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 667 -20</string>
+          <string>hstem 344 64</string>
+          <string>hstem 575.87 7.26</string>
+          <string>vstem 179 78</string>
+          <string>vstem 724 79</string>
+          <string>hstem 0 63</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 344 64</string>
+          <string>hstem 575.87 7.26</string>
+          <string>vstem 70 187</string>
+          <string>vstem 724 79</string>
+          <string>hstem 667 -20</string>
+          <string>hstem 0 63</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr01</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="twosuperior" format="2">
+  <advance width="339"/>
+  <unicode hex="00B2"/>
+  <outline>
+    <contour>
+      <point x="288.711" y="309.79" type="line"/>
+      <point x="83.8965" y="309.79" type="line"/>
+      <point x="234.682" y="458.083"/>
+      <point x="277.051" y="517.587"/>
+      <point x="277.051" y="581.003" type="curve" smooth="yes"/>
+      <point x="277.051" y="642.238"/>
+      <point x="235.369" y="675.48"/>
+      <point x="159.255" y="675.48" type="curve" smooth="yes"/>
+      <point x="102.246" y="675.48"/>
+      <point x="72.5502" y="655.862"/>
+      <point x="50.3748" y="600.845" type="curve"/>
+      <point x="84.0361" y="582.307" type="line"/>
+      <point x="95.3072" y="628.46"/>
+      <point x="117.363" y="647.642"/>
+      <point x="159.255" y="647.642" type="curve" smooth="yes"/>
+      <point x="205.723" y="647.642"/>
+      <point x="233.313" y="618.75"/>
+      <point x="233.313" y="572.523" type="curve" smooth="yes"/>
+      <point x="233.313" y="502.301"/>
+      <point x="188.369" y="440.059"/>
+      <point x="43.5787" y="312.273" type="curve"/>
+      <point x="43.5787" y="283.012" type="line"/>
+      <point x="288.711" y="283.012" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>fa4a1e5e2f4e408229c04948d5030b61a900c5dd0af3deeae17cd37ea00dbe55006644bd351613ab407ca32927b7ddfc10110724c09b94cc98a35d05612b271d</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 267 63</string>
+          <string>hstem 611 64</string>
+          <string>vstem 222 79</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

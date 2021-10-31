@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yen" format="2">
+  <advance width="546"/>
+  <unicode hex="00A5"/>
+  <outline>
+    <contour>
+      <point x="450.243" y="667" type="line"/>
+      <point x="276.402" y="371.584" type="line"/>
+      <point x="107.106" y="667" type="line"/>
+      <point x="7.58709" y="667" type="line"/>
+      <point x="153.863" y="421.087" type="line"/>
+      <point x="25.2789" y="421.087" type="line"/>
+      <point x="25.2789" y="404.909" type="line"/>
+      <point x="163.939" y="404.909" type="line"/>
+      <point x="205.873" y="335.018" type="line"/>
+      <point x="224.882" y="277.991" type="line"/>
+      <point x="25.2789" y="277.991" type="line"/>
+      <point x="25.2789" y="260.753" type="line"/>
+      <point x="227.733" y="260.753" type="line"/>
+      <point x="227.733" y="0" type="line"/>
+      <point x="308.57" y="0" type="line"/>
+      <point x="308.57" y="260.753" type="line"/>
+      <point x="520.564" y="260.753" type="line"/>
+      <point x="520.564" y="277.991" type="line"/>
+      <point x="307.181" y="277.991" type="line"/>
+      <point x="325.138" y="331.862" type="line"/>
+      <point x="369.218" y="404.909" type="line"/>
+      <point x="520.564" y="404.909" type="line"/>
+      <point x="520.564" y="421.087" type="line"/>
+      <point x="378.868" y="421.087" type="line"/>
+      <point x="528.324" y="667" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>2efa977b2dfd79d6dd2d929ffbc9c202c19a3dcbe35b88c6d681c20eb8d75a5829e3b13cfe45c74e36d5a96b880de2c9ce90fc9dc40bbe83e8a355317532f6bd</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 2.13</string>
+          <string>hstem 246 54</string>
+          <string>hstem 382 53</string>
+          <string>hstem 667 -20</string>
+          <string>vstem 229 114</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

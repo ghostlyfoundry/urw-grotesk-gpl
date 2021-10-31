@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guillemotleft" format="2">
+  <advance width="398"/>
+  <unicode hex="00AB"/>
+  <outline>
+    <contour>
+      <point x="351.851" y="0" type="line"/>
+      <point x="285.861" y="218.347" type="line"/>
+      <point x="348.001" y="434.867" type="line"/>
+      <point x="331.427" y="434.867" type="line"/>
+      <point x="215.941" y="218.451" type="line"/>
+      <point x="331.477" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="175.896" y="0" type="line"/>
+      <point x="109.906" y="218.347" type="line"/>
+      <point x="172.046" y="434.867" type="line"/>
+      <point x="155.472" y="434.867" type="line"/>
+      <point x="39.986" y="218.451" type="line"/>
+      <point x="155.522" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>8f0a40427950104d45cebb1905abff5f454c72fdc9562b8058c29c6cb2e0c6f5bfe0af0d6d001ad5c401a3a5514dfe3ebd8fc84b4ffcdcb35ec39c62b1328a42</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 2.13</string>
+          <string>hstem 448 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>
