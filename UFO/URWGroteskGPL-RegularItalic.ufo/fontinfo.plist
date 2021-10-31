@@ -10,7 +10,7 @@
   <string>Copyright (c) 2021 ghostlyfoundry
 Copyright (c) 1992 URW GmbH, Hamburg, Germany</string>
   <key>descender</key>
-  <integer>-213</integer>
+  <integer>-228</integer>
   <key>familyName</key>
   <string>URW Grotesk GPL</string>
   <key>guidelines</key>
@@ -20,6 +20,14 @@ Copyright (c) 1992 URW GmbH, Hamburg, Germany</string>
     <integer>0</integer>
     <key>name</key>
     <string>m</string>
+    <key>x</key>
+    <integer>0</integer>
+    <key>y</key>
+    <integer>250</integer>
+  </dict>
+  <dict>
+    <key>angle</key>
+    <integer>0</integer>
     <key>x</key>
     <integer>0</integer>
     <key>y</key>
@@ -128,9 +136,9 @@ of the conditions or license applying to the document itself.</string>
   <key>openTypeOS2TypoAscender</key>
   <integer>700</integer>
   <key>openTypeOS2TypoDescender</key>
-  <integer>-213</integer>
+  <integer>-228</integer>
   <key>openTypeOS2TypoLineGap</key>
-  <integer>287</integer>
+  <integer>290</integer>
   <key>openTypeOS2UnicodeRanges</key>
   <array>
     <integer>0</integer>
@@ -144,9 +152,9 @@ of the conditions or license applying to the document itself.</string>
   <key>openTypeOS2WidthClass</key>
   <integer>5</integer>
   <key>openTypeOS2WinAscent</key>
-  <integer>916</integer>
+  <integer>977</integer>
   <key>openTypeOS2WinDescent</key>
-  <integer>223</integer>
+  <integer>500</integer>
   <key>postscriptBlueFuzz</key>
   <integer>1</integer>
   <key>postscriptBlueScale</key>
