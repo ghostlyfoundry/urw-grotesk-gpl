@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="four" format="2">
-  <advance width="553"/>
+  <advance width="543"/>
   <unicode hex="0034"/>
   <outline>
     <contour>
-      <point x="422.267" y="667" type="line"/>
-      <point x="318.684" y="667" type="line"/>
-      <point x="38.2789" y="222.254" type="line"/>
-      <point x="38.2789" y="152.636" type="line"/>
-      <point x="346.73" y="152.636" type="line"/>
-      <point x="346.73" y="0" type="line"/>
-      <point x="422.267" y="0" type="line"/>
-      <point x="422.267" y="152.636" type="line"/>
-      <point x="517.664" y="152.636" type="line"/>
-      <point x="517.664" y="208.033" type="line"/>
-      <point x="422.267" y="208.033" type="line"/>
+      <point x="406" y="667" type="line"/>
+      <point x="316" y="667" type="line"/>
+      <point x="41" y="212" type="line"/>
+      <point x="41" y="149" type="line"/>
+      <point x="333" y="149" type="line"/>
+      <point x="333" y="0" type="line"/>
+      <point x="406" y="0" type="line"/>
+      <point x="406" y="149" type="line"/>
+      <point x="498" y="149" type="line"/>
+      <point x="498" y="212" type="line"/>
+      <point x="406" y="212" type="line"/>
     </contour>
     <contour>
-      <point x="346.73" y="642.007" type="line"/>
-      <point x="346.73" y="208.033" type="line"/>
-      <point x="92.5647" y="208.033" type="line"/>
+      <point x="333" y="574" type="line"/>
+      <point x="333" y="212" type="line"/>
+      <point x="125" y="212" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -29,16 +29,16 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>44329f903f66251d3fd660527cab30f8713f5e2ddf1d7b94854c63a1c337e18ac68088055da550107f536f01516873bc5a8c9493d1a9e3df631d71e2601e45b9</string>
+    <string>w543m406,667l316,667l41,212l41,149l333,149l333,0l406,0l406,149l498,149l498,212l406,212m333,574l333,212l125,212</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 0 2.13</string>
-          <string>hstem 144 90</string>
-          <string>hstem 667 -20</string>
-          <string>vstem 329 109</string>
+          <string>hstem 0 20</string>
+          <string>hstem 149 63</string>
+          <string>hstem 647 20</string>
+          <string>vstem 333 73</string>
         </array>
       </dict>
     </array>

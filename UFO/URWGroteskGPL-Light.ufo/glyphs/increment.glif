@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="increment" format="2">
-  <advance width="588"/>
+  <advance width="607"/>
   <unicode hex="2206"/>
   <outline>
     <contour>
-      <point x="6.76099" y="0" type="line"/>
-      <point x="583.689" y="0" type="line"/>
-      <point x="314.392" y="659.347" type="line"/>
+      <point x="6.88865" y="0" type="line"/>
+      <point x="602.459" y="0" type="line"/>
+      <point x="324.46" y="680.652" type="line"/>
     </contour>
     <contour>
-      <point x="19.2593" y="14.0585" type="line"/>
-      <point x="277.485" y="569.304" type="line"/>
-      <point x="506.615" y="14.0585" type="line"/>
+      <point x="58.0498" y="36.2234" type="line"/>
+      <point x="287.234" y="529.023" type="line"/>
+      <point x="490.595" y="36.2234" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -21,7 +21,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w588m6.76,0l583.69,0l314.39,659.35m19.26,14.06l277.49,569.3l506.61,14.06</string>
+    <string>w607m6.89,0l602.46,0l324.46,680.65m58.05,36.22l287.23,529.02l490.59,36.22</string>
     <key>hintSetList</key>
     <array>
       <dict>

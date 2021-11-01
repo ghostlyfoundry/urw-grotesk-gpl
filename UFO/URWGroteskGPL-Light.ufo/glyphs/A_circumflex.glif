@@ -1,33 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Acircumflex" format="2">
-  <advance width="601"/>
+  <advance width="599"/>
   <unicode hex="00C2"/>
   <outline>
     <contour>
-      <point x="354.508" y="667" type="line"/>
-      <point x="249.64" y="667" type="line"/>
-      <point x="-8.35954" y="0" type="line"/>
-      <point x="75.6414" y="0" type="line"/>
-      <point x="144.539" y="189.735" type="line"/>
-      <point x="441.802" y="189.735" type="line"/>
-      <point x="510.7" y="0" type="line"/>
-      <point x="601.508" y="0" type="line"/>
+      <point x="337" y="667" type="line"/>
+      <point x="263" y="667" type="line"/>
+      <point x="-3" y="0" type="line"/>
+      <point x="83" y="0" type="line"/>
+      <point x="163" y="216" type="line"/>
+      <point x="434" y="216" type="line"/>
+      <point x="517" y="0" type="line"/>
+      <point x="603" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="424.375" y="243.012" type="line"/>
-      <point x="164.84" y="243.012" type="line"/>
-      <point x="296.646" y="600.382" type="line"/>
+      <point x="408" y="281" type="line"/>
+      <point x="189" y="281" type="line"/>
+      <point x="297" y="569" type="line"/>
     </contour>
     <contour>
-      <point x="326.658" y="904.433" type="line"/>
-      <point x="274.593" y="904.433" type="line"/>
-      <point x="127.924" y="739.431" type="line"/>
-      <point x="117.366" y="772.23" type="line"/>
-      <point x="150.312" y="764.817" type="line"/>
-      <point x="300.432" y="886.447" type="line"/>
-      <point x="459.263" y="760.993" type="line"/>
-      <point x="441.777" y="764.64" type="line"/>
-      <point x="450.354" y="766.897" type="line"/>
+      <point x="328" y="878" type="line"/>
+      <point x="272" y="878" type="line"/>
+      <point x="140" y="719" type="line"/>
+      <point x="172" y="713" type="line"/>
+      <point x="300" y="829" type="line"/>
+      <point x="430" y="713" type="line"/>
+      <point x="460" y="719" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -37,16 +35,15 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>0d8a1054942b61795f6d995fe3847244db792cd4ba194b47fac4b15c94d14ab417d85f0cfa0d72aed4977c4309452e3419696757c40351c01d2f0b02bb231519</string>
+    <string>6285fee2df1a7539a6d719913883635783b572f9866a74c2e4e6498b40d110cb0bffeac8dea14679962a799c0c8dd494cae87a0b984235d9ecce75c2a501d02b</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 0 2.13</string>
-          <string>hstem 179 88</string>
-          <string>hstem 667 -20</string>
-          <string>hstem 891 -20</string>
+          <string>hstem 0 20</string>
+          <string>hstem 216 65</string>
+          <string>hstem 647 20</string>
         </array>
       </dict>
     </array>

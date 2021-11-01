@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Agrave" format="2">
-  <advance width="601"/>
+  <advance width="599"/>
   <unicode hex="00C0"/>
   <outline>
     <contour>
-      <point x="354.508" y="667" type="line"/>
-      <point x="249.64" y="667" type="line"/>
-      <point x="-8.35954" y="0" type="line"/>
-      <point x="75.6414" y="0" type="line"/>
-      <point x="144.539" y="189.735" type="line"/>
-      <point x="441.802" y="189.735" type="line"/>
-      <point x="510.7" y="0" type="line"/>
-      <point x="601.508" y="0" type="line"/>
+      <point x="337" y="667" type="line"/>
+      <point x="263" y="667" type="line"/>
+      <point x="-3" y="0" type="line"/>
+      <point x="83" y="0" type="line"/>
+      <point x="163" y="216" type="line"/>
+      <point x="434" y="216" type="line"/>
+      <point x="517" y="0" type="line"/>
+      <point x="603" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="424.375" y="243.012" type="line"/>
-      <point x="164.84" y="243.012" type="line"/>
-      <point x="296.646" y="600.382" type="line"/>
+      <point x="408" y="281" type="line"/>
+      <point x="189" y="281" type="line"/>
+      <point x="297" y="569" type="line"/>
     </contour>
     <contour>
-      <point x="207.057" y="904.502" type="line"/>
-      <point x="153.787" y="887.478" type="line"/>
-      <point x="325.8" y="758.034" type="line"/>
-      <point x="330.653" y="758.896" type="line"/>
+      <point x="207" y="880" type="line"/>
+      <point x="128" y="864" type="line"/>
+      <point x="310" y="712" type="line"/>
+      <point x="344" y="718" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -32,15 +32,15 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>3158e83fecd6d31c2b0b5b017ec7dbb8e42bd62f4dd4c569db77b152fbf7b855c0f9a9d877bf47bf7c1853df30b810a3934e949a4186153d49e967326eb3360f</string>
+    <string>w599m337,667l263,667l-3,0l83,0l163,216l434,216l517,0l603,0m408,281l189,281l297,569m207,880l128,864l310,712l344,718</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 0 2.13</string>
-          <string>hstem 179 88</string>
-          <string>hstem 667 -20</string>
+          <string>hstem 0 20</string>
+          <string>hstem 216 65</string>
+          <string>hstem 647 20</string>
         </array>
       </dict>
     </array>

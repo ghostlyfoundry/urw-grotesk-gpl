@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dagger" format="2">
-  <advance width="551"/>
+  <advance width="543"/>
   <unicode hex="2020"/>
   <outline>
     <contour>
-      <point x="306.817" y="677.6" type="line"/>
-      <point x="242.886" y="677.6" type="line"/>
-      <point x="256.707" y="403.307" type="line"/>
-      <point x="61.6582" y="410.768" type="line"/>
-      <point x="61.6582" y="356.452" type="line"/>
-      <point x="255.128" y="369.208" type="line"/>
-      <point x="242.372" y="-128.256" type="line"/>
-      <point x="307.287" y="-128.256" type="line"/>
-      <point x="293.468" y="369.203" type="line"/>
-      <point x="488.045" y="356.444" type="line"/>
-      <point x="488.045" y="410.768" type="line"/>
-      <point x="292.996" y="403.307" type="line"/>
+      <point x="310" y="667" type="line"/>
+      <point x="233" y="667" type="line"/>
+      <point x="246" y="395" type="line"/>
+      <point x="59" y="403" type="line"/>
+      <point x="59" y="333" type="line"/>
+      <point x="246" y="347" type="line"/>
+      <point x="233" y="-131" type="line"/>
+      <point x="310" y="-131" type="line"/>
+      <point x="296" y="347" type="line"/>
+      <point x="484" y="333" type="line"/>
+      <point x="484" y="403" type="line"/>
+      <point x="296" y="395" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -25,16 +25,13 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>3f1afec97ec49ffb07e23dba26a26c54f9134d85acc3ec60b1fbe04e4d7da5cacf8458bfb7e67b03a5c32cc93f9eb2f525cb9efcddca2264b8a62ed85f612342</string>
+    <string>w543m310,667l233,667l246,395l59,403l59,333l246,347l233,-131l310,-131l296,347l484,333l484,403l296,395</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -121 2.13</string>
-          <string>hstem 359.87 43.76</string>
-          <string>hstem 677 -20</string>
-          <string>vstem 252.87 49.76</string>
+          <string>hstem 647 20</string>
         </array>
       </dict>
     </array>

@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Zacute" format="2">
-  <advance width="512"/>
+  <advance width="491"/>
   <unicode hex="0179"/>
   <outline>
     <contour>
-      <point x="38.1589" y="667" type="line"/>
-      <point x="38.1589" y="607.363" type="line"/>
-      <point x="388.924" y="607.363" type="line"/>
-      <point x="2.11994" y="68.9578" type="line"/>
-      <point x="2.11994" y="0" type="line"/>
-      <point x="519.664" y="0" type="line"/>
-      <point x="519.664" y="60.6972" type="line"/>
-      <point x="97.9078" y="60.6972" type="line"/>
-      <point x="480.445" y="593.796" type="line"/>
-      <point x="480.445" y="667" type="line"/>
+      <point x="37" y="667" type="line"/>
+      <point x="37" y="604" type="line"/>
+      <point x="377" y="604" type="line"/>
+      <point x="0" y="65" type="line"/>
+      <point x="0" y="0" type="line"/>
+      <point x="504" y="0" type="line"/>
+      <point x="504" y="65" type="line"/>
+      <point x="89" y="65" type="line"/>
+      <point x="466" y="601" type="line"/>
+      <point x="466" y="667" type="line"/>
     </contour>
     <contour>
-      <point x="361.335" y="910.476" type="line"/>
-      <point x="240.424" y="768.426" type="line"/>
-      <point x="245.118" y="767.592" type="line"/>
-      <point x="414.135" y="897.142" type="line"/>
+      <point x="328" y="880" type="line"/>
+      <point x="191" y="718" type="line"/>
+      <point x="226" y="712" type="line"/>
+      <point x="407" y="864" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -29,14 +29,14 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>378d122be580573fbea73dc8958b053cfbd0202da9d01c1e58d3c1bc23aa03ba9e74d26097bb72d709a8735ec8907efbb1e889db9d5fb0aaede04d6379f24857</string>
+    <string>w491m37,667l37,604l377,604l0,65l0,0l504,0l504,65l89,65l466,601l466,667m328,880l191,718l226,712l407,864</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 0 95</string>
-          <string>hstem 573 94</string>
+          <string>hstem 0 65</string>
+          <string>hstem 604 63</string>
         </array>
       </dict>
     </array>

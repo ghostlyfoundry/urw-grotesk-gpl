@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lcaron" format="2">
-  <advance width="323"/>
+  <advance width="303"/>
   <unicode hex="013E"/>
   <outline>
     <contour>
-      <point x="148.982" y="722.5" type="line"/>
-      <point x="68.0714" y="722.5" type="line"/>
-      <point x="68.0714" y="0" type="line"/>
-      <point x="148.982" y="0" type="line"/>
+      <point x="150" y="700" type="line"/>
+      <point x="77" y="700" type="line"/>
+      <point x="77" y="0" type="line"/>
+      <point x="150" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="321.089" y="722.5" type="line"/>
-      <point x="281.571" y="722.5" type="line"/>
-      <point x="281.571" y="680.411" type="line" smooth="yes"/>
-      <point x="281.571" y="659.269"/>
-      <point x="274.461" y="630.213"/>
-      <point x="260.253" y="598.244" type="curve" smooth="yes"/>
-      <point x="244.17" y="561.908" type="line"/>
-      <point x="254.095" y="562.528" type="line"/>
-      <point x="321.089" y="656.32" type="line"/>
+      <point x="304" y="700" type="line"/>
+      <point x="242" y="700" type="line"/>
+      <point x="242" y="642" type="line" smooth="yes"/>
+      <point x="242" y="627"/>
+      <point x="234" y="601"/>
+      <point x="221" y="577" type="curve" smooth="yes"/>
+      <point x="190" y="520" type="line"/>
+      <point x="231" y="520" type="line"/>
+      <point x="304" y="614" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -28,16 +28,15 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>a270fbe57da13af7c3f027dc578aceb2d5220cc9039d42798bc03125f7af08c2f55de1a0d03ff7b0d638cfdbda281bcc6d3a5d117a53c0f537e262ccc48b2f27</string>
+    <string>w303m150,700l77,700l77,0l150,0m304,700l242,700l242,642c242,627 234,601 221,577l190,520l231,520l304,614</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 0 2.64</string>
-          <string>hstem 533.86 147.78</string>
-          <string>vstem 68 111</string>
-          <string>vstem 264 73</string>
+          <string>hstem 0 20</string>
+          <string>vstem 77 73</string>
+          <string>vstem 129 62</string>
         </array>
       </dict>
     </array>

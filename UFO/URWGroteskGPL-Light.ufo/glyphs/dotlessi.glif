@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dotlessi" format="2">
-  <advance width="234"/>
+  <advance width="227"/>
   <unicode hex="0131"/>
   <outline>
     <contour>
-      <point x="157.696" y="448" type="line"/>
-      <point x="76.7857" y="448" type="line"/>
-      <point x="76.7857" y="0" type="line"/>
-      <point x="157.696" y="0" type="line"/>
+      <point x="150" y="440" type="line"/>
+      <point x="77" y="440" type="line"/>
+      <point x="77" y="0" type="line"/>
+      <point x="150" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -17,15 +17,15 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w234m157.7,448l76.79,448l76.79,0l157.7,0</string>
+    <string>w227m150,440l77,440l77,0l150,0</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 0 2.64</string>
-          <string>hstem 448 -20</string>
-          <string>vstem 76 111</string>
+          <string>hstem 0 20</string>
+          <string>hstem 420 20</string>
+          <string>vstem 77 73</string>
         </array>
       </dict>
     </array>

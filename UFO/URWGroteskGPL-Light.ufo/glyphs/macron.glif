@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="macron" format="2">
-  <advance width="478"/>
+  <advance width="500"/>
   <unicode hex="00AF"/>
-  <unicode hex="02C9"/>
   <outline>
     <contour>
-      <point x="114.837" y="638.381" type="line"/>
-      <point x="114.837" y="617.963" type="line"/>
-      <point x="363.148" y="617.963" type="line"/>
-      <point x="363.148" y="638.381" type="line"/>
+      <point x="124" y="636" type="line"/>
+      <point x="124" y="589" type="line"/>
+      <point x="376" y="589" type="line"/>
+      <point x="376" y="636" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -18,13 +17,13 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w478m114.84,638.38l114.84,617.96l363.15,617.96l363.15,638.38</string>
+    <string>w500m124,636l124,589l376,589l376,636</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 583 57</string>
+          <string>hstem 589 47</string>
         </array>
       </dict>
     </array>

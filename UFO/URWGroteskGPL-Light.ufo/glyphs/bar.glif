@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bar" format="2">
-  <advance width="527"/>
+  <advance width="543"/>
   <unicode hex="007C"/>
   <outline>
     <contour>
-      <point x="253.172" y="667" type="line"/>
-      <point x="253.172" y="-177.015" type="line"/>
-      <point x="274.651" y="-177.015" type="line"/>
-      <point x="274.651" y="667" type="line"/>
+      <point x="249" y="667" type="line"/>
+      <point x="249" y="-167" type="line"/>
+      <point x="294" y="-167" type="line"/>
+      <point x="294" y="667" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -17,15 +17,14 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w527m253.17,667l253.17,-177.01l274.65,-177.01l274.65,667</string>
+    <string>w543m249,667l249,-167l294,-167l294,667</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -167 2.13</string>
-          <string>hstem 667 -20</string>
-          <string>vstem 253 58</string>
+          <string>hstem 647 20</string>
+          <string>vstem 249 45</string>
         </array>
       </dict>
     </array>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hyphen" format="2">
-  <advance width="204"/>
+  <advance width="210"/>
   <unicode hex="002D"/>
   <outline>
     <contour>
-      <point x="0" y="255.732" type="line"/>
-      <point x="0" y="214.114" type="line"/>
-      <point x="203.793" y="214.114" type="line"/>
-      <point x="203.793" y="255.732" type="line"/>
+      <point x="0" y="267" type="line"/>
+      <point x="0" y="211" type="line"/>
+      <point x="210" y="211" type="line"/>
+      <point x="210" y="267" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -17,13 +17,13 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w204m0,255.73l0,214.11l203.79,214.11l203.79,255.73</string>
+    <string>w210m0,267l0,211l210,211l210,267</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 202 77</string>
+          <string>hstem 211 56</string>
         </array>
       </dict>
     </array>

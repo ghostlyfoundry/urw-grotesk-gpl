@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Nacute" format="2">
-  <advance width="747"/>
+  <advance width="731"/>
   <unicode hex="0143"/>
   <outline>
     <contour>
-      <point x="662" y="667" type="line"/>
-      <point x="576.924" y="667" type="line"/>
-      <point x="576.924" y="116.698" type="line"/>
-      <point x="176.808" y="667" type="line"/>
-      <point x="85.0975" y="667" type="line"/>
-      <point x="85.0975" y="0" type="line"/>
-      <point x="170.174" y="0" type="line"/>
-      <point x="170.174" y="546.076" type="line"/>
-      <point x="567.111" y="0" type="line"/>
-      <point x="662" y="0" type="line"/>
+      <point x="637" y="667" type="line"/>
+      <point x="560" y="667" type="line"/>
+      <point x="560" y="125" type="line"/>
+      <point x="170" y="667" type="line"/>
+      <point x="93" y="667" type="line"/>
+      <point x="93" y="0" type="line"/>
+      <point x="170" y="0" type="line"/>
+      <point x="170" y="542" type="line"/>
+      <point x="560" y="0" type="line"/>
+      <point x="637" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="476.112" y="903.056" type="line"/>
-      <point x="355.201" y="761.006" type="line"/>
-      <point x="359.895" y="760.172" type="line"/>
-      <point x="528.911" y="889.723" type="line"/>
+      <point x="437" y="880" type="line"/>
+      <point x="300" y="718" type="line"/>
+      <point x="335" y="712" type="line"/>
+      <point x="516" y="864" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -29,16 +29,16 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>0a893de948947a50ab0e63c91efcab4eeefc87ce2e654d2e68fa6f38c043d6e7e4ca2306ce1e41e54b84c3af0b0dd7f8f080e8fc8c1c1dc27ead07d01a001a42</string>
+    <string>w731m637,667l560,667l560,125l170,667l93,667l93,0l170,0l170,542l560,0l637,0m437,880l300,718l335,712l516,864</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 0 2.13</string>
-          <string>hstem 667 -20</string>
-          <string>vstem 85 118</string>
-          <string>vstem 549 118</string>
+          <string>hstem 0 20</string>
+          <string>hstem 647 20</string>
+          <string>vstem 93 77</string>
+          <string>vstem 560 77</string>
         </array>
       </dict>
     </array>

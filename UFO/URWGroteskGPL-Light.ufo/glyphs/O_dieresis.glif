@@ -1,63 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Odieresis" format="2">
-  <advance width="750"/>
+  <advance width="734"/>
   <unicode hex="00D6"/>
   <outline>
     <contour>
-      <point x="374.429" y="682.9" type="curve" smooth="yes"/>
-      <point x="162.389" y="682.9"/>
-      <point x="45.6987" y="549.641"/>
-      <point x="45.6987" y="340.39" type="curve" smooth="yes"/>
-      <point x="45.6987" y="126.252"/>
-      <point x="154.14" y="-14.8396"/>
-      <point x="375.489" y="-14.8396" type="curve" smooth="yes"/>
-      <point x="590.321" y="-14.8396"/>
-      <point x="703.159" y="124.807"/>
-      <point x="703.159" y="334.03" type="curve" smooth="yes"/>
-      <point x="703.159" y="545.948"/>
-      <point x="591.455" y="682.9"/>
+      <point x="367" y="680" type="curve" smooth="yes"/>
+      <point x="277" y="680"/>
+      <point x="202" y="653"/>
+      <point x="146" y="600" type="curve" smooth="yes"/>
+      <point x="83" y="541"/>
+      <point x="50" y="452"/>
+      <point x="50" y="339" type="curve" smooth="yes"/>
+      <point x="50" y="214"/>
+      <point x="80" y="130"/>
+      <point x="146" y="67" type="curve" smooth="yes"/>
+      <point x="201" y="14"/>
+      <point x="276" y="-13"/>
+      <point x="368" y="-13" type="curve" smooth="yes"/>
+      <point x="457" y="-13"/>
+      <point x="533" y="15"/>
+      <point x="588" y="67" type="curve" smooth="yes"/>
+      <point x="653" y="129"/>
+      <point x="684" y="216"/>
+      <point x="684" y="334" type="curve" smooth="yes"/>
+      <point x="684" y="452"/>
+      <point x="653" y="539"/>
+      <point x="588" y="600" type="curve" smooth="yes"/>
+      <point x="532" y="653"/>
+      <point x="458" y="680"/>
     </contour>
     <contour>
-      <point x="374.429" y="623.262" type="curve" smooth="yes"/>
-      <point x="516.006" y="623.262"/>
-      <point x="605.363" y="511.669"/>
-      <point x="605.363" y="334.03" type="curve" smooth="yes"/>
-      <point x="605.363" y="156.391"/>
-      <point x="516.006" y="44.7976"/>
-      <point x="374.429" y="44.7976" type="curve" smooth="yes"/>
-      <point x="231.691" y="44.7976"/>
-      <point x="143.495" y="156.272"/>
-      <point x="143.495" y="338.27" type="curve" smooth="yes"/>
-      <point x="143.495" y="511.545"/>
-      <point x="234.012" y="623.262"/>
+      <point x="367" y="617" type="curve" smooth="yes"/>
+      <point x="510" y="617"/>
+      <point x="597" y="510"/>
+      <point x="597" y="334" type="curve" smooth="yes"/>
+      <point x="597" y="157"/>
+      <point x="510" y="50"/>
+      <point x="367" y="50" type="curve" smooth="yes"/>
+      <point x="222" y="50"/>
+      <point x="137" y="156"/>
+      <point x="137" y="338" type="curve" smooth="yes"/>
+      <point x="137" y="510"/>
+      <point x="225" y="617"/>
     </contour>
     <contour>
-      <point x="261.012" y="876.874" type="curve" smooth="yes"/>
-      <point x="234.282" y="876.874"/>
-      <point x="214.234" y="857.107"/>
-      <point x="214.234" y="832.216" type="curve" smooth="yes"/>
-      <point x="214.234" y="805.486"/>
-      <point x="234.143" y="785.438"/>
-      <point x="259.952" y="785.438" type="curve" smooth="yes"/>
-      <point x="285.761" y="785.438"/>
-      <point x="305.67" y="805.347"/>
-      <point x="305.67" y="831.156" type="curve" smooth="yes"/>
-      <point x="305.67" y="856.965"/>
-      <point x="285.903" y="876.874"/>
+      <point x="267" y="848" type="curve" smooth="yes"/>
+      <point x="237" y="848"/>
+      <point x="212" y="823"/>
+      <point x="212" y="793" type="curve" smooth="yes"/>
+      <point x="212" y="762"/>
+      <point x="237" y="737"/>
+      <point x="268" y="737" type="curve" smooth="yes"/>
+      <point x="298" y="737"/>
+      <point x="323" y="762"/>
+      <point x="323" y="793" type="curve" smooth="yes"/>
+      <point x="323" y="823"/>
+      <point x="298" y="848"/>
     </contour>
     <contour>
-      <point x="488.906" y="876.874" type="curve" smooth="yes"/>
-      <point x="463.097" y="876.874"/>
-      <point x="443.187" y="857.107"/>
-      <point x="443.187" y="832.216" type="curve" smooth="yes"/>
-      <point x="443.187" y="805.486"/>
-      <point x="462.222" y="785.438"/>
-      <point x="487.846" y="785.438" type="curve" smooth="yes"/>
-      <point x="513.833" y="785.438"/>
-      <point x="534.624" y="805.347"/>
-      <point x="534.624" y="831.156" type="curve" smooth="yes"/>
-      <point x="534.624" y="856.965"/>
-      <point x="514.714" y="876.874"/>
+      <point x="467" y="848" type="curve" smooth="yes"/>
+      <point x="437" y="848"/>
+      <point x="412" y="823"/>
+      <point x="412" y="793" type="curve" smooth="yes"/>
+      <point x="412" y="762"/>
+      <point x="437" y="737"/>
+      <point x="468" y="737" type="curve" smooth="yes"/>
+      <point x="498" y="737"/>
+      <point x="523" y="762"/>
+      <point x="523" y="793" type="curve" smooth="yes"/>
+      <point x="523" y="823"/>
+      <point x="498" y="848"/>
     </contour>
   </outline>
   <lib>
@@ -67,19 +79,18 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>4df467adfd9b49aab34692bdc95e755f0d2b6fad8a22032aeef90c21999a809c9ce5f82c866060a2b55525d5f7c743383440df6176ef978d0242977ce7ad1f7d</string>
+    <string>31b5b3d2480cbedd44971d9c89eeaaf2d22e61a27d5679530603f96107c1f632cd9f4a8f4b0b39ee1a05c23166f0e37eb92d05f52faa70ce01a276c9438f678b</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -14 94</string>
-          <string>hstem 588 94</string>
-          <string>hstem 741 124</string>
-          <string>vstem 45 130</string>
-          <string>vstem 204 124</string>
-          <string>vstem 420 124</string>
-          <string>vstem 573 130</string>
+          <string>hstem -13 63</string>
+          <string>hstem 617 63</string>
+          <string>vstem 50 87</string>
+          <string>vstem 50 111</string>
+          <string>vstem 250 111</string>
+          <string>vstem 597 87</string>
         </array>
       </dict>
     </array>

@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quotedbl" format="2">
-  <advance width="330"/>
+  <advance width="329"/>
   <unicode hex="0022"/>
   <outline>
     <contour>
-      <point x="99.1944" y="422.928" type="line"/>
-      <point x="113.766" y="667" type="line"/>
-      <point x="49.1682" y="667" type="line"/>
-      <point x="63.7396" y="422.928" type="line"/>
+      <point x="121" y="399" type="line"/>
+      <point x="133" y="667" type="line"/>
+      <point x="53" y="667" type="line"/>
+      <point x="65" y="399" type="line"/>
     </contour>
     <contour>
-      <point x="264.55" y="422.928" type="line"/>
-      <point x="279.121" y="667" type="line"/>
-      <point x="215.505" y="667" type="line"/>
-      <point x="229.165" y="422.928" type="line"/>
+      <point x="264" y="399" type="line"/>
+      <point x="276" y="667" type="line"/>
+      <point x="196" y="667" type="line"/>
+      <point x="207" y="399" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -23,16 +23,13 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w330m99.19,422.93l113.77,667l49.17,667l63.74,422.93m264.55,422.93l279.12,667l215.5,667l229.17,422.93</string>
+    <string>w329m121,399l133,667l53,667l65,399m264,399l276,667l196,667l207,399</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 399 2.13</string>
-          <string>hstem 667 -20</string>
-          <string>vstem 71.87 47.26</string>
-          <string>vstem 228.37 46.76</string>
+          <string>hstem 647 20</string>
         </array>
       </dict>
     </array>

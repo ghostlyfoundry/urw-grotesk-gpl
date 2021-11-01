@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="onesuperior" format="2">
-  <advance width="334"/>
+  <advance width="353"/>
   <unicode hex="00B9"/>
   <outline>
     <contour>
-      <point x="228.412" y="667" type="line"/>
-      <point x="200.12" y="667" type="line"/>
-      <point x="175.876" y="624.55"/>
-      <point x="144.123" y="606.972"/>
-      <point x="70.1979" y="599.769" type="curve" name="hr01"/>
-      <point x="70.1979" y="588.355" type="line"/>
-      <point x="185.735" y="594.714" type="line"/>
-      <point x="185.735" y="283.012" type="line"/>
-      <point x="228.412" y="283.012" type="line"/>
+      <point x="243" y="667" type="line"/>
+      <point x="210" y="667" type="line"/>
+      <point x="186" y="622"/>
+      <point x="162" y="610"/>
+      <point x="82" y="604" type="curve"/>
+      <point x="82" y="574" type="line"/>
+      <point x="187" y="578" type="line"/>
+      <point x="187" y="267" type="line"/>
+      <point x="243" y="267" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -22,28 +22,15 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w334m228.41,667l200.12,667c175.88,624.55 144.12,606.97 70.2,599.77l70.2,588.35l185.73,594.71l185.73,283.01l228.41,283.01</string>
+    <string>w353m243,667l210,667c186,622 162,610 82,604l82,574l187,578l187,267l243,267</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 667 -20</string>
-          <string>hstem 575.87 7.26</string>
-          <string>hstem 267 2.13</string>
-          <string>vstem 179 78</string>
+          <string>hstem 647 20</string>
+          <string>vstem 187 56</string>
         </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 575.87 7.26</string>
-          <string>hstem 267 2.13</string>
-          <string>vstem 70 187</string>
-          <string>hstem 667 -20</string>
-        </array>
-        <key>pointTag</key>
-        <string>hr01</string>
       </dict>
     </array>
   </dict>
