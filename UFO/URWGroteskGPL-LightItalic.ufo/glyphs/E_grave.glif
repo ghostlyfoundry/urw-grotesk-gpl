@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Egrave" format="2">
+  <advance width="489"/>
+  <unicode hex="00C8"/>
+  <outline>
+    <contour>
+      <point x="252.071" y="372" type="line"/>
+      <point x="301.384" y="604" type="line"/>
+      <point x="547.384" y="604" type="line"/>
+      <point x="560.775" y="667" type="line"/>
+      <point x="234.775" y="667" type="line"/>
+      <point x="93" y="0" type="line"/>
+      <point x="455" y="0" type="line"/>
+      <point x="468.391" y="63" type="line"/>
+      <point x="186.391" y="63" type="line"/>
+      <point x="238.68" y="309" type="line"/>
+      <point x="484.68" y="309" type="line"/>
+      <point x="498.071" y="372" type="line"/>
+    </contour>
+    <contour>
+      <point x="372.05" y="880" type="line"/>
+      <point x="289.649" y="864" type="line"/>
+      <point x="439.34" y="712" type="line"/>
+      <point x="474.616" y="718" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>178e7622ad1c8b38c43b4e89d84032e81b905e035eb79d98b59d802642cdfc38a67aef09985aef362daea4db6465bbbe25a29630cb6f0ce094ecf2af44e0febe</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 63</string>
+          <string>hstem 309 63</string>
+          <string>hstem 604 63</string>
+          <string>vstem 234.78 66.61</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

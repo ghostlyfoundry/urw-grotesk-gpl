@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Delta" format="2">
+  <advance width="607"/>
+  <unicode hex="0394"/>
+  <outline>
+    <contour>
+      <point x="6.88865" y="0" type="line"/>
+      <point x="602.459" y="0" type="line"/>
+      <point x="469.137" y="680.652" type="line"/>
+    </contour>
+    <contour>
+      <point x="65.7493" y="36.2234" type="line"/>
+      <point x="399.681" y="529.023" type="line"/>
+      <point x="498.294" y="36.2234" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w607m6.89,0l602.46,0l469.14,680.65m65.75,36.22l399.68,529.02l498.29,36.22</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 36.22</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

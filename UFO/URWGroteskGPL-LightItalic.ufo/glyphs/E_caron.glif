@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ecaron" format="2">
+  <advance width="489"/>
+  <unicode hex="011A"/>
+  <outline>
+    <contour>
+      <point x="252.071" y="372" type="line"/>
+      <point x="301.384" y="604" type="line"/>
+      <point x="547.384" y="604" type="line"/>
+      <point x="560.775" y="667" type="line"/>
+      <point x="234.775" y="667" type="line"/>
+      <point x="93" y="0" type="line"/>
+      <point x="455" y="0" type="line"/>
+      <point x="468.391" y="63" type="line"/>
+      <point x="186.391" y="63" type="line"/>
+      <point x="238.68" y="309" type="line"/>
+      <point x="484.68" y="309" type="line"/>
+      <point x="498.071" y="372" type="line"/>
+    </contour>
+    <contour>
+      <point x="433.553" y="713" type="line"/>
+      <point x="599.349" y="872" type="line"/>
+      <point x="570.625" y="878" type="line"/>
+      <point x="415.968" y="762" type="line"/>
+      <point x="312.625" y="878" type="line"/>
+      <point x="279.349" y="872" type="line"/>
+      <point x="377.553" y="713" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>6ce0a84ca5b7070985bd0acdbb72d7b3b8669c9bca4aa49572ea42baadec75c6db99b3deb15f25b7c0f3ff5fd008c8e7a1019418b4a4e7b1e280b6cfd26be10b</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 372 232</string>
+          <string>vstem 234.78 66.61</string>
+          <string>hstem 0 63</string>
+          <string>hstem 667 46</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 604 63</string>
+          <string>vstem 234.78 66.61</string>
+          <string>hstem 0 63</string>
+          <string>hstem 309 63</string>
+        </array>
+        <key>pointTag</key>
+        <string>._.2481005722544</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 667 46</string>
+          <string>hstem 0 63</string>
+          <string>hstem 309 63</string>
+          <string>vstem 234.78 66.61</string>
+        </array>
+        <key>pointTag</key>
+        <string>._.2481005722784</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Nacute" format="2">
+  <advance width="731"/>
+  <unicode hex="0143"/>
+  <outline>
+    <contour>
+      <point x="778.775" y="667" type="line"/>
+      <point x="701.775" y="667" type="line"/>
+      <point x="586.57" y="125" type="line"/>
+      <point x="311.775" y="667" type="line"/>
+      <point x="234.775" y="667" type="line"/>
+      <point x="93" y="0" type="line"/>
+      <point x="170" y="0" type="line"/>
+      <point x="285.206" y="542" type="line"/>
+      <point x="560" y="0" type="line"/>
+      <point x="637" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="624.05" y="880" type="line"/>
+      <point x="452.616" y="718" type="line"/>
+      <point x="486.34" y="712" type="line"/>
+      <point x="699.649" y="864" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>9b21723266bcd4b95bf323df7acffd6a886009d8d9733f5e0d3a2d853b91ad925d8273130362a6ffbfd34b3830fa076fde1d9d881c79651e5be524d93c0a6710</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 21 -21</string>
+          <string>hstem 667 -20</string>
+          <string>vstem 234.78 77</string>
+          <string>vstem 701.78 77</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

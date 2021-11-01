@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rcaron" format="2">
+  <advance width="341"/>
+  <unicode hex="0159"/>
+  <outline>
+    <contour>
+      <point x="169.525" y="440" type="line"/>
+      <point x="76" y="0" type="line"/>
+      <point x="149" y="0" type="line"/>
+      <point x="203.84" y="258" type="line" smooth="yes"/>
+      <point x="218.719" y="328"/>
+      <point x="278.685" y="389"/>
+      <point x="333.685" y="389" type="curve" smooth="yes"/>
+      <point x="359.685" y="389"/>
+      <point x="374.771" y="380"/>
+      <point x="391.82" y="352" type="curve"/>
+      <point x="440.786" y="413" type="line"/>
+      <point x="414.737" y="441"/>
+      <point x="397.65" y="450"/>
+      <point x="367.65" y="450" type="curve" smooth="yes"/>
+      <point x="319.65" y="450"/>
+      <point x="281.187" y="429"/>
+      <point x="228.709" y="375" type="curve"/>
+      <point x="242.525" y="440" type="line"/>
+    </contour>
+    <contour>
+      <point x="339.08" y="532" type="line"/>
+      <point x="495.089" y="692" type="line"/>
+      <point x="466.79" y="700" type="line"/>
+      <point x="321.92" y="583" type="line"/>
+      <point x="228.79" y="700" type="line"/>
+      <point x="195.089" y="692" type="line"/>
+      <point x="283.08" y="532" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>246c36ceae57d052aea6172a8d1e63f1260a9db98a63c0b79ae5bc45a09f30eb5df3ab78ab7527795076f253ddc2f169aab5ce5140d462b0afd6bd6b45241702</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 21 -21</string>
+          <string>hstem 389 61</string>
+          <string>vstem 169.52 73</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

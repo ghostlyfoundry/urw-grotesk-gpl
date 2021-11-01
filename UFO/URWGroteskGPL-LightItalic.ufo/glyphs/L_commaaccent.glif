@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lcommaaccent" format="2">
+  <advance width="442"/>
+  <unicode hex="013B"/>
+  <outline>
+    <contour>
+      <point x="314.775" y="667" type="line"/>
+      <point x="234.775" y="667" type="line"/>
+      <point x="93" y="0" type="line"/>
+      <point x="441" y="0" type="line"/>
+      <point x="454.391" y="63" type="line" name="hr01"/>
+      <point x="186.391" y="63" type="line"/>
+    </contour>
+    <contour>
+      <point x="296.372" y="-50" type="line"/>
+      <point x="234.372" y="-50" type="line"/>
+      <point x="222.044" y="-108" type="line" smooth="yes"/>
+      <point x="218.856" y="-123"/>
+      <point x="204.784" y="-149.791"/>
+      <point x="187.228" y="-173" type="curve" smooth="yes"/>
+      <point x="144.112" y="-230" type="line"/>
+      <point x="185.112" y="-230" type="line"/>
+      <point x="277.88" y="-137" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>d3ec87cc6e1d4e5998a8c99337ef6d57e0ef4d74eaeafb1cee29c4ef3116c6ece4d65ff4d326bbec2e0588b786b5578eeae13ba9a91998c1a46aa804f0913e45</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 667 -20</string>
+          <string>vstem 234.37 62.</string>
+          <string>hstem -50 50</string>
+          <string>hstem -209 -21</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 63</string>
+          <string>hstem 667 -20</string>
+          <string>vstem 234.78 80</string>
+          <string>hstem -209 -21</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr01</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -50 50</string>
+          <string>vstem 234.37 62.</string>
+          <string>hstem -209 -21</string>
+          <string>hstem 667 -20</string>
+        </array>
+        <key>pointTag</key>
+        <string>._.2481007171232</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

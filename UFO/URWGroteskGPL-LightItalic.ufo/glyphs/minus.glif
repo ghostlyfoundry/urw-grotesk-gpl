@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="minus" format="2">
+  <advance width="520"/>
+  <unicode hex="2212"/>
+  <outline>
+    <contour>
+      <point x="93.0083" y="367" type="line"/>
+      <point x="83.6558" y="323" type="line"/>
+      <point x="574.656" y="323" type="line"/>
+      <point x="584.008" y="367" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w520m93.01,367l83.66,323l574.66,323l584.01,367</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 323 44</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Dcaron" format="2">
+  <advance width="682"/>
+  <unicode hex="010E"/>
+  <outline>
+    <contour>
+      <point x="234.775" y="667" type="line"/>
+      <point x="93" y="0" type="line"/>
+      <point x="301" y="0" type="line" smooth="yes"/>
+      <point x="377" y="0"/>
+      <point x="449.401" y="16"/>
+      <point x="500.352" y="44" type="curve" smooth="yes"/>
+      <point x="599.831" y="98"/>
+      <point x="675.637" y="210"/>
+      <point x="704.332" y="345" type="curve" smooth="yes"/>
+      <point x="729.201" y="462"/>
+      <point x="711.819" y="559"/>
+      <point x="656.297" y="613" type="curve" smooth="yes"/>
+      <point x="614.587" y="652"/>
+      <point x="554.775" y="667"/>
+      <point x="442.775" y="667" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="301.384" y="604" type="line"/>
+      <point x="433.384" y="604" type="line" smooth="yes"/>
+      <point x="520.384" y="604"/>
+      <point x="548.896" y="597"/>
+      <point x="578.945" y="569" type="curve" smooth="yes"/>
+      <point x="626.017" y="527"/>
+      <point x="638.8" y="446"/>
+      <point x="616.694" y="342" type="curve" smooth="yes"/>
+      <point x="595.226" y="241"/>
+      <point x="550.222" y="161"/>
+      <point x="489.231" y="114" type="curve" smooth="yes"/>
+      <point x="447.217" y="81"/>
+      <point x="385.391" y="63"/>
+      <point x="318.391" y="63" type="curve" smooth="yes"/>
+      <point x="186.391" y="63" type="line"/>
+    </contour>
+    <contour>
+      <point x="515.553" y="713" type="line" name="hr01"/>
+      <point x="681.349" y="872" type="line"/>
+      <point x="652.625" y="878" type="line"/>
+      <point x="497.968" y="762" type="line"/>
+      <point x="394.625" y="878" type="line"/>
+      <point x="361.349" y="872" type="line"/>
+      <point x="459.553" y="713" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>2ef2b60f78f399307e5d66ec136a631e4c3412b1d6bde1cd26328a3bdbd777e0372b95e1e110216cf218bd024b105af12f937ae5e4028a995d1cd6e32cd03176</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 604 63</string>
+          <string>vstem 234.78 66.61</string>
+          <string>hstem 0 63</string>
+          <string>vstem 616.69 87.64</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 667 46</string>
+          <string>hstem 0 63</string>
+          <string>vstem 234.78 66.61</string>
+          <string>vstem 616.69 87.64</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr01</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>
