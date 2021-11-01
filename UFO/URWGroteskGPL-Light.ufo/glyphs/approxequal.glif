@@ -34,7 +34,7 @@
       <point x="148.926" y="327.637" type="qcurve" smooth="yes"/>
       <point x="174.316" y="327.637"/>
       <point x="230.469" y="307.617" type="qcurve" smooth="yes"/>
-      <point x="291.992" y="285.645"/>
+      <point x="291.992" y="285.645" name="hr01"/>
       <point x="313.965" y="285.645" type="qcurve" smooth="yes"/>
       <point x="348.633" y="285.645"/>
       <point x="379.395" y="308.105" type="qcurve" smooth="yes"/>
@@ -47,9 +47,51 @@
       <point x="255.371" y="244.629" type="qcurve" smooth="yes"/>
       <point x="249.023" y="246.582"/>
       <point x="216.309" y="257.324" type="qcurve" smooth="yes"/>
-      <point x="154.785" y="277.832"/>
+      <point x="154.785" y="277.832" name="hr02"/>
       <point x="129.395" y="277.832" type="qcurve" smooth="yes"/>
       <point x="81.0547" y="277.832"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>197c4e11f8e63133d8cd5a1756f06efdcd34326c001f60b98ed271d0accc37c93722077d97db8ffca680fe8bc5a2eec3e5b9a12b20b6672f4f0e9c77f1417cfc</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 408.69 46.39</string>
+          <string>hstem 358.4 46.88</string>
+          <string>hstem 277.83 49.8</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 235.35 50.29</string>
+          <string>hstem 358.4 46.88</string>
+          <string>hstem 408.69 46.39</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr01</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 277.83 49.8</string>
+          <string>hstem 358.4 46.88</string>
+          <string>hstem 408.69 46.39</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr02</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

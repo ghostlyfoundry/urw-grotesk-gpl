@@ -52,9 +52,10 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -10 20</string>
+          <string>hstem 21 -21</string>
           <string>hstem 88 44</string>
-          <string>hstem 657 20</string>
+          <string>hstem 576 28</string>
+          <string>hstem 667 -20</string>
           <string>vstem 187 56</string>
           <string>vstem 711 52</string>
         </array>

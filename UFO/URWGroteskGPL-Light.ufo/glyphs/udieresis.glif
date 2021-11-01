@@ -13,7 +13,7 @@
       <point x="359" y="114"/>
       <point x="344" y="96" type="curve" smooth="yes"/>
       <point x="323" y="70"/>
-      <point x="285" y="53"/>
+      <point x="285" y="53" name="hr01"/>
       <point x="248" y="53" type="curve" smooth="yes"/>
       <point x="183" y="53"/>
       <point x="150" y="91"/>
@@ -25,7 +25,7 @@
       <point x="84" y="75"/>
       <point x="103" y="48" type="curve" smooth="yes"/>
       <point x="130" y="11"/>
-      <point x="177" y="-11" name="hr01"/>
+      <point x="177" y="-11"/>
       <point x="231" y="-11" type="curve" smooth="yes"/>
       <point x="285" y="-11"/>
       <point x="320" y="6"/>
@@ -73,10 +73,9 @@
       <dict>
         <key>stems</key>
         <array>
+          <string>hstem 21 -21</string>
           <string>vstem 365 73</string>
-          <string>vstem 264 100</string>
-          <string>hstem 420 20</string>
-          <string>hstem -11 64</string>
+          <string>hstem 564 100</string>
           <string>vstem 77 73</string>
         </array>
       </dict>
@@ -84,13 +83,34 @@
         <key>stems</key>
         <array>
           <string>hstem -11 64</string>
-          <string>vstem 77 100</string>
-          <string>vstem 264 100</string>
+          <string>vstem 77 73</string>
           <string>vstem 365 73</string>
-          <string>hstem 420 20</string>
+          <string>hstem 564 100</string>
         </array>
         <key>pointTag</key>
         <string>hr01</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 21 -21</string>
+          <string>vstem 365 73</string>
+          <string>hstem 564 100</string>
+          <string>vstem 114 100</string>
+        </array>
+        <key>pointTag</key>
+        <string>._.2757937008800</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 301 100</string>
+          <string>hstem 564 100</string>
+          <string>hstem -11 64</string>
+          <string>vstem 77 73</string>
+        </array>
+        <key>pointTag</key>
+        <string>._.2757937011360</string>
       </dict>
     </array>
   </dict>

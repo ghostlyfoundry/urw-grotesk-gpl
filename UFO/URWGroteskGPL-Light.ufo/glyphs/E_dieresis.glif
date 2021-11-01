@@ -20,7 +20,7 @@
     <contour>
       <point x="157" y="848" type="curve" smooth="yes"/>
       <point x="127" y="848"/>
-      <point x="102" y="823"/>
+      <point x="102" y="823" name="hr01"/>
       <point x="102" y="793" type="curve" smooth="yes"/>
       <point x="102" y="762"/>
       <point x="127" y="737"/>
@@ -59,13 +59,26 @@
       <dict>
         <key>stems</key>
         <array>
+          <string>hstem 309 63</string>
+          <string>vstem 93 80</string>
+          <string>hstem 604 63</string>
+          <string>hstem 0 63</string>
+          <string>hstem 737 111</string>
+          <string>vstem 302 111</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 102 111</string>
+          <string>hstem 737 111</string>
+          <string>vstem 302 111</string>
           <string>hstem 0 63</string>
           <string>hstem 309 63</string>
           <string>hstem 604 63</string>
-          <string>vstem 93 80</string>
-          <string>vstem 93 111</string>
-          <string>vstem 293 111</string>
         </array>
+        <key>pointTag</key>
+        <string>hr01</string>
       </dict>
     </array>
   </dict>

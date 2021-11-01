@@ -9,7 +9,7 @@
       <point x="281" y="450"/>
       <point x="211" y="450" type="curve" smooth="yes"/>
       <point x="124" y="450"/>
-      <point x="63" y="398" name="hr01"/>
+      <point x="63" y="398"/>
       <point x="63" y="323" type="curve" smooth="yes"/>
       <point x="63" y="296"/>
       <point x="72" y="271"/>
@@ -54,7 +54,7 @@
       <point x="165" y="-53" type="line"/>
       <point x="165" y="-111" type="line" smooth="yes"/>
       <point x="165" y="-127"/>
-      <point x="157" y="-152"/>
+      <point x="156.866" y="-151.928"/>
       <point x="144" y="-176" type="curve" smooth="yes"/>
       <point x="113" y="-234" type="line"/>
       <point x="154" y="-234" type="line"/>
@@ -68,30 +68,32 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>a5e70c263d9659a823cc70ea18b2690743a515ec6b6d0a8b96deca9f58535134cb7cf78e9f297ed3d855d57930c8aeaa3980bc8505b9bf6168b9dfcc988751ab</string>
+    <string>86de83235ed7ae0cb8555de49eb518db848ffb805faed4eca02a906a2a541d9bcdbbb507e2e4b6661b12a352aa586c4d7a290133ca1cebfdcc8043bd9d4cc44f</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>vstem 77 62</string>
           <string>hstem 390 60</string>
-          <string>hstem -234 20</string>
-          <string>hstem -10 61</string>
+          <string>vstem 63 75</string>
           <string>vstem 286 76</string>
+          <string>hstem -10 61</string>
+          <string>hstem -213 -21</string>
+          <string>vstem 165 62</string>
         </array>
       </dict>
       <dict>
         <key>stems</key>
         <array>
+          <string>hstem -53 43</string>
+          <string>vstem 165 62</string>
+          <string>hstem -213 -21</string>
+          <string>hstem 390 60</string>
           <string>vstem 63 75</string>
           <string>vstem 286 76</string>
-          <string>hstem -10 61</string>
-          <string>hstem 390 60</string>
-          <string>hstem -234 20</string>
         </array>
         <key>pointTag</key>
-        <string>hr01</string>
+        <string>._.2757759674928</string>
       </dict>
     </array>
   </dict>

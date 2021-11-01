@@ -8,7 +8,7 @@
       <point x="282" y="455" type="line"/>
       <point x="282" y="526" type="line" smooth="yes"/>
       <point x="282" y="542"/>
-      <point x="288" y="564"/>
+      <point x="288.308" y="563.879"/>
       <point x="305" y="607" type="curve" smooth="yes"/>
       <point x="341" y="700" type="line"/>
       <point x="298" y="700" type="line"/>
@@ -33,12 +33,14 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>731459c248bbb68b944c0386bbd2b0af234951db8adc69f72c356c870ab85507f4a6fe625fba5a3cb62cfbc8a1532d6f0300255c14f38e4bde67a348b10c89b9</string>
+    <string>beb17ce3d02378d015e91291dcc3c4e2699bdaa9cd88c3549c3d9c3de72215c6fdf747ca8d99e7e9a1c81faaa200cc05a8e90d44b768fc821d73fa51ca4e6c45</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
+          <string>hstem 476 -21</string>
+          <string>hstem 700 -20</string>
           <string>vstem 73 76</string>
           <string>vstem 206 76</string>
         </array>

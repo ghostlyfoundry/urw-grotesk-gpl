@@ -5,13 +5,13 @@
   <outline>
     <contour>
       <point x="125" y="-169" type="line"/>
-      <point x="29" y="-177" type="line"/>
+      <point x="29" y="-177" type="line" name="hr01"/>
       <point x="29" y="-220" type="line"/>
       <point x="189" y="-220" type="line"/>
       <point x="189" y="700" type="line"/>
       <point x="29" y="700" type="line"/>
       <point x="29" y="657" type="line"/>
-      <point x="125" y="649" type="line"/>
+      <point x="125" y="649" type="line" name="hr02"/>
     </contour>
   </outline>
   <lib>
@@ -27,9 +27,30 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -220 20</string>
           <string>vstem 125 64</string>
+          <string>hstem -199 -21</string>
+          <string>hstem 700 -20</string>
         </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 29 160</string>
+          <string>hstem -199 -21</string>
+          <string>hstem 700 -20</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr01</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 125 64</string>
+          <string>hstem -199 -21</string>
+          <string>hstem 700 -20</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr02</string>
       </dict>
     </array>
   </dict>
