@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brokenbar" format="2">
+  <advance width="526"/>
+  <unicode hex="00A6"/>
+  <outline>
+    <contour>
+      <point x="235.456" y="667" type="line"/>
+      <point x="235.456" y="346.018" type="line"/>
+      <point x="290.966" y="346.018" type="line"/>
+      <point x="290.966" y="667" type="line"/>
+    </contour>
+    <contour>
+      <point x="235.456" y="134.505" type="line"/>
+      <point x="235.456" y="-173.009" type="line"/>
+      <point x="290.966" y="-173.009" type="line"/>
+      <point x="290.966" y="134.505" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w526m235.46,667l235.46,346.02l290.97,346.02l290.97,667m235.46,134.51l235.46,-173.01l290.97,-173.01l290.97,134.51</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -167 9.42</string>
+          <string>hstem 667 -20</string>
+          <string>vstem 235 73</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

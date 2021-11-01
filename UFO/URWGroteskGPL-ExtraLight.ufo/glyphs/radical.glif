@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="radical" format="2">
+  <advance width="406"/>
+  <unicode hex="221A"/>
+  <outline>
+    <contour>
+      <point x="9.32384" y="319.946" type="line"/>
+      <point x="9.32384" y="306.651" type="line"/>
+      <point x="61.6342" y="306.651" type="line"/>
+      <point x="179.736" y="0" type="line"/>
+      <point x="220.575" y="0" type="line"/>
+      <point x="467.139" y="684.784" type="line"/>
+      <point x="601.473" y="684.784" type="line"/>
+      <point x="601.473" y="701.187" type="line"/>
+      <point x="445.102" y="701.187" type="line"/>
+      <point x="206.453" y="44.9011" type="line"/>
+      <point x="106.638" y="319.946" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>88db7bcc7099b1c9922685efb195e9a7c2a92e91477a0c6c2616d62982407424f2e743a002f43e4b660f1c886bbe8536964469f324e4cf4ebb1d23c2bb391a15</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 9.42</string>
+          <string>hstem 296 36</string>
+          <string>hstem 661 39</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

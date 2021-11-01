@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ncaron" format="2">
+  <advance width="731"/>
+  <unicode hex="0147"/>
+  <outline>
+    <contour>
+      <point x="636.804" y="667" type="line"/>
+      <point x="577.15" y="667" type="line"/>
+      <point x="577.15" y="85.1643" type="line"/>
+      <point x="158.486" y="667" type="line"/>
+      <point x="93.3463" y="667" type="line"/>
+      <point x="93.3463" y="0" type="line"/>
+      <point x="153" y="0" type="line"/>
+      <point x="153" y="581.836" type="line"/>
+      <point x="571.665" y="0" type="line"/>
+      <point x="636.804" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="389.943" y="738.655" type="line"/>
+      <point x="510.079" y="883.365" type="line"/>
+      <point x="502.287" y="884.924" type="line"/>
+      <point x="365.029" y="762.448" type="line"/>
+      <point x="229.845" y="884.958" type="line"/>
+      <point x="220.243" y="883.158" type="line"/>
+      <point x="340.208" y="738.655" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>4fb66f07ea510b67468bb32fa9fbe54d722e40b510f543046c5e91e3837165d8fde05f1e0e636f909ee2397624786fab5ba53899a35475d9c5631efe927bb73a</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 9.42</string>
+          <string>hstem 667 -20</string>
+          <string>vstem 93 77</string>
+          <string>vstem 560 77</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

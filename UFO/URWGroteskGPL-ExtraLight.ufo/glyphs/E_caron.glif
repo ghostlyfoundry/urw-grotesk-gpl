@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ecaron" format="2">
+  <advance width="483"/>
+  <unicode hex="011A"/>
+  <outline>
+    <contour>
+      <point x="156.108" y="361.385" type="line"/>
+      <point x="156.108" y="625.733" type="line"/>
+      <point x="410.96" y="625.733" type="line"/>
+      <point x="410.96" y="667" type="line"/>
+      <point x="93.3463" y="667" type="line"/>
+      <point x="93.3463" y="0" type="line"/>
+      <point x="448.255" y="0" type="line"/>
+      <point x="448.255" y="41.2669" type="line"/>
+      <point x="156.108" y="41.2669" type="line"/>
+      <point x="156.108" y="320.118" type="line"/>
+      <point x="410.96" y="320.118" type="line"/>
+      <point x="410.96" y="361.385" type="line"/>
+    </contour>
+    <contour>
+      <point x="274.949" y="738.655" type="line"/>
+      <point x="395.085" y="883.365" type="line"/>
+      <point x="387.293" y="884.924" type="line"/>
+      <point x="250.035" y="762.448" type="line"/>
+      <point x="114.851" y="884.958" type="line"/>
+      <point x="105.249" y="883.158" type="line"/>
+      <point x="225.214" y="738.655" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>abc31c0813ae7f2e040a306b9fcce30d5c0d3f5f8b16c00758685342c0424c85efe6c50562e3bd5e637b3e7f1fc47fcd6262f20c387d34ab879f89bf5c663c12</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 63</string>
+          <string>hstem 63 246</string>
+          <string>hstem 309 63</string>
+          <string>hstem 372 232</string>
+          <string>hstem 604 63</string>
+          <string>hstem 667 46</string>
+          <string>vstem 93 80</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

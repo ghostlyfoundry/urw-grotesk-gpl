@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Adieresis" format="2">
+  <advance width="590"/>
+  <unicode hex="00C4"/>
+  <outline>
+    <contour>
+      <point x="327.738" y="667" type="line"/>
+      <point x="263.735" y="667" type="line"/>
+      <point x="-2.26514" y="0" type="line"/>
+      <point x="64.397" y="0" type="line"/>
+      <point x="147.276" y="223.772" type="line"/>
+      <point x="440.99" y="223.772" type="line"/>
+      <point x="526.976" y="0" type="line"/>
+      <point x="593.738" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="423.296" y="267.111" type="line"/>
+      <point x="165.245" y="267.111" type="line"/>
+      <point x="292.503" y="606.466" type="line"/>
+    </contour>
+    <contour>
+      <point x="192.138" y="854.513" type="curve" smooth="yes"/>
+      <point x="166.545" y="854.513"/>
+      <point x="145.217" y="834.068"/>
+      <point x="145.217" y="809.534" type="curve" smooth="yes"/>
+      <point x="145.217" y="784.061"/>
+      <point x="166.627" y="763.519"/>
+      <point x="193.174" y="763.519" type="curve" smooth="yes"/>
+      <point x="218.767" y="763.519"/>
+      <point x="240.095" y="784.061"/>
+      <point x="240.095" y="809.534" type="curve" smooth="yes"/>
+      <point x="240.095" y="834.068"/>
+      <point x="218.686" y="854.513"/>
+    </contour>
+    <contour>
+      <point x="399.335" y="854.513" type="curve" smooth="yes"/>
+      <point x="373.741" y="854.513"/>
+      <point x="352.414" y="834.068"/>
+      <point x="352.414" y="809.534" type="curve" smooth="yes"/>
+      <point x="352.414" y="784.061"/>
+      <point x="373.823" y="763.519"/>
+      <point x="400.371" y="763.519" type="curve" smooth="yes"/>
+      <point x="425.964" y="763.519"/>
+      <point x="447.291" y="784.061"/>
+      <point x="447.291" y="809.534" type="curve" smooth="yes"/>
+      <point x="447.291" y="834.068"/>
+      <point x="425.882" y="854.513"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>d9cf1d9adb0c4d3ba209d7419a29e8de4f123444af4f494345bb156618dfed574caa5ae60fa9dc2d9d97a3578a41b1113d262dfbe1940afface17a86fc37e346</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 9.42</string>
+          <string>hstem 216 65</string>
+          <string>hstem 667 -20</string>
+          <string>hstem 737 111</string>
+          <string>vstem 145 111</string>
+          <string>vstem 345 111</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

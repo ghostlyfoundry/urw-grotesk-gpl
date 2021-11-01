@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="numbersign" format="2">
+  <advance width="422"/>
+  <unicode hex="0023"/>
+  <outline>
+    <contour>
+      <point x="24.7982" y="202.88" type="line"/>
+      <point x="16.4452" y="163.685" type="line"/>
+      <point x="92.1028" y="163.685" type="line"/>
+      <point x="56.8794" y="0" type="line" name="hr01"/>
+      <point x="83.6658" y="0" type="line"/>
+      <point x="116.817" y="163.685" type="line"/>
+      <point x="238.082" y="163.685" type="line"/>
+      <point x="203.895" y="0" type="line"/>
+      <point x="229.739" y="0" type="line"/>
+      <point x="262.891" y="163.685" type="line"/>
+      <point x="338.463" y="163.685" type="line"/>
+      <point x="346.174" y="202.88" type="line"/>
+      <point x="270.487" y="202.88" type="line"/>
+      <point x="328.141" y="490.019" type="line"/>
+      <point x="402.756" y="490.019" type="line"/>
+      <point x="410.307" y="527.142" type="line"/>
+      <point x="335.657" y="527.142" type="line"/>
+      <point x="364.664" y="667" type="line" name="hr02"/>
+      <point x="341.793" y="667" type="line"/>
+      <point x="311.75" y="527.142" type="line"/>
+      <point x="191.545" y="527.142" type="line"/>
+      <point x="221.588" y="667" type="line"/>
+      <point x="197.859" y="667" type="line"/>
+      <point x="168.852" y="527.142" type="line"/>
+      <point x="91.0356" y="527.142" type="line"/>
+      <point x="82.856" y="490.019" type="line"/>
+      <point x="161.534" y="490.019" type="line"/>
+      <point x="99.3578" y="202.88" type="line"/>
+    </contour>
+    <contour>
+      <point x="126.486" y="202.88" type="line"/>
+      <point x="184.14" y="490.019" type="line"/>
+      <point x="305.36" y="490.019" type="line"/>
+      <point x="246.575" y="202.88" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>656a5dd4f1271b279ef5215e0f77e2945ac42a3cac617eb76198eb4d2dd07bb163ec08fb8555a924ac8c7e19a5b92d8f130a75c7f1b8f55b568fc2950a4ff4ce</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 158 61</string>
+          <string>hstem 473 59</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 219</string>
+          <string>hstem 473 59</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr01</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 473 194</string>
+          <string>hstem 158 61</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr02</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

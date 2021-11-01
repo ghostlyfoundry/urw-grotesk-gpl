@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="racute" format="2">
+  <advance width="331"/>
+  <unicode hex="0155"/>
+  <outline>
+    <contour>
+      <point x="77.125" y="439.571" type="line"/>
+      <point x="77.125" y="0" type="line"/>
+      <point x="133.865" y="0" type="line"/>
+      <point x="133.865" y="259.821" type="line" smooth="yes"/>
+      <point x="133.865" y="339.984"/>
+      <point x="188.03" y="409.839"/>
+      <point x="251.415" y="409.839" type="curve" smooth="yes"/>
+      <point x="278.443" y="409.839"/>
+      <point x="296.756" y="401.978"/>
+      <point x="319.472" y="377.168" type="curve"/>
+      <point x="344.942" y="420.326" type="line"/>
+      <point x="318.492" y="442.183"/>
+      <point x="300.019" y="450.107"/>
+      <point x="273.54" y="450.107" type="curve" smooth="yes"/>
+      <point x="226.188" y="450.107"/>
+      <point x="187.513" y="422.629"/>
+      <point x="133.865" y="351.97" type="curve"/>
+      <point x="133.865" y="439.571" type="line"/>
+    </contour>
+    <contour>
+      <point x="280.085" y="712.648" type="line"/>
+      <point x="153.762" y="563.272" type="line"/>
+      <point x="166.747" y="561.046" type="line"/>
+      <point x="334.218" y="701.684" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>8ceff8f8632e95be9446b3d7502e1079b87802b84643c90a77cc96a36801913ffdb01dfad201338ec931d4b491d1e36452aa4d50154fd572ff80cc3d53932a2a</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 9.61</string>
+          <string>hstem 389 61</string>
+          <string>vstem 77 73</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

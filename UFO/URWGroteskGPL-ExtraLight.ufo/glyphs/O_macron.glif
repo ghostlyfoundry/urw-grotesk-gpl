@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Omacron" format="2">
+  <advance width="738"/>
+  <unicode hex="014C"/>
+  <outline>
+    <contour>
+      <point x="369.147" y="680.468" type="curve" smooth="yes"/>
+      <point x="161.076" y="680.468"/>
+      <point x="50.7991" y="540.951"/>
+      <point x="50.7991" y="339.198" type="curve" smooth="yes"/>
+      <point x="50.7991" y="131.28"/>
+      <point x="151.957" y="-13.4678"/>
+      <point x="370.183" y="-13.4678" type="curve" smooth="yes"/>
+      <point x="582.434" y="-13.4678"/>
+      <point x="687.495" y="130.963"/>
+      <point x="687.495" y="334.018" type="curve" smooth="yes"/>
+      <point x="687.495" y="538.323"/>
+      <point x="581.76" y="680.468"/>
+    </contour>
+    <contour>
+      <point x="369.147" y="639.201" type="curve" smooth="yes"/>
+      <point x="523.546" y="639.201"/>
+      <point x="617.481" y="523.814"/>
+      <point x="617.481" y="334.018" type="curve" smooth="yes"/>
+      <point x="617.481" y="143.17"/>
+      <point x="523.546" y="27.7991"/>
+      <point x="369.147" y="27.7991" type="curve" smooth="yes"/>
+      <point x="212.589" y="27.7991"/>
+      <point x="120.813" y="142.03"/>
+      <point x="120.813" y="338.162" type="curve" smooth="yes"/>
+      <point x="120.813" y="523.749"/>
+      <point x="215.828" y="639.201"/>
+    </contour>
+    <contour>
+      <point x="240.384" y="821.361" type="line"/>
+      <point x="240.384" y="796.67" type="line"/>
+      <point x="498.947" y="796.67" type="line"/>
+      <point x="498.947" y="821.361" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>41caa4ab975b33244f78cf435f91a5a31f60552ec714ac5e12a8cdceeaa7b4a92ef0f2c99a8c01af0c85b811ead5a92ad1145bf87e7685a055ae5b144452109f</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -13 63</string>
+          <string>hstem 617 63</string>
+          <string>hstem 769 47</string>
+          <string>vstem 50 87</string>
+          <string>vstem 597 87</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

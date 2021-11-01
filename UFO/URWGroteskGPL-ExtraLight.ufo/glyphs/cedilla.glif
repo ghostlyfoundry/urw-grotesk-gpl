@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cedilla" format="2">
+  <advance width="469"/>
+  <unicode hex="00B8"/>
+  <outline>
+    <contour>
+      <point x="199.656" y="-68.6471" type="line"/>
+      <point x="222.751" y="-84.6261"/>
+      <point x="231.816" y="-100.749"/>
+      <point x="231.816" y="-123.886" type="curve" smooth="yes"/>
+      <point x="231.816" y="-148.628"/>
+      <point x="221.238" y="-167.268"/>
+      <point x="194.784" y="-184.058" type="curve"/>
+      <point x="206.622" y="-189.497" type="line"/>
+      <point x="253.142" y="-159.79"/>
+      <point x="273.858" y="-132.028"/>
+      <point x="273.858" y="-99.0225" type="curve" smooth="yes"/>
+      <point x="273.858" y="-73.6706"/>
+      <point x="264.322" y="-56.4497"/>
+      <point x="238.589" y="-36.6665" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>f8f2e2976f51b5de55db83fbdf603e67be499d60fe11f295f50b64615a4bf6da7091170c33e8c1251794e4bd80794572ee09aff7f8ab9315321311891f256af6</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 245 60</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

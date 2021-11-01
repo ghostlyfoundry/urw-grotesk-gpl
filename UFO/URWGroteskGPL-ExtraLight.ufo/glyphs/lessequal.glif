@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lessequal" format="2">
+  <advance width="532"/>
+  <unicode hex="2264"/>
+  <outline>
+    <contour>
+      <point x="488.347" y="584.442" type="line"/>
+      <point x="17.6117" y="403.002" type="line"/>
+      <point x="17.6117" y="383.001" type="line"/>
+      <point x="478.409" y="196.464" type="line"/>
+      <point x="493.422" y="213.979" type="line"/>
+      <point x="56.86" y="392.233" type="line"/>
+      <point x="501.422" y="567.493" type="line"/>
+    </contour>
+    <contour>
+      <point x="17.6117" y="150.045" type="line"/>
+      <point x="17.6117" y="129.498" type="line"/>
+      <point x="514.45" y="129.498" type="line"/>
+      <point x="514.45" y="150.045" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>108420422c7434b23786d559cb70c46958efdde43e520f812188a3294fd5893f7dbdef75c7ac8a7954e60b7cbce42dec455107a4d118381f4e2ab8f9b9a46192</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 125 43</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotesinglbase" format="2">
+  <advance width="240"/>
+  <unicode hex="201A"/>
+  <outline>
+    <contour>
+      <point x="161.432" y="81.6702" type="line"/>
+      <point x="102.814" y="81.6702" type="line"/>
+      <point x="102.814" y="20.1154" type="line" smooth="yes"/>
+      <point x="102.814" y="0.688995"/>
+      <point x="97.0133" y="-22.4859"/>
+      <point x="79.3442" y="-68.131" type="curve" smooth="yes"/>
+      <point x="48.3709" y="-148.145" type="line"/>
+      <point x="71.3736" y="-148.145" type="line"/>
+      <point x="161.432" y="-13.0574" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w240m161.43,81.67l102.81,81.67l102.81,20.12c102.81,0.69 97.01,-22.49 79.34,-68.13l48.37,-148.15l71.37,-148.15l161.43,-13.06</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -143 9.42</string>
+          <string>hstem 102 -20</string>
+          <string>vstem 106 76</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>
