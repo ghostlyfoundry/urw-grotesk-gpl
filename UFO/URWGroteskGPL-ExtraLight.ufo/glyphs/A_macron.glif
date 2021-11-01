@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Amacron" format="2">
-  <advance width="590"/>
+  <advance width="586"/>
   <unicode hex="0100"/>
   <outline>
     <contour>
-      <point x="327.738" y="667" type="line"/>
-      <point x="263.735" y="667" type="line"/>
-      <point x="-2.26514" y="0" type="line"/>
-      <point x="64.397" y="0" type="line"/>
-      <point x="147.276" y="223.772" type="line"/>
-      <point x="440.99" y="223.772" type="line"/>
-      <point x="526.976" y="0" type="line"/>
-      <point x="593.738" y="0" type="line"/>
+      <point x="309" y="667" type="line"/>
+      <point x="269" y="667" type="line"/>
+      <point x="-2" y="0" type="line"/>
+      <point x="62" y="0" type="line"/>
+      <point x="154" y="243" type="line"/>
+      <point x="430" y="243" type="line"/>
+      <point x="528" y="0" type="line"/>
+      <point x="588" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="423.296" y="267.111" type="line"/>
-      <point x="165.245" y="267.111" type="line"/>
-      <point x="292.503" y="606.466" type="line"/>
+      <point x="411" y="288" type="line"/>
+      <point x="171" y="288" type="line"/>
+      <point x="288" y="592" type="line"/>
     </contour>
     <contour>
-      <point x="165.937" y="821.361" type="line"/>
-      <point x="165.937" y="796.67" type="line"/>
-      <point x="424.5" y="796.67" type="line"/>
-      <point x="424.5" y="821.361" type="line"/>
+      <point x="163" y="810" type="line"/>
+      <point x="163" y="770" type="line"/>
+      <point x="415" y="770" type="line"/>
+      <point x="415" y="810" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -32,16 +32,16 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>f5cc8a63ea1c5148c3472f7d31cec6b337226be25a73ad3405c8ae2714f5e8c8084b7b486336cdbf8eaf66f3e6397107e4e116140586e5c0d3bcec8437153b28</string>
+    <string>w586m309,667l269,667l-2,0l62,0l154,243l430,243l528,0l588,0m411,288l171,288l288,592m163,810l163,770l415,770l415,810</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 0 9.42</string>
-          <string>hstem 216 65</string>
-          <string>hstem 667 -20</string>
-          <string>hstem 769 47</string>
+          <string>hstem 0 20</string>
+          <string>hstem 243 45</string>
+          <string>hstem 647 20</string>
+          <string>hstem 770 40</string>
         </array>
       </dict>
     </array>

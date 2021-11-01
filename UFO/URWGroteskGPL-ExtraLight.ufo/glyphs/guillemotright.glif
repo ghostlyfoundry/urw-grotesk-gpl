@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="guillemotright" format="2">
-  <advance width="383"/>
+  <advance width="380"/>
   <unicode hex="00BB"/>
   <outline>
     <contour>
-      <point x="50.0381" y="431.832" type="line"/>
-      <point x="115.793" y="213.959" type="line"/>
-      <point x="54.9418" y="0" type="line"/>
-      <point x="67.5427" y="0" type="line"/>
-      <point x="181.362" y="213.901" type="line"/>
-      <point x="67.4881" y="431.832" type="line"/>
+      <point x="53" y="434" type="line"/>
+      <point x="119" y="214" type="line"/>
+      <point x="59" y="0" type="line"/>
+      <point x="75" y="0" type="line"/>
+      <point x="189" y="214" type="line"/>
+      <point x="75" y="434" type="line"/>
     </contour>
     <contour>
-      <point x="208.543" y="431.832" type="line"/>
-      <point x="274.298" y="213.959" type="line"/>
-      <point x="213.447" y="0" type="line"/>
-      <point x="226.048" y="0" type="line"/>
-      <point x="339.867" y="213.901" type="line"/>
-      <point x="225.993" y="431.832" type="line"/>
+      <point x="198" y="434" type="line"/>
+      <point x="264" y="214" type="line"/>
+      <point x="204" y="0" type="line"/>
+      <point x="220" y="0" type="line"/>
+      <point x="334" y="214" type="line"/>
+      <point x="220" y="434" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -27,14 +27,14 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>1fd4f341e5621e77c7dde8b8baa6b1cfd5324aba38f72f5f659590f01395a972d869679c580aace8b63c83ee630861ef03e30a409672db8411947f0e5361deb9</string>
+    <string>w380m53,434l119,214l59,0l75,0l189,214l75,434m198,434l264,214l204,0l220,0l334,214l220,434</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 0 9.42</string>
-          <string>hstem 440 -20</string>
+          <string>hstem 0 20</string>
+          <string>hstem 414 20</string>
         </array>
       </dict>
     </array>

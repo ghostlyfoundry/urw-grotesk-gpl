@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="igrave" format="2">
-  <advance width="200"/>
+  <advance width="213"/>
   <unicode hex="00EC"/>
   <outline>
     <contour>
-      <point x="127.865" y="439.571" type="line"/>
-      <point x="71.125" y="439.571" type="line"/>
-      <point x="71.125" y="0" type="line"/>
-      <point x="127.865" y="0" type="line"/>
+      <point x="130" y="434" type="line"/>
+      <point x="82" y="434" type="line"/>
+      <point x="82" y="0" type="line"/>
+      <point x="130" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="19.4442" y="711.94" type="line"/>
-      <point x="-34.985" y="694.752" type="line"/>
-      <point x="111.224" y="556.924" type="line"/>
-      <point x="124.271" y="559.297" type="line"/>
+      <point x="36" y="696" type="line"/>
+      <point x="-29" y="688" type="line"/>
+      <point x="142" y="535" type="line"/>
+      <point x="170" y="539" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -23,14 +23,15 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w200m127.86,439.57l71.13,439.57l71.13,0l127.86,0m19.44,711.94l-34.98,694.75l111.22,556.92l124.27,559.3</string>
+    <string>w213m130,434l82,434l82,0l130,0m36,696l-29,688l142,535l170,539</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 0 9.61</string>
-          <string>vstem 77 73</string>
+          <string>hstem 0 20</string>
+          <string>hstem 414 20</string>
+          <string>vstem 82 48</string>
         </array>
       </dict>
     </array>

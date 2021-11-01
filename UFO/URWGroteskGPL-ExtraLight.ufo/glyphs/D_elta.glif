@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Delta" format="2">
-  <advance width="595"/>
+  <advance width="603"/>
   <unicode hex="0394"/>
   <outline>
     <contour>
-      <point x="6.15932" y="0" type="line"/>
-      <point x="590.013" y="0" type="line"/>
-      <point x="317.483" y="667.261" type="line"/>
+      <point x="6.02811" y="0" type="line"/>
+      <point x="598.866" y="0" type="line"/>
+      <point x="322.142" y="677.529" type="line"/>
     </contour>
     <contour>
-      <point x="25.026" y="13.5268" type="line"/>
-      <point x="280.044" y="561.875" type="line"/>
-      <point x="506.327" y="13.5268" type="line"/>
+      <point x="45.86" y="26.7665" type="line"/>
+      <point x="284.67" y="540.264" type="line"/>
+      <point x="496.572" y="26.7665" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -21,7 +21,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w595m6.16,0l590.01,0l317.48,667.26m25.03,13.53l280.04,561.88l506.33,13.53</string>
+    <string>w603m6.03,0l598.87,0l322.14,677.53m45.86,26.77l284.67,540.26l496.57,26.77</string>
     <key>hintSetList</key>
     <array>
       <dict>

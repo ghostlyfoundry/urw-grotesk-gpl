@@ -1,36 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="asciicircum" format="2">
-  <advance width="413"/>
+  <advance width="430"/>
   <unicode hex="005E"/>
   <outline>
     <contour>
-      <point x="72.2597" y="456.559" type="line"/>
-      <point x="204.581" y="671.049" type="line"/>
-      <point x="340.122" y="456.532" type="line"/>
-      <point x="365.791" y="465.088" type="line"/>
-      <point x="214.298" y="698.079" type="line"/>
-      <point x="191.052" y="698.079" type="line"/>
-      <point x="46.3406" y="465.199" type="line"/>
+      <point x="81" y="441" type="line"/>
+      <point x="213" y="650" type="line"/>
+      <point x="349" y="441" type="line"/>
+      <point x="386" y="454" type="line"/>
+      <point x="224" y="696" type="line"/>
+      <point x="200" y="696" type="line"/>
+      <point x="44" y="454" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w413m72.26,456.56l204.58,671.05l340.12,456.53l365.79,465.09l214.3,698.08l191.05,698.08l46.34,465.2</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 697 -20</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
 </glyph>

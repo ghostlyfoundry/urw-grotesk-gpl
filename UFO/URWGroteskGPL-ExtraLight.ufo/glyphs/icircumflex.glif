@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="icircumflex" format="2">
-  <advance width="207"/>
+  <advance width="213"/>
   <unicode hex="00EE"/>
   <outline>
     <contour>
-      <point x="131.865" y="439.571" type="line"/>
-      <point x="75.125" y="439.571" type="line"/>
-      <point x="75.125" y="0" type="line"/>
-      <point x="131.865" y="0" type="line"/>
+      <point x="130" y="434" type="line"/>
+      <point x="82" y="434" type="line"/>
+      <point x="82" y="0" type="line"/>
+      <point x="130" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="127.316" y="713.5" type="line"/>
-      <point x="78.6527" y="713.5" type="line"/>
-      <point x="-9.56759" y="564.918" type="line"/>
-      <point x="3.69437" y="561.603" type="line"/>
-      <point x="102.889" y="685.869" type="line"/>
-      <point x="204.249" y="561.621" type="line"/>
-      <point x="216.54" y="564.793" type="line"/>
+      <point x="131" y="700" type="line"/>
+      <point x="83" y="700" type="line"/>
+      <point x="-34" y="539" type="line"/>
+      <point x="-6" y="534" type="line"/>
+      <point x="107" y="656" type="line"/>
+      <point x="221" y="534" type="line"/>
+      <point x="247" y="539" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -26,15 +26,15 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>b61178ff0cc38d134890d16f95229ad26fa3fee06ad55184b0b427b54f81fca52c8744f0ae021b18c176c5d6610f2e607884646cadc22beb2ea252e75e215982</string>
+    <string>w213m130,434l82,434l82,0l130,0m131,700l83,700l-34,539l-6,534l107,656l221,534l247,539</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 0 9.61</string>
-          <string>hstem 700 -20</string>
-          <string>vstem 77 73</string>
+          <string>hstem 0 20</string>
+          <string>hstem 414 20</string>
+          <string>vstem 82 48</string>
         </array>
       </dict>
     </array>

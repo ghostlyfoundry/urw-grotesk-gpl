@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="iacute" format="2">
-  <advance width="199"/>
+  <advance width="213"/>
   <unicode hex="00ED"/>
   <outline>
     <contour>
-      <point x="128.865" y="439.571" type="line"/>
-      <point x="72.125" y="439.571" type="line"/>
-      <point x="72.125" y="0" type="line"/>
-      <point x="128.865" y="0" type="line"/>
+      <point x="130" y="434" type="line"/>
+      <point x="82" y="434" type="line"/>
+      <point x="82" y="0" type="line"/>
+      <point x="130" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="177.785" y="712.51" type="line"/>
-      <point x="75.8072" y="563.678" type="line"/>
-      <point x="90.7189" y="561.121" type="line"/>
-      <point x="233.573" y="701.211" type="line"/>
+      <point x="204" y="697" type="line"/>
+      <point x="71" y="539" type="line"/>
+      <point x="98" y="535" type="line"/>
+      <point x="270" y="688" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -23,14 +23,15 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w199m128.86,439.57l72.13,439.57l72.13,0l128.86,0m177.78,712.51l75.81,563.68l90.72,561.12l233.57,701.21</string>
+    <string>w213m130,434l82,434l82,0l130,0m204,697l71,539l98,535l270,688</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 0 9.61</string>
-          <string>vstem 77 73</string>
+          <string>hstem 0 20</string>
+          <string>hstem 414 20</string>
+          <string>vstem 82 48</string>
         </array>
       </dict>
     </array>

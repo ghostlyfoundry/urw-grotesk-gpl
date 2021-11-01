@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="T" format="2">
-  <advance width="447"/>
+  <advance width="438"/>
   <unicode hex="0054"/>
   <outline>
     <contour>
-      <point x="253.347" y="625.733" type="line"/>
-      <point x="456.399" y="625.733" type="line"/>
-      <point x="456.399" y="667" type="line"/>
-      <point x="-9.35982" y="667" type="line"/>
-      <point x="-9.35982" y="625.733" type="line"/>
-      <point x="190.585" y="625.733" type="line"/>
-      <point x="190.585" y="0" type="line"/>
-      <point x="253.347" y="0" type="line"/>
+      <point x="243" y="623" type="line"/>
+      <point x="444" y="623" type="line"/>
+      <point x="444" y="667" type="line"/>
+      <point x="-7" y="667" type="line"/>
+      <point x="-7" y="623" type="line"/>
+      <point x="190" y="623" type="line"/>
+      <point x="190" y="0" type="line"/>
+      <point x="243" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -21,15 +21,15 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w447m253.35,625.73l456.4,625.73l456.4,667l-9.36,667l-9.36,625.73l190.58,625.73l190.58,0l253.35,0</string>
+    <string>w438m243,623l444,623l444,667l-7,667l-7,623l190,623l190,0l243,0</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 0 9.42</string>
-          <string>hstem 604 63</string>
-          <string>vstem 183 80</string>
+          <string>hstem 0 20</string>
+          <string>hstem 623 44</string>
+          <string>vstem 190 53</string>
         </array>
       </dict>
     </array>

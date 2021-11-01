@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quotedblleft" format="2">
-  <advance width="372"/>
+  <advance width="356"/>
   <unicode hex="201C"/>
   <outline>
     <contour>
-      <point x="211.412" y="471.372" type="line"/>
-      <point x="270.03" y="471.372" type="line"/>
-      <point x="270.03" y="532.927" type="line" smooth="yes"/>
-      <point x="270.03" y="551.415"/>
-      <point x="276.752" y="575.229"/>
-      <point x="294.536" y="621.173" type="curve" smooth="yes"/>
-      <point x="325.51" y="701.187" type="line"/>
-      <point x="301.471" y="701.187" type="line"/>
-      <point x="211.412" y="566.099" type="line"/>
+      <point x="192" y="476" type="line"/>
+      <point x="252" y="476" type="line"/>
+      <point x="252" y="542" type="line" smooth="yes"/>
+      <point x="252" y="554"/>
+      <point x="258" y="572"/>
+      <point x="275" y="612" type="curve" smooth="yes"/>
+      <point x="311" y="700" type="line"/>
+      <point x="281" y="703" type="line"/>
+      <point x="192" y="576" type="line"/>
     </contour>
     <contour>
-      <point x="73.6267" y="471.372" type="line"/>
-      <point x="132.245" y="471.372" type="line"/>
-      <point x="132.245" y="532.927" type="line" smooth="yes"/>
-      <point x="132.245" y="552.497"/>
-      <point x="138.645" y="575.389"/>
-      <point x="156.684" y="620.961" type="curve"/>
-      <point x="186.014" y="701.187" type="line"/>
-      <point x="163.685" y="701.187" type="line"/>
-      <point x="73.6267" y="566.099" type="line"/>
+      <point x="75" y="476" type="line"/>
+      <point x="135" y="476" type="line"/>
+      <point x="135" y="542" type="line" smooth="yes"/>
+      <point x="135" y="555"/>
+      <point x="140" y="571"/>
+      <point x="158" y="612" type="curve"/>
+      <point x="192" y="700" type="line"/>
+      <point x="164" y="703" type="line"/>
+      <point x="75" y="576" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -33,16 +33,14 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>a4b8d5eec8e7c640f13b31e676532c4fe233fe9e91470a1b80fdc21579800b0235c714bc0ab66b67696fb30d40868fa440ac73956329f5ac7acb63f549f843d0</string>
+    <string>0aa5af4357c55975657fede479bc1931ca2858948ffc9be587351f85e46fccb72a64d8c501ead6e371940bae8859246b581768e895e8bf02140c3d56e534daef</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 455 9.42</string>
-          <string>hstem 700 -20</string>
-          <string>vstem 73 76</string>
-          <string>vstem 206 76</string>
+          <string>vstem 75 60</string>
+          <string>vstem 192 60</string>
         </array>
       </dict>
     </array>

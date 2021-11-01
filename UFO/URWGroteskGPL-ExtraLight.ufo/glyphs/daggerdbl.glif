@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="daggerdbl" format="2">
-  <advance width="539"/>
+  <advance width="529"/>
   <unicode hex="2021"/>
   <outline>
     <contour>
-      <point x="298.186" y="667" type="line"/>
-      <point x="239.2" y="667" type="line"/>
-      <point x="253.737" y="454.132" type="line"/>
-      <point x="65.3388" y="462.459" type="line" name="hr01"/>
-      <point x="65.3388" y="414.159" type="line"/>
-      <point x="252.852" y="428.663" type="line"/>
-      <point x="252.852" y="102.624" type="line"/>
-      <point x="65.3388" y="117.127" type="line"/>
-      <point x="65.3388" y="68.8273" type="line"/>
-      <point x="253.737" y="77.1543" type="line"/>
-      <point x="239.2" y="-135.714" type="line"/>
-      <point x="298.186" y="-135.714" type="line"/>
-      <point x="283.649" y="77.1543" type="line"/>
-      <point x="472.047" y="68.8273" type="line"/>
-      <point x="472.047" y="117.127" type="line"/>
-      <point x="284.534" y="102.624" type="line"/>
-      <point x="284.534" y="428.663" type="line"/>
-      <point x="472.047" y="414.159" type="line"/>
-      <point x="472.047" y="462.459" type="line"/>
-      <point x="283.649" y="454.132" type="line"/>
+      <point x="298" y="660" type="line"/>
+      <point x="230" y="660" type="line"/>
+      <point x="244" y="453" type="line"/>
+      <point x="65" y="461" type="line"/>
+      <point x="65" y="401" type="line"/>
+      <point x="245" y="417" type="line"/>
+      <point x="245" y="106" type="line"/>
+      <point x="65" y="121" type="line"/>
+      <point x="65" y="62" type="line"/>
+      <point x="245" y="70" type="line"/>
+      <point x="230" y="-137" type="line"/>
+      <point x="298" y="-137" type="line"/>
+      <point x="283" y="70" type="line"/>
+      <point x="464" y="62" type="line"/>
+      <point x="464" y="121" type="line"/>
+      <point x="283" y="106" type="line"/>
+      <point x="283" y="417" type="line"/>
+      <point x="464" y="401" type="line"/>
+      <point x="464" y="461" type="line"/>
+      <point x="284" y="453" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -33,30 +33,14 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>e095a93215f0caae100fb39084a88be9d0c40e58ce9e475accde9c1cfe8fedd9124d5e38e409b78cc8f528601148b8ab0b4617afc9e8c3b3d88ad998ee6115ce</string>
+    <string>8a60bbff05472c35eaad9e684c4b7214232b4a9f39ef217619f81fa3830ad7ecef98396e8b7747822240d12f35c65560b661c6ebc37db057cd00a8d7bab55c47</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 667 -20</string>
-          <string>hstem 81.58 36.83</string>
-          <string>hstem -131 9.42</string>
-          <string>vstem 246.71 44.58</string>
-          <string>hstem 417.58 36.83</string>
+          <string>vstem 245 38</string>
         </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 81.58 36.83</string>
-          <string>hstem -131 9.42</string>
-          <string>vstem 65 231</string>
-          <string>hstem 417.58 36.83</string>
-          <string>hstem 667 -20</string>
-        </array>
-        <key>pointTag</key>
-        <string>hr01</string>
       </dict>
     </array>
   </dict>

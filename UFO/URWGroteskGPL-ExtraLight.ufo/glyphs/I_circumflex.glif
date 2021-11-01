@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Icircumflex" format="2">
-  <advance width="240"/>
+  <advance width="251"/>
   <unicode hex="00CE"/>
   <outline>
     <contour>
-      <point x="151.108" y="667" type="line"/>
-      <point x="88.3463" y="667" type="line"/>
-      <point x="88.3463" y="0" type="line"/>
-      <point x="151.108" y="0" type="line"/>
+      <point x="152" y="667" type="line"/>
+      <point x="99" y="667" type="line"/>
+      <point x="99" y="0" type="line"/>
+      <point x="152" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="147.205" y="885.592" type="line"/>
-      <point x="98.4658" y="885.592" type="line"/>
-      <point x="-3.08362" y="741.428" type="line"/>
-      <point x="7.82472" y="739.383" type="line"/>
-      <point x="122.774" y="862.847" type="line"/>
-      <point x="239.816" y="739.421" type="line"/>
-      <point x="248.89" y="741.236" type="line"/>
+      <point x="150" y="874" type="line"/>
+      <point x="102" y="874" type="line"/>
+      <point x="-25" y="716" type="line"/>
+      <point x="3" y="712" type="line"/>
+      <point x="126" y="832" type="line"/>
+      <point x="250" y="712" type="line"/>
+      <point x="276" y="716" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -26,16 +26,15 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>71aa9dd84066fdf9b2e599675614496f0a5d60642a9e33dbd81f56fe0b66fc44f4004dddc7884a84229df54e5eb8777593a5177e04ff21d520fdd750f3e36b53</string>
+    <string>w251m152,667l99,667l99,0l152,0m150,874l102,874l-25,716l3,712l126,832l250,712l276,716</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 0 9.42</string>
-          <string>hstem 667 -20</string>
-          <string>hstem 878 -20</string>
-          <string>vstem 93 80</string>
+          <string>hstem 0 20</string>
+          <string>hstem 647 20</string>
+          <string>vstem 99 53</string>
         </array>
       </dict>
     </array>

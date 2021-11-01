@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quotedblbase" format="2">
-  <advance width="369"/>
+  <advance width="356"/>
   <unicode hex="201E"/>
   <outline>
     <contour>
-      <point x="177.08" y="86.8501" type="line"/>
-      <point x="118.462" y="86.8501" type="line"/>
-      <point x="118.462" y="25.2954" type="line" smooth="yes"/>
-      <point x="118.462" y="2.53654"/>
-      <point x="106.497" y="-36.3344"/>
-      <point x="90.2068" y="-64.5608" type="curve" smooth="yes"/>
-      <point x="45.5245" y="-142.966" type="line"/>
-      <point x="73.9572" y="-142.966" type="line"/>
-      <point x="177.08" y="-7.43276" type="line"/>
+      <point x="189" y="88" type="line"/>
+      <point x="129" y="88" type="line"/>
+      <point x="129" y="22" type="line" smooth="yes"/>
+      <point x="129" y="6"/>
+      <point x="117" y="-25"/>
+      <point x="102" y="-48" type="curve" smooth="yes"/>
+      <point x="45" y="-136" type="line"/>
+      <point x="84" y="-139" type="line"/>
+      <point x="189" y="-12" type="line"/>
     </contour>
     <contour>
-      <point x="294.146" y="86.8501" type="line"/>
-      <point x="235.528" y="86.8501" type="line"/>
-      <point x="235.528" y="25.2954" type="line" smooth="yes"/>
-      <point x="235.528" y="2.53654"/>
-      <point x="223.562" y="-36.3344"/>
-      <point x="207.273" y="-64.5608" type="curve" smooth="yes"/>
-      <point x="162.59" y="-142.966" type="line"/>
-      <point x="191.023" y="-142.966" type="line"/>
-      <point x="294.146" y="-7.43276" type="line"/>
+      <point x="281" y="88" type="line"/>
+      <point x="221" y="88" type="line"/>
+      <point x="221" y="22" type="line" smooth="yes"/>
+      <point x="221" y="6"/>
+      <point x="209" y="-25"/>
+      <point x="194" y="-48" type="curve" smooth="yes"/>
+      <point x="137" y="-136" type="line"/>
+      <point x="176" y="-139" type="line"/>
+      <point x="281" y="-12" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -33,15 +33,14 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>b4c9af318cc98203aa367f2c0f756c87331a8054c0d92c690ac6b5a37474324c928b4ef3f350ffbd4e9bfc02d9938956f6a5dab2adf891c3053b5898291ff9ae</string>
+    <string>a61cd4d14076238de3e68f69cbf52d9943f01d7fa0fc79a6a484127b6c4099a608d451c47b830b88221f97575ed23c96a3e63f4e5d806f66745f92b3c8b10653</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -138 245</string>
-          <string>vstem 124 76</string>
-          <string>vstem 237 76</string>
+          <string>vstem 129 60</string>
+          <string>vstem 221 60</string>
         </array>
       </dict>
     </array>

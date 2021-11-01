@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ohungarumlaut" format="2">
-  <advance width="502"/>
+  <advance width="483"/>
   <unicode hex="0151"/>
   <outline>
     <contour>
-      <point x="255.522" y="450.107" type="curve" smooth="yes"/>
-      <point x="128.852" y="450.107"/>
-      <point x="45.4107" y="359.043"/>
-      <point x="45.4107" y="222.946" type="curve" smooth="yes"/>
-      <point x="45.4107" y="79.6505"/>
-      <point x="126.841" y="-10.5357"/>
-      <point x="255.522" y="-10.5357" type="curve" smooth="yes"/>
-      <point x="382.162" y="-10.5357"/>
-      <point x="464.579" y="80.5915"/>
-      <point x="464.579" y="219.786" type="curve" smooth="yes"/>
-      <point x="464.579" y="359.981"/>
-      <point x="382.162" y="450.107"/>
+      <point x="240" y="443" type="curve" smooth="yes"/>
+      <point x="129" y="443"/>
+      <point x="48" y="350"/>
+      <point x="48" y="221" type="curve" smooth="yes"/>
+      <point x="48" y="84"/>
+      <point x="127" y="-9"/>
+      <point x="241" y="-9" type="curve" smooth="yes"/>
+      <point x="356" y="-9"/>
+      <point x="435" y="83"/>
+      <point x="435" y="216" type="curve" smooth="yes"/>
+      <point x="435" y="350"/>
+      <point x="355" y="443"/>
     </contour>
     <contour>
-      <point x="255.522" y="407.732" type="curve" smooth="yes"/>
-      <point x="342.714" y="407.732"/>
-      <point x="400.464" y="332.328"/>
-      <point x="400.464" y="219.786" type="curve" smooth="yes"/>
-      <point x="400.464" y="107.243"/>
-      <point x="342.714" y="31.8393"/>
-      <point x="255.522" y="31.8393" type="curve" smooth="yes"/>
-      <point x="167.245" y="31.8393"/>
-      <point x="109.525" y="106.061"/>
-      <point x="109.525" y="221.893" type="curve" smooth="yes"/>
-      <point x="109.525" y="332.27"/>
-      <point x="168.377" y="407.732"/>
+      <point x="242" y="396" type="curve" smooth="yes"/>
+      <point x="324" y="396"/>
+      <point x="381" y="323"/>
+      <point x="381" y="217" type="curve" smooth="yes"/>
+      <point x="381" y="111"/>
+      <point x="324" y="38"/>
+      <point x="242" y="38" type="curve" smooth="yes"/>
+      <point x="157" y="38"/>
+      <point x="102" y="110"/>
+      <point x="102" y="219" type="curve" smooth="yes"/>
+      <point x="102" y="324"/>
+      <point x="159" y="396"/>
     </contour>
     <contour>
-      <point x="257.872" y="712.328" type="line"/>
-      <point x="168.626" y="563.278" type="line"/>
-      <point x="177.687" y="561.336" type="line"/>
-      <point x="308.399" y="701.254" type="line"/>
+      <point x="252" y="697" type="line"/>
+      <point x="167" y="539" type="line"/>
+      <point x="190" y="535" type="line"/>
+      <point x="317" y="686" type="line"/>
     </contour>
     <contour>
-      <point x="412.737" y="712.311" type="line"/>
-      <point x="323.501" y="563.278" type="line"/>
-      <point x="332.54" y="561.341" type="line"/>
-      <point x="462.357" y="701.285" type="line"/>
+      <point x="388" y="697" type="line"/>
+      <point x="303" y="539" type="line"/>
+      <point x="325" y="535" type="line"/>
+      <point x="452" y="686" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -51,16 +51,16 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>e8701398b6a1c75bc25ace988f6534ee52305f23180f2bd013e600cbb6606903e20bd985231dff0fc52f0750fd66259c837abb41e2f13751a30fe425bc26eea7</string>
+    <string>d2159c2c9a82d4682b42d9a9fe1926ba9e677326e0a680a042e10968c137aa12c28c6f740706f83683741fd0cb01a126e5d27e2d54a65be3ba228cb4d2d60dd2</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -10 63</string>
-          <string>hstem 387 63</string>
-          <string>vstem 45 80</string>
-          <string>vstem 382 80</string>
+          <string>hstem -9 47</string>
+          <string>hstem 396 47</string>
+          <string>vstem 48 54</string>
+          <string>vstem 381 54</string>
         </array>
       </dict>
     </array>

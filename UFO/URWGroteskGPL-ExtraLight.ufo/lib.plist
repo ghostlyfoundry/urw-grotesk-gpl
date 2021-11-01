@@ -90,8 +90,6 @@
   <key>public.glyphOrder</key>
   <array>
     <string>.notdef</string>
-    <string>NULL</string>
-    <string>CR</string>
     <string>space</string>
     <string>exclam</string>
     <string>quotedbl</string>

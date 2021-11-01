@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ogonek" format="2">
-  <advance width="482"/>
+  <advance width="500"/>
   <unicode hex="02DB"/>
   <outline>
     <contour>
-      <point x="322.586" y="-24" type="line"/>
-      <point x="280.352" y="-43.6006"/>
-      <point x="264.499" y="-63.8117"/>
-      <point x="264.499" y="-94.8786" type="curve" smooth="yes"/>
-      <point x="264.499" y="-141.659"/>
-      <point x="311.086" y="-174.045"/>
-      <point x="376.687" y="-174.045" type="curve" smooth="yes"/>
-      <point x="382.903" y="-174.045"/>
-      <point x="387.099" y="-174.591"/>
-      <point x="397.459" y="-173.555" type="curve"/>
-      <point x="397.819" y="-172.37" type="line"/>
-      <point x="353.366" y="-168.922"/>
-      <point x="308.614" y="-139.768"/>
-      <point x="308.614" y="-90.7346" type="curve" smooth="yes"/>
-      <point x="308.614" y="-65.7191"/>
-      <point x="321.192" y="-41.3622"/>
-      <point x="340.475" y="-24" type="curve"/>
+      <point x="360" y="0" type="line"/>
+      <point x="323" y="-15"/>
+      <point x="306" y="-38"/>
+      <point x="306" y="-72" type="curve" smooth="yes"/>
+      <point x="306" y="-102"/>
+      <point x="322" y="-126"/>
+      <point x="353" y="-143" type="curve" smooth="yes"/>
+      <point x="377" y="-156"/>
+      <point x="393" y="-159"/>
+      <point x="438" y="-158" type="curve"/>
+      <point x="443" y="-136" type="line"/>
+      <point x="393" y="-136"/>
+      <point x="358" y="-110"/>
+      <point x="358" y="-72" type="curve" smooth="yes"/>
+      <point x="358" y="-39"/>
+      <point x="383" y="-11"/>
+      <point x="420" y="0" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -30,14 +30,14 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>5711d58bd7b18c21e4e2817de4957e7ca7fe2549767e8da4651569f031bc645cc508daa047e3b52cce12dd29b2ebf07dadee2946d13c16628be1ccf6e45ca3c1</string>
+    <string>411072fd9294a8eb819a16995fe586ffae568bdaac9ede8292ce62aa3aec408b3d57320a3a515d8b2112905b564285a529c2ea41715a5d712d952f94cceea383</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -168 168</string>
-          <string>vstem 264 62</string>
+          <string>hstem 0 20</string>
+          <string>vstem 306 52</string>
         </array>
       </dict>
     </array>

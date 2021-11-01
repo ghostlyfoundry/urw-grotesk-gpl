@@ -1,26 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="four" format="2">
-  <advance width="540"/>
+  <advance width="529"/>
   <unicode hex="0034"/>
   <outline>
     <contour>
-      <point x="399.492" y="667" type="line"/>
-      <point x="321.419" y="667" type="line"/>
-      <point x="41.4753" y="203.82" type="line"/>
-      <point x="41.4753" y="154.361" type="line"/>
-      <point x="343.982" y="154.361" type="line"/>
-      <point x="343.982" y="0" type="line"/>
-      <point x="399.492" y="0" type="line"/>
-      <point x="399.492" y="154.361" type="line"/>
-      <point x="494.803" y="154.361" type="line"/>
-      <point x="494.803" y="195.628" type="line"/>
-      <point x="399.492" y="195.628" type="line"/>
+      <point x="385" y="667" type="line"/>
+      <point x="319" y="667" type="line"/>
+      <point x="43" y="198" type="line"/>
+      <point x="43" y="153" type="line"/>
+      <point x="335" y="153" type="line"/>
+      <point x="335" y="0" type="line"/>
+      <point x="385" y="0" type="line"/>
+      <point x="385" y="153" type="line"/>
+      <point x="478" y="153" type="line"/>
+      <point x="478" y="198" type="line"/>
+      <point x="385" y="198" type="line"/>
     </contour>
     <contour>
-      <point x="327.699" y="593.816" type="line"/>
-      <point x="343.982" y="588.632" type="line"/>
-      <point x="343.982" y="195.628" type="line"/>
-      <point x="99.3883" y="195.628" type="line"/>
+      <point x="335" y="599" type="line"/>
+      <point x="335" y="198" type="line"/>
+      <point x="99" y="198" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -30,16 +29,16 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>49bb6700e949de66f8ca9a6851f24486161e7d5440982bef3bdbe36598479aa6df00a5cd5c34592885fb83766c1d4247753fa7620003cb904b197877b33eb61b</string>
+    <string>w529m385,667l319,667l43,198l43,153l335,153l335,0l385,0l385,153l478,153l478,198l385,198m335,599l335,198l99,198</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 0 9.42</string>
-          <string>hstem 149 63</string>
-          <string>hstem 667 -20</string>
-          <string>vstem 333 73</string>
+          <string>hstem 0 20</string>
+          <string>hstem 153 45</string>
+          <string>hstem 647 20</string>
+          <string>vstem 335 50</string>
         </array>
       </dict>
     </array>

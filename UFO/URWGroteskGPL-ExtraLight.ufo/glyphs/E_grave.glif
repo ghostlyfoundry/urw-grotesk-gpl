@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Egrave" format="2">
-  <advance width="483"/>
+  <advance width="464"/>
   <unicode hex="00C8"/>
   <outline>
     <contour>
-      <point x="156.108" y="361.385" type="line"/>
-      <point x="156.108" y="625.733" type="line"/>
-      <point x="410.96" y="625.733" type="line"/>
-      <point x="410.96" y="667" type="line"/>
-      <point x="93.3463" y="667" type="line"/>
-      <point x="93.3463" y="0" type="line"/>
-      <point x="448.255" y="0" type="line"/>
-      <point x="448.255" y="41.2669" type="line"/>
-      <point x="156.108" y="41.2669" type="line"/>
-      <point x="156.108" y="320.118" type="line"/>
-      <point x="410.96" y="320.118" type="line"/>
-      <point x="410.96" y="361.385" type="line"/>
+      <point x="152" y="364" type="line"/>
+      <point x="152" y="623" type="line"/>
+      <point x="397" y="623" type="line"/>
+      <point x="397" y="667" type="line"/>
+      <point x="99" y="667" type="line"/>
+      <point x="99" y="0" type="line"/>
+      <point x="432" y="0" type="line"/>
+      <point x="432" y="44" type="line"/>
+      <point x="152" y="44" type="line"/>
+      <point x="152" y="320" type="line"/>
+      <point x="397" y="320" type="line"/>
+      <point x="397" y="364" type="line"/>
     </contour>
     <contour>
-      <point x="175.23" y="886.816" type="line"/>
-      <point x="122.544" y="876.146" type="line"/>
-      <point x="287.745" y="738.176" type="line"/>
-      <point x="299.22" y="740.201" type="line"/>
+      <point x="203" y="872" type="line"/>
+      <point x="138" y="864" type="line"/>
+      <point x="309" y="711" type="line"/>
+      <point x="337" y="715" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -31,16 +31,16 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>8964a802fd14f4342cff196affbe5ab1bcbc9380e3f3901c3556740628ed388b7b025bf48689cf1d625f916121385bde6cce2bf1c204abe681ebab748c8deb38</string>
+    <string>w464m152,364l152,623l397,623l397,667l99,667l99,0l432,0l432,44l152,44l152,320l397,320l397,364m203,872l138,864l309,711l337,715</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 0 63</string>
-          <string>hstem 309 63</string>
-          <string>hstem 604 63</string>
-          <string>vstem 93 80</string>
+          <string>hstem 0 44</string>
+          <string>hstem 320 44</string>
+          <string>hstem 623 44</string>
+          <string>vstem 99 53</string>
         </array>
       </dict>
     </array>

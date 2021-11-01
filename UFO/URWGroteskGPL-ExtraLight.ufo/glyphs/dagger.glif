@@ -1,46 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dagger" format="2">
-  <advance width="539"/>
+  <advance width="529"/>
   <unicode hex="2020"/>
   <outline>
     <contour>
-      <point x="298.402" y="667" type="line"/>
-      <point x="239.973" y="667" type="line"/>
-      <point x="253.463" y="384.749" type="line"/>
-      <point x="59.1229" y="393.063" type="line"/>
-      <point x="59.1229" y="345.758" type="line"/>
-      <point x="253.205" y="360.288" type="line"/>
-      <point x="239.715" y="-135.714" type="line"/>
-      <point x="298.681" y="-135.714" type="line"/>
-      <point x="284.153" y="360.286" type="line"/>
-      <point x="479.299" y="345.754" type="line"/>
-      <point x="479.299" y="393.065" type="line"/>
-      <point x="283.874" y="384.749" type="line"/>
+      <point x="296" y="660" type="line"/>
+      <point x="233" y="660" type="line"/>
+      <point x="248" y="379" type="line"/>
+      <point x="57" y="388" type="line"/>
+      <point x="57" y="331" type="line"/>
+      <point x="248" y="347" type="line"/>
+      <point x="233" y="-137" type="line"/>
+      <point x="296" y="-137" type="line"/>
+      <point x="281" y="347" type="line"/>
+      <point x="472" y="331" type="line"/>
+      <point x="472" y="388" type="line"/>
+      <point x="281" y="379" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>f6df65fb71d91c32cc38ca2dafeeef48458d89ccf06f2c71fb95602272545039d0e71a4f1d4ff0475a9c660069ad37b199a642ef8c95068fe5601367906d16d7</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -131 9.42</string>
-          <string>hstem 351.58 35.83</string>
-          <string>hstem 667 -20</string>
-          <string>vstem 66.71 224.58</string>
-          <string>vstem 247.21 44.08</string>
-          <string>vstem 247.21 225.08</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
 </glyph>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="guilsinglleft" format="2">
-  <advance width="225"/>
+  <advance width="235"/>
   <unicode hex="2039"/>
   <outline>
     <contour>
-      <point x="174.611" y="0" type="line"/>
-      <point x="107.862" y="218.897" type="line"/>
-      <point x="168.701" y="431.832" type="line"/>
-      <point x="157.143" y="431.832" type="line"/>
-      <point x="43.3375" y="218.938" type="line"/>
-      <point x="157.225" y="0" type="line"/>
+      <point x="182" y="0" type="line"/>
+      <point x="116" y="220" type="line"/>
+      <point x="176" y="434" type="line"/>
+      <point x="160" y="434" type="line"/>
+      <point x="46" y="220" type="line"/>
+      <point x="160" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -19,14 +19,14 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w225m174.61,0l107.86,218.9l168.7,431.83l157.14,431.83l43.34,218.94l157.22,0</string>
+    <string>w235m182,0l116,220l176,434l160,434l46,220l160,0</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 0 9.42</string>
-          <string>hstem 440 -20</string>
+          <string>hstem 0 20</string>
+          <string>hstem 414 20</string>
         </array>
       </dict>
     </array>

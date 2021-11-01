@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Zcaron" format="2">
-  <advance width="490"/>
+  <advance width="472"/>
   <unicode hex="017D"/>
   <outline>
     <contour>
-      <point x="38.3313" y="667" type="line"/>
-      <point x="38.3313" y="625.733" type="line"/>
-      <point x="401.953" y="625.733" type="line"/>
-      <point x="0" y="51.0574" type="line"/>
-      <point x="0" y="0" type="line"/>
-      <point x="502.018" y="0" type="line"/>
-      <point x="502.018" y="43.3388" type="line"/>
-      <point x="60.6211" y="43.3388" type="line"/>
-      <point x="462.651" y="614.925" type="line"/>
-      <point x="462.651" y="667" type="line"/>
+      <point x="37" y="667" type="line"/>
+      <point x="37" y="623" type="line"/>
+      <point x="396" y="623" type="line"/>
+      <point x="-1" y="47" type="line"/>
+      <point x="-1" y="0" type="line"/>
+      <point x="489" y="0" type="line"/>
+      <point x="489" y="44" type="line"/>
+      <point x="54" y="44" type="line"/>
+      <point x="450" y="618" type="line"/>
+      <point x="450" y="667" type="line"/>
     </contour>
     <contour>
-      <point x="275.877" y="738.655" type="line"/>
-      <point x="396.013" y="883.365" type="line"/>
-      <point x="388.221" y="884.924" type="line"/>
-      <point x="250.963" y="762.448" type="line"/>
-      <point x="115.779" y="884.958" type="line"/>
-      <point x="106.177" y="883.158" type="line"/>
-      <point x="226.142" y="738.655" type="line"/>
+      <point x="278" y="710" type="line"/>
+      <point x="403" y="868" type="line"/>
+      <point x="378" y="872" type="line"/>
+      <point x="253" y="752" type="line"/>
+      <point x="130" y="872" type="line"/>
+      <point x="102" y="868" type="line"/>
+      <point x="229" y="710" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -32,15 +32,14 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>42c531ef15a4d99c560e0399f98d9d7bcd6a1a54d82fd858b967c9ebbc93be6d99d2aad38a786ef4955e91065fc3faeeed4281a632904ddc6c3c3e8f147612cc</string>
+    <string>1f2b844e5314b56f44575401e118d47da9e79bc5e440b6fe2cfc41a4e09b7561d79db680aab3a17448fce0bc24dcdbed76b11a192a3fd68eb246af31da9da705</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 0 65</string>
-          <string>hstem 604 63</string>
-          <string>hstem 667 46</string>
+          <string>hstem 0 44</string>
+          <string>hstem 623 44</string>
         </array>
       </dict>
     </array>

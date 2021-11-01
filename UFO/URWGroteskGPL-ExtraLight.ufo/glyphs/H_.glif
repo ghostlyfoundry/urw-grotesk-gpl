@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="H" format="2">
-  <advance width="692"/>
+  <advance width="682"/>
   <unicode hex="0048"/>
   <outline>
     <contour>
-      <point x="597.437" y="667" type="line"/>
-      <point x="534.675" y="667" type="line"/>
-      <point x="534.675" y="359.313" type="line"/>
-      <point x="156.108" y="359.313" type="line"/>
-      <point x="156.108" y="667" type="line"/>
-      <point x="93.3463" y="667" type="line"/>
-      <point x="93.3463" y="0" type="line"/>
-      <point x="156.108" y="0" type="line"/>
-      <point x="156.108" y="318.046" type="line"/>
-      <point x="534.675" y="318.046" type="line"/>
-      <point x="534.675" y="0" type="line"/>
-      <point x="597.437" y="0" type="line"/>
+      <point x="583" y="667" type="line"/>
+      <point x="530" y="667" type="line"/>
+      <point x="530" y="362" type="line"/>
+      <point x="152" y="362" type="line"/>
+      <point x="152" y="667" type="line"/>
+      <point x="99" y="667" type="line"/>
+      <point x="99" y="0" type="line"/>
+      <point x="152" y="0" type="line"/>
+      <point x="152" y="317" type="line"/>
+      <point x="530" y="317" type="line"/>
+      <point x="530" y="0" type="line"/>
+      <point x="583" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -25,17 +25,17 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>568afa8e729e2e76144b9d6d9dcaef8ad05782970bf0fd805765d985e7777c5b588d4bce13e16e741b46e511885f699fcc8b0e4d0c03c3f08aace71284c9653d</string>
+    <string>w682m583,667l530,667l530,362l152,362l152,667l99,667l99,0l152,0l152,317l530,317l530,0l583,0</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 0 9.42</string>
-          <string>hstem 307 63</string>
-          <string>hstem 667 -20</string>
-          <string>vstem 93 80</string>
-          <string>vstem 519 80</string>
+          <string>hstem 0 20</string>
+          <string>hstem 317 45</string>
+          <string>hstem 647 20</string>
+          <string>vstem 99 53</string>
+          <string>vstem 530 53</string>
         </array>
       </dict>
     </array>

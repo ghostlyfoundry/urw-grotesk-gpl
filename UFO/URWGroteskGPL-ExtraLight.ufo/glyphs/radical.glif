@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="radical" format="2">
-  <advance width="406"/>
+  <advance width="404"/>
   <unicode hex="221A"/>
   <outline>
     <contour>
-      <point x="9.32384" y="319.946" type="line"/>
-      <point x="9.32384" y="306.651" type="line"/>
-      <point x="61.6342" y="306.651" type="line"/>
-      <point x="179.736" y="0" type="line"/>
-      <point x="220.575" y="0" type="line"/>
-      <point x="467.139" y="684.784" type="line"/>
-      <point x="601.473" y="684.784" type="line"/>
-      <point x="601.473" y="701.187" type="line"/>
-      <point x="445.102" y="701.187" type="line"/>
-      <point x="206.453" y="44.9011" type="line"/>
-      <point x="106.638" y="319.946" type="line"/>
+      <point x="9.08096" y="328.987" type="line"/>
+      <point x="9.08096" y="298.663" type="line"/>
+      <point x="62.6261" y="298.663" type="line"/>
+      <point x="177.652" y="0" type="line"/>
+      <point x="225.952" y="0" type="line"/>
+      <point x="466.093" y="666.946" type="line"/>
+      <point x="599.397" y="666.946" type="line"/>
+      <point x="599.397" y="700.297" type="line"/>
+      <point x="435.996" y="700.297" type="line"/>
+      <point x="207.877" y="72.9693" type="line"/>
+      <point x="114.968" y="328.987" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -24,13 +24,13 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>88db7bcc7099b1c9922685efb195e9a7c2a92e91477a0c6c2616d62982407424f2e743a002f43e4b660f1c886bbe8536964469f324e4cf4ebb1d23c2bb391a15</string>
+    <string>fcd3329b706f519bdcaff2c5758633bd885bdae7658f17014aaf0606614ff2c47e0e63b0032ad8a31f5efcec3f07b3247823386dd9f9a11e868290ff83cad8fd</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 0 9.42</string>
+          <string>hstem 0 18.03</string>
           <string>hstem 296 36</string>
           <string>hstem 661 39</string>
         </array>

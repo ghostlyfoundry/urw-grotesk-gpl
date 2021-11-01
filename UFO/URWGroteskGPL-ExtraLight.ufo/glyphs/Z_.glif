@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Z" format="2">
-  <advance width="490"/>
+  <advance width="472"/>
   <unicode hex="005A"/>
   <outline>
     <contour>
-      <point x="38.3313" y="667" type="line"/>
-      <point x="38.3313" y="625.733" type="line"/>
-      <point x="401.953" y="625.733" type="line"/>
-      <point x="0" y="51.0574" type="line"/>
-      <point x="0" y="0" type="line"/>
-      <point x="502.018" y="0" type="line"/>
-      <point x="502.018" y="43.3388" type="line"/>
-      <point x="60.6211" y="43.3388" type="line"/>
-      <point x="462.651" y="614.925" type="line"/>
-      <point x="462.651" y="667" type="line"/>
+      <point x="37" y="667" type="line"/>
+      <point x="37" y="623" type="line"/>
+      <point x="396" y="623" type="line"/>
+      <point x="-1" y="47" type="line"/>
+      <point x="-1" y="0" type="line"/>
+      <point x="489" y="0" type="line"/>
+      <point x="489" y="44" type="line"/>
+      <point x="54" y="44" type="line"/>
+      <point x="450" y="618" type="line"/>
+      <point x="450" y="667" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -23,14 +23,14 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w490m38.33,667l38.33,625.73l401.95,625.73l0,51.06l0,0l502.02,0l502.02,43.34l60.62,43.34l462.65,614.93l462.65,667</string>
+    <string>w472m37,667l37,623l396,623l-1,47l-1,0l489,0l489,44l54,44l450,618l450,667</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 0 65</string>
-          <string>hstem 604 63</string>
+          <string>hstem 0 44</string>
+          <string>hstem 623 44</string>
         </array>
       </dict>
     </array>

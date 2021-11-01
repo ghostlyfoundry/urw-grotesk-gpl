@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="plus" format="2">
-  <advance width="519"/>
+  <advance width="496"/>
   <unicode hex="002B"/>
   <outline>
     <contour>
-      <point x="15.5397" y="354.133" type="line"/>
-      <point x="15.5397" y="332.55" type="line"/>
-      <point x="243.456" y="332.55" type="line"/>
-      <point x="243.456" y="102.562" type="line"/>
-      <point x="273.066" y="102.562" type="line"/>
-      <point x="273.066" y="332.55" type="line"/>
-      <point x="504.09" y="332.55" type="line"/>
-      <point x="504.09" y="354.133" type="line"/>
-      <point x="273.066" y="354.133" type="line"/>
-      <point x="273.066" y="588.265" type="line"/>
-      <point x="243.456" y="588.265" type="line"/>
-      <point x="243.456" y="354.133" type="line"/>
+      <point x="8" y="359" type="line"/>
+      <point x="8" y="323" type="line"/>
+      <point x="227" y="323" type="line"/>
+      <point x="227" y="100" type="line"/>
+      <point x="266" y="100" type="line"/>
+      <point x="266" y="323" type="line"/>
+      <point x="489" y="323" type="line"/>
+      <point x="489" y="359" type="line"/>
+      <point x="266" y="359" type="line"/>
+      <point x="266" y="584" type="line"/>
+      <point x="227" y="584" type="line"/>
+      <point x="227" y="359" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -25,16 +25,14 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>a066da9c2223ef272b67b5f45e4ca720395adaf25a73395656c8c8325a8f93fa33f0c8e2842d67fda2390921c80f8ce8e61f1602339a4aa655434107e2134090</string>
+    <string>w496m8,359l8,323l227,323l227,100l266,100l266,323l489,323l489,359l266,359l266,584l227,584l227,359</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 99 9.42</string>
-          <string>hstem 321 44</string>
-          <string>hstem 591 -20</string>
-          <string>vstem 235 48</string>
+          <string>hstem 198 36</string>
+          <string>vstem 227 39</string>
         </array>
       </dict>
     </array>
