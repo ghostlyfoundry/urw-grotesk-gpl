@@ -58,9 +58,19 @@
         <key>stems</key>
         <array>
           <string>hstem 0 63</string>
+          <string>vstem 584 87</string>
           <string>hstem 604 63</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 667 56</string>
+          <string>hstem 0 63</string>
           <string>vstem 584 87</string>
         </array>
+        <key>pointTag</key>
+        <string>._.2481524516384</string>
       </dict>
     </array>
   </dict>

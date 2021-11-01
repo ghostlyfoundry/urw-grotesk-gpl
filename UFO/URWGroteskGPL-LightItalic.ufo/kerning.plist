@@ -5,679 +5,639 @@
   <key>A</key>
   <dict>
     <key>C</key>
-    <integer>-19</integer>
+    <integer>-21</integer>
     <key>Ccedilla</key>
-    <integer>-18</integer>
+    <integer>-21</integer>
     <key>G</key>
-    <integer>-19</integer>
+    <integer>-21</integer>
     <key>J</key>
-    <integer>63</integer>
+    <integer>48</integer>
     <key>O</key>
-    <integer>-18</integer>
+    <integer>-21</integer>
     <key>Odieresis</key>
-    <integer>-17</integer>
+    <integer>-21</integer>
     <key>Q</key>
     <integer>-18</integer>
     <key>T</key>
-    <integer>-40</integer>
+    <integer>-56</integer>
     <key>Tcaron</key>
-    <integer>-40</integer>
+    <integer>-46</integer>
     <key>Tcommaaccent</key>
-    <integer>-40</integer>
+    <integer>-56</integer>
     <key>U</key>
-    <integer>-22</integer>
+    <integer>-21</integer>
     <key>Uacute</key>
-    <integer>-21</integer>
+    <integer>-24</integer>
     <key>Udieresis</key>
-    <integer>-21</integer>
+    <integer>-24</integer>
     <key>V</key>
-    <integer>-40</integer>
+    <integer>-38</integer>
     <key>W</key>
-    <integer>-33</integer>
+    <integer>-26</integer>
     <key>Y</key>
-    <integer>-48</integer>
+    <integer>-44</integer>
     <key>Yacute</key>
-    <integer>-48</integer>
+    <integer>-44</integer>
     <key>a</key>
-    <integer>-1</integer>
+    <integer>2</integer>
     <key>b</key>
-    <integer>10</integer>
+    <integer>1</integer>
     <key>c</key>
-    <integer>-1</integer>
+    <integer>2</integer>
     <key>ccedilla</key>
     <integer>2</integer>
     <key>comma</key>
-    <integer>20</integer>
+    <integer>22</integer>
     <key>d</key>
-    <integer>-1</integer>
+    <integer>2</integer>
     <key>e</key>
-    <integer>-1</integer>
-    <key>g</key>
-    <integer>-1</integer>
+    <integer>2</integer>
     <key>guillemotleft</key>
-    <integer>-7</integer>
+    <integer>-2</integer>
     <key>guilsinglleft</key>
-    <integer>-7</integer>
+    <integer>-2</integer>
     <key>hyphen</key>
-    <integer>34</integer>
+    <integer>38</integer>
     <key>o</key>
-    <integer>-1</integer>
+    <integer>2</integer>
     <key>period</key>
     <integer>28</integer>
     <key>q</key>
-    <integer>-1</integer>
+    <integer>2</integer>
     <key>quotedblright</key>
-    <integer>-50</integer>
+    <integer>-47</integer>
     <key>quoteright</key>
-    <integer>-51</integer>
-    <key>t</key>
-    <integer>-1</integer>
+    <integer>-47</integer>
     <key>u</key>
     <integer>-1</integer>
     <key>v</key>
-    <integer>-9</integer>
+    <integer>-12</integer>
     <key>w</key>
     <integer>-8</integer>
     <key>y</key>
-    <integer>-8</integer>
+    <integer>-16</integer>
     <key>yacute</key>
-    <integer>-13</integer>
+    <integer>-16</integer>
   </dict>
   <key>Aacute</key>
   <dict>
     <key>C</key>
-    <integer>-18</integer>
+    <integer>-20</integer>
     <key>G</key>
-    <integer>-18</integer>
+    <integer>-20</integer>
     <key>O</key>
-    <integer>-17</integer>
+    <integer>-20</integer>
     <key>Q</key>
-    <integer>-16</integer>
+    <integer>-20</integer>
     <key>T</key>
-    <integer>-40</integer>
+    <integer>-56</integer>
     <key>Tcaron</key>
-    <integer>-40</integer>
+    <integer>-48</integer>
     <key>U</key>
-    <integer>-21</integer>
+    <integer>-22</integer>
     <key>V</key>
     <integer>-38</integer>
     <key>W</key>
-    <integer>-31</integer>
+    <integer>-27</integer>
     <key>Y</key>
-    <integer>-47</integer>
-    <key>a</key>
-    <integer>-1</integer>
-    <key>b</key>
-    <integer>10</integer>
-    <key>c</key>
-    <integer>-1</integer>
+    <integer>-46</integer>
     <key>comma</key>
-    <integer>23</integer>
-    <key>d</key>
-    <integer>-1</integer>
-    <key>e</key>
-    <integer>-1</integer>
-    <key>g</key>
-    <integer>-1</integer>
-    <key>guillemotleft</key>
-    <integer>-4</integer>
-    <key>guilsinglleft</key>
-    <integer>-4</integer>
+    <integer>21</integer>
     <key>hyphen</key>
-    <integer>37</integer>
-    <key>o</key>
-    <integer>-1</integer>
+    <integer>38</integer>
     <key>period</key>
-    <integer>28</integer>
-    <key>q</key>
-    <integer>-1</integer>
+    <integer>26</integer>
     <key>quotedblright</key>
-    <integer>-50</integer>
+    <integer>-48</integer>
     <key>quoteright</key>
-    <integer>-49</integer>
-    <key>t</key>
-    <integer>-1</integer>
+    <integer>-48</integer>
     <key>u</key>
-    <integer>-1</integer>
+    <integer>-3</integer>
     <key>v</key>
-    <integer>-9</integer>
+    <integer>-12</integer>
     <key>w</key>
-    <integer>-8</integer>
+    <integer>-9</integer>
     <key>y</key>
-    <integer>-8</integer>
+    <integer>-14</integer>
   </dict>
   <key>Abreve</key>
   <dict>
     <key>T</key>
-    <integer>-40</integer>
+    <integer>-56</integer>
     <key>Tcaron</key>
-    <integer>-40</integer>
+    <integer>-45</integer>
     <key>Tcommaaccent</key>
-    <integer>-40</integer>
+    <integer>-56</integer>
     <key>Y</key>
-    <integer>-48</integer>
+    <integer>-47</integer>
     <key>Yacute</key>
-    <integer>-48</integer>
+    <integer>-47</integer>
     <key>y</key>
-    <integer>-8</integer>
+    <integer>-16</integer>
     <key>yacute</key>
-    <integer>-13</integer>
+    <integer>-16</integer>
   </dict>
   <key>Acircumflex</key>
   <dict>
     <key>C</key>
-    <integer>-18</integer>
+    <integer>-20</integer>
     <key>G</key>
-    <integer>-18</integer>
+    <integer>-20</integer>
     <key>O</key>
-    <integer>-17</integer>
+    <integer>-19</integer>
     <key>Q</key>
-    <integer>-16</integer>
+    <integer>-19</integer>
     <key>T</key>
-    <integer>-40</integer>
+    <integer>-56</integer>
     <key>Tcaron</key>
-    <integer>-38</integer>
+    <integer>-49</integer>
     <key>Tcommaaccent</key>
-    <integer>-40</integer>
+    <integer>-56</integer>
     <key>U</key>
-    <integer>-21</integer>
+    <integer>-23</integer>
     <key>V</key>
     <integer>-40</integer>
     <key>W</key>
-    <integer>-33</integer>
+    <integer>-28</integer>
     <key>Y</key>
-    <integer>-48</integer>
+    <integer>-47</integer>
     <key>Yacute</key>
-    <integer>-31</integer>
+    <integer>-47</integer>
     <key>comma</key>
-    <integer>23</integer>
+    <integer>20</integer>
     <key>period</key>
     <integer>28</integer>
     <key>v</key>
-    <integer>-9</integer>
+    <integer>-10</integer>
     <key>w</key>
-    <integer>-8</integer>
+    <integer>-9</integer>
     <key>yacute</key>
-    <integer>-13</integer>
+    <integer>-14</integer>
   </dict>
   <key>Adieresis</key>
   <dict>
     <key>C</key>
-    <integer>-18</integer>
-    <key>G</key>
-    <integer>-18</integer>
-    <key>O</key>
-    <integer>-17</integer>
-    <key>Q</key>
-    <integer>-15</integer>
-    <key>T</key>
-    <integer>-40</integer>
-    <key>U</key>
     <integer>-21</integer>
+    <key>G</key>
+    <integer>-21</integer>
+    <key>O</key>
+    <integer>-21</integer>
+    <key>Q</key>
+    <integer>-21</integer>
+    <key>T</key>
+    <integer>-56</integer>
+    <key>U</key>
+    <integer>-24</integer>
     <key>V</key>
-    <integer>-38</integer>
+    <integer>-39</integer>
     <key>W</key>
-    <integer>-31</integer>
+    <integer>-29</integer>
     <key>Y</key>
-    <integer>-47</integer>
-    <key>a</key>
-    <integer>-1</integer>
+    <integer>-46</integer>
     <key>b</key>
-    <integer>10</integer>
-    <key>c</key>
-    <integer>-1</integer>
+    <integer>1</integer>
     <key>comma</key>
-    <integer>23</integer>
-    <key>d</key>
-    <integer>-1</integer>
-    <key>g</key>
-    <integer>-1</integer>
+    <integer>21</integer>
     <key>guillemotleft</key>
-    <integer>-4</integer>
+    <integer>-2</integer>
     <key>guilsinglleft</key>
-    <integer>-4</integer>
+    <integer>-2</integer>
     <key>hyphen</key>
     <integer>37</integer>
-    <key>o</key>
-    <integer>-1</integer>
     <key>period</key>
     <integer>28</integer>
-    <key>q</key>
-    <integer>-1</integer>
     <key>quotedblright</key>
-    <integer>-47</integer>
+    <integer>-48</integer>
     <key>quoteright</key>
-    <integer>-49</integer>
+    <integer>-48</integer>
     <key>t</key>
-    <integer>-1</integer>
+    <integer>1</integer>
     <key>u</key>
-    <integer>-1</integer>
+    <integer>-3</integer>
     <key>v</key>
-    <integer>-9</integer>
+    <integer>-11</integer>
     <key>w</key>
-    <integer>-8</integer>
+    <integer>-9</integer>
     <key>y</key>
-    <integer>-8</integer>
+    <integer>-15</integer>
   </dict>
   <key>Aogonek</key>
   <dict>
     <key>C</key>
-    <integer>-18</integer>
+    <integer>-19</integer>
     <key>T</key>
-    <integer>-41</integer>
+    <integer>-56</integer>
     <key>Tcaron</key>
-    <integer>-41</integer>
+    <integer>-46</integer>
     <key>Tcommaaccent</key>
-    <integer>-41</integer>
+    <integer>-34</integer>
     <key>Y</key>
     <integer>-48</integer>
     <key>Yacute</key>
     <integer>-48</integer>
     <key>colon</key>
-    <integer>43</integer>
+    <integer>37</integer>
     <key>comma</key>
-    <integer>23</integer>
+    <integer>19</integer>
     <key>period</key>
     <integer>28</integer>
     <key>semicolon</key>
-    <integer>45</integer>
+    <integer>43</integer>
     <key>y</key>
-    <integer>78</integer>
+    <integer>81</integer>
     <key>yacute</key>
-    <integer>78</integer>
+    <integer>81</integer>
   </dict>
   <key>B</key>
   <dict>
     <key>A</key>
-    <integer>-7</integer>
+    <integer>-9</integer>
     <key>Aacute</key>
-    <integer>-7</integer>
+    <integer>-9</integer>
     <key>Acircumflex</key>
-    <integer>-7</integer>
+    <integer>-9</integer>
     <key>Adieresis</key>
-    <integer>-7</integer>
+    <integer>-9</integer>
     <key>J</key>
-    <integer>24</integer>
+    <integer>22</integer>
     <key>O</key>
-    <integer>-8</integer>
+    <integer>-6</integer>
     <key>Oacute</key>
-    <integer>-7</integer>
+    <integer>-6</integer>
     <key>Ocircumflex</key>
-    <integer>-7</integer>
+    <integer>-6</integer>
     <key>Odieresis</key>
-    <integer>-8</integer>
+    <integer>-6</integer>
     <key>V</key>
-    <integer>-14</integer>
+    <integer>-17</integer>
     <key>W</key>
-    <integer>-14</integer>
+    <integer>-6</integer>
     <key>Y</key>
-    <integer>-10</integer>
+    <integer>-23</integer>
   </dict>
   <key>C</key>
   <dict>
     <key>A</key>
-    <integer>29</integer>
-    <key>Aacute</key>
-    <integer>27</integer>
-    <key>Adieresis</key>
-    <integer>29</integer>
-    <key>H</key>
-    <integer>-2</integer>
-    <key>J</key>
-    <integer>58</integer>
-    <key>K</key>
-    <integer>-2</integer>
-    <key>O</key>
-    <integer>-11</integer>
-    <key>Oacute</key>
-    <integer>-11</integer>
-    <key>Odieresis</key>
-    <integer>-11</integer>
-    <key>Z</key>
-    <integer>36</integer>
-    <key>colon</key>
     <integer>24</integer>
+    <key>Aacute</key>
+    <integer>24</integer>
+    <key>Adieresis</key>
+    <integer>24</integer>
+    <key>H</key>
+    <integer>-14</integer>
+    <key>J</key>
+    <integer>53</integer>
+    <key>K</key>
+    <integer>-14</integer>
+    <key>O</key>
+    <integer>-18</integer>
+    <key>Oacute</key>
+    <integer>-18</integer>
+    <key>Odieresis</key>
+    <integer>-18</integer>
+    <key>Z</key>
+    <integer>33</integer>
+    <key>colon</key>
+    <integer>9</integer>
     <key>comma</key>
-    <integer>7</integer>
+    <integer>11</integer>
     <key>period</key>
     <integer>15</integer>
     <key>semicolon</key>
-    <integer>26</integer>
+    <integer>16</integer>
     <key>y</key>
-    <integer>-19</integer>
+    <integer>-35</integer>
   </dict>
   <key>Ccaron</key>
   <dict>
     <key>O</key>
-    <integer>-11</integer>
+    <integer>-18</integer>
   </dict>
   <key>Ccedilla</key>
   <dict>
     <key>A</key>
-    <integer>28</integer>
+    <integer>24</integer>
   </dict>
   <key>D</key>
   <dict>
     <key>A</key>
     <integer>-23</integer>
     <key>Aacute</key>
-    <integer>-24</integer>
+    <integer>-23</integer>
     <key>Acircumflex</key>
-    <integer>-24</integer>
+    <integer>-23</integer>
     <key>Adieresis</key>
     <integer>-23</integer>
     <key>J</key>
-    <integer>-2</integer>
+    <integer>-4</integer>
     <key>T</key>
-    <integer>-15</integer>
+    <integer>-32</integer>
     <key>V</key>
     <integer>-17</integer>
     <key>W</key>
-    <integer>-13</integer>
+    <integer>-5</integer>
     <key>X</key>
-    <integer>-21</integer>
+    <integer>-18</integer>
     <key>Y</key>
-    <integer>-19</integer>
+    <integer>-25</integer>
   </dict>
   <key>E</key>
   <dict>
     <key>C</key>
-    <integer>-10</integer>
+    <integer>-19</integer>
     <key>Ccaron</key>
-    <integer>-10</integer>
+    <integer>-19</integer>
     <key>O</key>
-    <integer>-10</integer>
+    <integer>-19</integer>
     <key>Oacute</key>
-    <integer>-10</integer>
+    <integer>-19</integer>
     <key>Odieresis</key>
-    <integer>-10</integer>
+    <integer>-19</integer>
     <key>v</key>
-    <integer>-3</integer>
+    <integer>-14</integer>
   </dict>
   <key>F</key>
   <dict>
     <key>A</key>
-    <integer>-31</integer>
+    <integer>-40</integer>
     <key>Aacute</key>
-    <integer>-31</integer>
+    <integer>-40</integer>
     <key>Abreve</key>
-    <integer>-31</integer>
+    <integer>-40</integer>
     <key>Acircumflex</key>
-    <integer>-31</integer>
+    <integer>-40</integer>
     <key>Adieresis</key>
-    <integer>-31</integer>
+    <integer>-40</integer>
     <key>Aogonek</key>
-    <integer>-29</integer>
+    <integer>-40</integer>
     <key>J</key>
     <integer>-57</integer>
     <key>O</key>
-    <integer>2</integer>
+    <integer>-6</integer>
     <key>Odieresis</key>
-    <integer>2</integer>
+    <integer>-6</integer>
     <key>a</key>
-    <integer>-3</integer>
+    <integer>-9</integer>
     <key>aacute</key>
-    <integer>-3</integer>
+    <integer>-9</integer>
     <key>adieresis</key>
-    <integer>-3</integer>
+    <integer>-9</integer>
     <key>comma</key>
-    <integer>-64</integer>
+    <integer>-63</integer>
     <key>e</key>
-    <integer>-3</integer>
+    <integer>-9</integer>
     <key>eacute</key>
-    <integer>-3</integer>
+    <integer>-9</integer>
     <key>hyphen</key>
-    <integer>26</integer>
+    <integer>30</integer>
     <key>i</key>
-    <integer>7</integer>
+    <integer>-1</integer>
     <key>j</key>
-    <integer>6</integer>
+    <integer>-13</integer>
     <key>o</key>
-    <integer>-3</integer>
+    <integer>-10</integer>
     <key>oacute</key>
-    <integer>-3</integer>
+    <integer>-10</integer>
     <key>odieresis</key>
-    <integer>-3</integer>
+    <integer>-10</integer>
     <key>ohungarumlaut</key>
-    <integer>-3</integer>
+    <integer>-10</integer>
     <key>period</key>
-    <integer>-60</integer>
+    <integer>-56</integer>
     <key>r</key>
-    <integer>-13</integer>
+    <integer>-20</integer>
     <key>u</key>
-    <integer>-13</integer>
+    <integer>-20</integer>
     <key>uacute</key>
-    <integer>-13</integer>
+    <integer>-20</integer>
     <key>uring</key>
-    <integer>-13</integer>
+    <integer>-20</integer>
   </dict>
   <key>G</key>
   <dict>
     <key>A</key>
-    <integer>11</integer>
+    <integer>13</integer>
     <key>Aacute</key>
-    <integer>14</integer>
+    <integer>13</integer>
     <key>Acircumflex</key>
-    <integer>14</integer>
+    <integer>13</integer>
     <key>Adieresis</key>
-    <integer>11</integer>
+    <integer>13</integer>
     <key>T</key>
-    <integer>15</integer>
+    <integer>-3</integer>
     <key>V</key>
-    <integer>8</integer>
+    <integer>-11</integer>
     <key>W</key>
-    <integer>9</integer>
+    <integer>-4</integer>
     <key>Y</key>
-    <integer>10</integer>
+    <integer>-9</integer>
     <key>colon</key>
-    <integer>39</integer>
+    <integer>42</integer>
     <key>comma</key>
-    <integer>5</integer>
+    <integer>15</integer>
     <key>period</key>
-    <integer>11</integer>
+    <integer>22</integer>
     <key>semicolon</key>
-    <integer>40</integer>
+    <integer>46</integer>
   </dict>
   <key>J</key>
   <dict>
     <key>A</key>
-    <integer>-13</integer>
+    <integer>-19</integer>
     <key>Adieresis</key>
-    <integer>-13</integer>
+    <integer>-19</integer>
   </dict>
   <key>K</key>
   <dict>
     <key>C</key>
-    <integer>-33</integer>
+    <integer>-20</integer>
     <key>G</key>
-    <integer>-33</integer>
+    <integer>-20</integer>
     <key>O</key>
-    <integer>-32</integer>
+    <integer>-20</integer>
     <key>Oacute</key>
-    <integer>-32</integer>
+    <integer>-20</integer>
     <key>Odieresis</key>
-    <integer>-32</integer>
+    <integer>-20</integer>
     <key>S</key>
-    <integer>20</integer>
+    <integer>10</integer>
     <key>T</key>
-    <integer>52</integer>
+    <integer>45</integer>
     <key>a</key>
-    <integer>-10</integer>
+    <integer>-16</integer>
     <key>adieresis</key>
-    <integer>-10</integer>
+    <integer>-16</integer>
     <key>aogonek</key>
-    <integer>-8</integer>
+    <integer>-16</integer>
     <key>e</key>
-    <integer>-9</integer>
+    <integer>-17</integer>
     <key>hyphen</key>
-    <integer>-12</integer>
+    <integer>2</integer>
     <key>o</key>
-    <integer>-8</integer>
+    <integer>-16</integer>
     <key>oacute</key>
-    <integer>-8</integer>
+    <integer>-16</integer>
     <key>odieresis</key>
-    <integer>-8</integer>
+    <integer>-16</integer>
     <key>u</key>
-    <integer>-3</integer>
+    <integer>-17</integer>
     <key>udieresis</key>
-    <integer>-3</integer>
+    <integer>-17</integer>
     <key>y</key>
-    <integer>-23</integer>
+    <integer>-35</integer>
   </dict>
   <key>L</key>
   <dict>
     <key>A</key>
-    <integer>50</integer>
+    <integer>39</integer>
     <key>Aacute</key>
-    <integer>50</integer>
+    <integer>39</integer>
     <key>Adieresis</key>
-    <integer>50</integer>
+    <integer>39</integer>
     <key>C</key>
-    <integer>-24</integer>
+    <integer>-31</integer>
     <key>Ccaron</key>
-    <integer>-24</integer>
+    <integer>-31</integer>
     <key>Ccedilla</key>
-    <integer>-19</integer>
+    <integer>-31</integer>
     <key>G</key>
-    <integer>-24</integer>
+    <integer>-32</integer>
     <key>O</key>
-    <integer>-24</integer>
+    <integer>-31</integer>
     <key>Oacute</key>
-    <integer>-24</integer>
+    <integer>-31</integer>
     <key>Ocircumflex</key>
-    <integer>-24</integer>
+    <integer>-31</integer>
     <key>Odieresis</key>
-    <integer>-24</integer>
+    <integer>-31</integer>
     <key>S</key>
-    <integer>32</integer>
+    <integer>18</integer>
     <key>T</key>
-    <integer>-42</integer>
-    <key>Tcaron</key>
-    <integer>-42</integer>
-    <key>Tcommaaccent</key>
-    <integer>-42</integer>
-    <key>U</key>
-    <integer>-19</integer>
-    <key>Udieresis</key>
-    <integer>-19</integer>
-    <key>V</key>
-    <integer>-65</integer>
-    <key>W</key>
-    <integer>-42</integer>
-    <key>Y</key>
-    <integer>-50</integer>
-    <key>Yacute</key>
-    <integer>-50</integer>
-    <key>hyphen</key>
     <integer>-54</integer>
+    <key>Tcaron</key>
+    <integer>-54</integer>
+    <key>Tcommaaccent</key>
+    <integer>-54</integer>
+    <key>U</key>
+    <integer>-28</integer>
+    <key>Udieresis</key>
+    <integer>-28</integer>
+    <key>V</key>
+    <integer>-73</integer>
+    <key>W</key>
+    <integer>-49</integer>
+    <key>Y</key>
+    <integer>-59</integer>
+    <key>Yacute</key>
+    <integer>-59</integer>
+    <key>hyphen</key>
+    <integer>-51</integer>
     <key>j</key>
-    <integer>8</integer>
+    <integer>-8</integer>
     <key>quotedblright</key>
     <integer>-82</integer>
     <key>quoteright</key>
-    <integer>-83</integer>
+    <integer>-82</integer>
     <key>u</key>
-    <integer>3</integer>
+    <integer>-10</integer>
     <key>udieresis</key>
-    <integer>3</integer>
+    <integer>-10</integer>
     <key>y</key>
-    <integer>-32</integer>
+    <integer>-46</integer>
     <key>yacute</key>
-    <integer>-32</integer>
+    <integer>-46</integer>
   </dict>
   <key>Lcaron</key>
   <dict>
     <key>O</key>
-    <integer>-24</integer>
-    <key>T</key>
-    <integer>19</integer>
-    <key>Tcaron</key>
-    <integer>19</integer>
-    <key>Tcommaaccent</key>
-    <integer>19</integer>
-    <key>V</key>
-    <integer>14</integer>
-    <key>Y</key>
-    <integer>26</integer>
-    <key>Yacute</key>
-    <integer>26</integer>
-    <key>v</key>
     <integer>-31</integer>
+    <key>T</key>
+    <integer>9</integer>
+    <key>Tcaron</key>
+    <integer>9</integer>
+    <key>Tcommaaccent</key>
+    <integer>9</integer>
+    <key>V</key>
+    <integer>3</integer>
+    <key>Y</key>
+    <integer>15</integer>
+    <key>Yacute</key>
+    <integer>15</integer>
+    <key>v</key>
+    <integer>-41</integer>
     <key>yacute</key>
-    <integer>-32</integer>
+    <integer>-46</integer>
   </dict>
   <key>Lslash</key>
   <dict>
     <key>O</key>
-    <integer>-23</integer>
+    <integer>-32</integer>
     <key>T</key>
-    <integer>-42</integer>
+    <integer>-55</integer>
     <key>Tcaron</key>
-    <integer>-42</integer>
+    <integer>-55</integer>
     <key>Tcommaaccent</key>
-    <integer>-42</integer>
+    <integer>-54</integer>
     <key>V</key>
-    <integer>-49</integer>
+    <integer>-64</integer>
     <key>W</key>
-    <integer>-41</integer>
+    <integer>-49</integer>
     <key>Y</key>
-    <integer>-50</integer>
+    <integer>-60</integer>
     <key>Yacute</key>
-    <integer>-50</integer>
+    <integer>-60</integer>
     <key>colon</key>
-    <integer>19</integer>
-    <key>comma</key>
-    <integer>13</integer>
+    <integer>9</integer>
     <key>period</key>
-    <integer>19</integer>
+    <integer>9</integer>
     <key>semicolon</key>
-    <integer>17</integer>
+    <integer>3</integer>
     <key>v</key>
-    <integer>-20</integer>
+    <integer>-28</integer>
     <key>w</key>
-    <integer>-22</integer>
+    <integer>-33</integer>
     <key>yacute</key>
-    <integer>-16</integer>
+    <integer>-31</integer>
   </dict>
   <key>M</key>
   <dict>
     <key>j</key>
-    <integer>-7</integer>
+    <integer>-16</integer>
   </dict>
   <key>N</key>
   <dict>
     <key>A</key>
-    <integer>4</integer>
+    <integer>-7</integer>
     <key>Aacute</key>
-    <integer>4</integer>
+    <integer>-7</integer>
     <key>Adieresis</key>
-    <integer>4</integer>
+    <integer>-7</integer>
     <key>C</key>
     <integer>-8</integer>
     <key>Ccedilla</key>
     <integer>-8</integer>
     <key>G</key>
-    <integer>-6</integer>
-    <key>O</key>
-    <integer>-6</integer>
-    <key>Oacute</key>
-    <integer>-6</integer>
-    <key>Odieresis</key>
-    <integer>-6</integer>
-    <key>a</key>
-    <integer>-4</integer>
-    <key>aacute</key>
-    <integer>-4</integer>
-    <key>adieresis</key>
-    <integer>-4</integer>
-    <key>comma</key>
     <integer>-8</integer>
-    <key>e</key>
-    <integer>-4</integer>
-    <key>eacute</key>
-    <integer>-4</integer>
-    <key>j</key>
+    <key>O</key>
     <integer>-7</integer>
+    <key>Oacute</key>
+    <integer>-7</integer>
+    <key>Odieresis</key>
+    <integer>-7</integer>
+    <key>a</key>
+    <integer>-5</integer>
+    <key>aacute</key>
+    <integer>-5</integer>
+    <key>adieresis</key>
+    <integer>-5</integer>
+    <key>comma</key>
+    <integer>-4</integer>
+    <key>e</key>
+    <integer>-5</integer>
+    <key>eacute</key>
+    <integer>-5</integer>
+    <key>j</key>
+    <integer>-16</integer>
     <key>o</key>
     <integer>-4</integer>
     <key>oacute</key>
@@ -685,40 +645,40 @@
     <key>odieresis</key>
     <integer>-4</integer>
     <key>period</key>
-    <integer>-1</integer>
+    <integer>2</integer>
     <key>u</key>
-    <integer>-9</integer>
+    <integer>-10</integer>
     <key>udieresis</key>
-    <integer>-9</integer>
+    <integer>-10</integer>
   </dict>
   <key>O</key>
   <dict>
     <key>A</key>
-    <integer>-19</integer>
+    <integer>-18</integer>
     <key>Aacute</key>
-    <integer>-19</integer>
+    <integer>-18</integer>
     <key>Adieresis</key>
-    <integer>-19</integer>
+    <integer>-18</integer>
     <key>J</key>
     <integer>3</integer>
     <key>T</key>
-    <integer>-18</integer>
+    <integer>-33</integer>
     <key>V</key>
     <integer>-17</integer>
     <key>W</key>
-    <integer>-13</integer>
+    <integer>-6</integer>
     <key>X</key>
-    <integer>-19</integer>
+    <integer>-13</integer>
     <key>Y</key>
-    <integer>-21</integer>
+    <integer>-25</integer>
     <key>Z</key>
-    <integer>-19</integer>
+    <integer>-20</integer>
     <key>colon</key>
-    <integer>39</integer>
+    <integer>36</integer>
     <key>comma</key>
-    <integer>-16</integer>
+    <integer>-8</integer>
     <key>period</key>
-    <integer>-12</integer>
+    <integer>-2</integer>
     <key>semicolon</key>
     <integer>40</integer>
   </dict>
@@ -727,88 +687,88 @@
     <key>A</key>
     <integer>-18</integer>
     <key>T</key>
-    <integer>-18</integer>
+    <integer>-33</integer>
     <key>V</key>
-    <integer>-21</integer>
+    <integer>-17</integer>
     <key>W</key>
-    <integer>-13</integer>
+    <integer>-6</integer>
     <key>Y</key>
-    <integer>-26</integer>
+    <integer>-25</integer>
     <key>Z</key>
-    <integer>-19</integer>
+    <integer>-20</integer>
     <key>colon</key>
-    <integer>39</integer>
+    <integer>36</integer>
     <key>comma</key>
-    <integer>-16</integer>
+    <integer>-8</integer>
     <key>period</key>
-    <integer>-12</integer>
+    <integer>-2</integer>
     <key>semicolon</key>
     <integer>40</integer>
   </dict>
   <key>Ocircumflex</key>
   <dict>
     <key>T</key>
-    <integer>-23</integer>
+    <integer>-33</integer>
     <key>V</key>
-    <integer>-21</integer>
+    <integer>-17</integer>
     <key>Y</key>
-    <integer>-26</integer>
+    <integer>-25</integer>
   </dict>
   <key>Odieresis</key>
   <dict>
     <key>A</key>
-    <integer>-19</integer>
-    <key>T</key>
     <integer>-18</integer>
+    <key>T</key>
+    <integer>-33</integer>
     <key>V</key>
     <integer>-17</integer>
     <key>W</key>
-    <integer>-13</integer>
+    <integer>-6</integer>
     <key>X</key>
-    <integer>-19</integer>
+    <integer>-13</integer>
     <key>Y</key>
-    <integer>-21</integer>
+    <integer>-25</integer>
     <key>colon</key>
-    <integer>39</integer>
+    <integer>36</integer>
     <key>comma</key>
-    <integer>-16</integer>
+    <integer>-8</integer>
     <key>period</key>
-    <integer>-12</integer>
+    <integer>-2</integer>
     <key>semicolon</key>
     <integer>40</integer>
   </dict>
   <key>P</key>
   <dict>
     <key>A</key>
-    <integer>-44</integer>
+    <integer>-41</integer>
     <key>Aacute</key>
-    <integer>-44</integer>
+    <integer>-41</integer>
     <key>Abreve</key>
-    <integer>-44</integer>
+    <integer>-41</integer>
     <key>Acircumflex</key>
-    <integer>-44</integer>
+    <integer>-41</integer>
     <key>Adieresis</key>
-    <integer>-44</integer>
+    <integer>-41</integer>
     <key>Aogonek</key>
-    <integer>-42</integer>
+    <integer>-41</integer>
     <key>J</key>
-    <integer>-54</integer>
+    <integer>-52</integer>
     <key>Y</key>
-    <integer>24</integer>
+    <integer>9</integer>
     <key>a</key>
-    <integer>-23</integer>
+    <integer>-24</integer>
     <key>aacute</key>
-    <integer>-23</integer>
+    <integer>-24</integer>
     <key>adieresis</key>
-    <integer>-23</integer>
+    <integer>-24</integer>
     <key>comma</key>
-    <integer>-93</integer>
+    <integer>-90</integer>
     <key>e</key>
-    <integer>-22</integer>
+    <integer>-24</integer>
     <key>eacute</key>
-    <integer>-22</integer>
+    <integer>-24</integer>
     <key>hyphen</key>
-    <integer>-1</integer>
+    <integer>3</integer>
     <key>o</key>
     <integer>-23</integer>
     <key>oacute</key>
@@ -816,70 +776,68 @@
     <key>odieresis</key>
     <integer>-23</integer>
     <key>period</key>
-    <integer>-85</integer>
+    <integer>-82</integer>
   </dict>
   <key>R</key>
   <dict>
     <key>C</key>
-    <integer>-25</integer>
+    <integer>-18</integer>
     <key>Ccedilla</key>
-    <integer>-22</integer>
+    <integer>-18</integer>
     <key>G</key>
-    <integer>-25</integer>
+    <integer>-18</integer>
     <key>J</key>
-    <integer>46</integer>
+    <integer>33</integer>
     <key>O</key>
-    <integer>-21</integer>
+    <integer>-17</integer>
     <key>Oacute</key>
-    <integer>-21</integer>
+    <integer>-17</integer>
     <key>Odieresis</key>
-    <integer>-21</integer>
+    <integer>-17</integer>
     <key>T</key>
-    <integer>-3</integer>
-    <key>Tcaron</key>
-    <integer>-3</integer>
-    <key>Tcommaaccent</key>
-    <integer>-3</integer>
-    <key>U</key>
-    <integer>-26</integer>
-    <key>Udieresis</key>
-    <integer>-26</integer>
-    <key>V</key>
-    <integer>-16</integer>
-    <key>W</key>
     <integer>-15</integer>
+    <key>Tcaron</key>
+    <integer>-15</integer>
+    <key>Tcommaaccent</key>
+    <integer>-15</integer>
+    <key>U</key>
+    <integer>-20</integer>
+    <key>Udieresis</key>
+    <integer>-20</integer>
+    <key>V</key>
+    <integer>-25</integer>
+    <key>W</key>
+    <integer>-16</integer>
     <key>Y</key>
-    <integer>-11</integer>
+    <integer>-24</integer>
     <key>Yacute</key>
-    <integer>-11</integer>
+    <integer>-24</integer>
     <key>a</key>
-    <integer>-22</integer>
+    <integer>-19</integer>
     <key>aacute</key>
-    <integer>-22</integer>
+    <integer>-19</integer>
     <key>adieresis</key>
-    <integer>-22</integer>
+    <integer>-19</integer>
     <key>e</key>
-    <integer>-22</integer>
+    <integer>-19</integer>
     <key>eacute</key>
-    <integer>-22</integer>
-    <key>hyphen</key>
-    <integer>-4</integer>
+    <integer>-19</integer>
     <key>o</key>
-    <integer>-22</integer>
+    <integer>-18</integer>
     <key>oacute</key>
-    <integer>-22</integer>
+    <integer>-18</integer>
     <key>odieresis</key>
-    <integer>-22</integer>
+    <integer>-18</integer>
     <key>u</key>
-    <integer>-23</integer>
+    <integer>-20</integer>
     <key>uacute</key>
-    <integer>-21</integer>
+    <integer>-20</integer>
     <key>udieresis</key>
-    <integer>-21</integer>
+    <integer>-20</integer>
     <key>y</key>
-    <integer>-9</integer>
+    <integer>-16</integer>
     <key>yacute</key>
-    <integer>-8</integer>
+    <integer>-13</integer>
   </dict>
   <key>S</key>
   <dict>
@@ -892,1661 +850,1721 @@
     <key>J</key>
     <integer>33</integer>
     <key>T</key>
-    <integer>21</integer>
+    <integer>4</integer>
     <key>V</key>
-    <integer>8</integer>
+    <integer>-7</integer>
     <key>W</key>
-    <integer>8</integer>
+    <integer>-7</integer>
     <key>Y</key>
-    <integer>13</integer>
+    <integer>-4</integer>
+    <key>eacute</key>
+    <integer>-3</integer>
     <key>t</key>
-    <integer>-9</integer>
+    <integer>-5</integer>
     <key>v</key>
-    <integer>-19</integer>
+    <integer>-16</integer>
   </dict>
   <key>T</key>
   <dict>
     <key>A</key>
-    <integer>-42</integer>
+    <integer>-56</integer>
     <key>Aacute</key>
-    <integer>-42</integer>
+    <integer>-56</integer>
     <key>Abreve</key>
-    <integer>-42</integer>
+    <integer>-56</integer>
     <key>Acircumflex</key>
-    <integer>-42</integer>
+    <integer>-56</integer>
     <key>Adieresis</key>
-    <integer>-42</integer>
+    <integer>-56</integer>
     <key>Aogonek</key>
-    <integer>-42</integer>
+    <integer>-55</integer>
     <key>C</key>
-    <integer>-24</integer>
+    <integer>-35</integer>
     <key>G</key>
-    <integer>-25</integer>
+    <integer>-36</integer>
     <key>J</key>
-    <integer>-21</integer>
+    <integer>-35</integer>
     <key>O</key>
-    <integer>-18</integer>
+    <integer>-33</integer>
     <key>Oacute</key>
-    <integer>-18</integer>
+    <integer>-33</integer>
     <key>Ocircumflex</key>
-    <integer>-22</integer>
+    <integer>-33</integer>
     <key>Odieresis</key>
-    <integer>-18</integer>
+    <integer>-33</integer>
     <key>Ohungarumlaut</key>
-    <integer>-18</integer>
+    <integer>-33</integer>
     <key>S</key>
-    <integer>9</integer>
+    <integer>3</integer>
     <key>V</key>
-    <integer>55</integer>
+    <integer>39</integer>
     <key>W</key>
-    <integer>52</integer>
+    <integer>37</integer>
     <key>Y</key>
-    <integer>66</integer>
+    <integer>51</integer>
     <key>a</key>
-    <integer>-54</integer>
+    <integer>-56</integer>
     <key>aacute</key>
-    <integer>-54</integer>
+    <integer>-56</integer>
     <key>aogonek</key>
-    <integer>-48</integer>
-    <key>c</key>
-    <integer>-54</integer>
-    <key>cacute</key>
-    <integer>-54</integer>
-    <key>ccedilla</key>
     <integer>-50</integer>
+    <key>c</key>
+    <integer>-56</integer>
+    <key>cacute</key>
+    <integer>-56</integer>
+    <key>ccedilla</key>
+    <integer>-56</integer>
     <key>colon</key>
-    <integer>-13</integer>
+    <integer>-21</integer>
     <key>comma</key>
     <integer>-54</integer>
     <key>e</key>
-    <integer>-54</integer>
+    <integer>-56</integer>
     <key>eacute</key>
-    <integer>-54</integer>
+    <integer>-56</integer>
     <key>eogonek</key>
-    <integer>-54</integer>
+    <integer>-56</integer>
     <key>g</key>
     <integer>-54</integer>
     <key>guillemotleft</key>
-    <integer>-60</integer>
+    <integer>-58</integer>
     <key>guilsinglleft</key>
-    <integer>-60</integer>
+    <integer>-58</integer>
     <key>hyphen</key>
-    <integer>-10</integer>
+    <integer>-13</integer>
     <key>i</key>
-    <integer>22</integer>
+    <integer>9</integer>
     <key>iacute</key>
-    <integer>-3</integer>
+    <integer>-7</integer>
     <key>j</key>
-    <integer>21</integer>
+    <integer>-3</integer>
     <key>o</key>
-    <integer>-54</integer>
+    <integer>-56</integer>
     <key>oacute</key>
-    <integer>-54</integer>
+    <integer>-56</integer>
     <key>ocircumflex</key>
-    <integer>-19</integer>
+    <integer>-39</integer>
     <key>ohungarumlaut</key>
-    <integer>-42</integer>
+    <integer>-54</integer>
     <key>period</key>
-    <integer>-49</integer>
+    <integer>-47</integer>
     <key>r</key>
     <integer>-52</integer>
     <key>racute</key>
     <integer>-41</integer>
     <key>s</key>
-    <integer>-49</integer>
+    <integer>-54</integer>
     <key>sacute</key>
-    <integer>-47</integer>
+    <integer>-54</integer>
     <key>scedilla</key>
-    <integer>-43</integer>
+    <integer>-48</integer>
     <key>semicolon</key>
-    <integer>-11</integer>
+    <integer>-13</integer>
     <key>u</key>
-    <integer>-56</integer>
+    <integer>-59</integer>
     <key>uacute</key>
-    <integer>-56</integer>
+    <integer>-59</integer>
     <key>uhungarumlaut</key>
-    <integer>-47</integer>
-    <key>uring</key>
-    <integer>-28</integer>
-    <key>v</key>
-    <integer>-51</integer>
-    <key>w</key>
     <integer>-58</integer>
+    <key>uring</key>
+    <integer>-35</integer>
+    <key>v</key>
+    <integer>-64</integer>
+    <key>w</key>
+    <integer>-60</integer>
     <key>y</key>
-    <integer>-51</integer>
+    <integer>-63</integer>
     <key>yacute</key>
-    <integer>-25</integer>
+    <integer>-46</integer>
   </dict>
   <key>Tcaron</key>
   <dict>
     <key>A</key>
-    <integer>-42</integer>
+    <integer>-48</integer>
     <key>Aacute</key>
-    <integer>-42</integer>
+    <integer>-48</integer>
     <key>Abreve</key>
-    <integer>-42</integer>
+    <integer>-48</integer>
     <key>Acircumflex</key>
-    <integer>-38</integer>
+    <integer>-48</integer>
     <key>Adieresis</key>
-    <integer>-42</integer>
+    <integer>-48</integer>
     <key>Aogonek</key>
-    <integer>-42</integer>
+    <integer>-48</integer>
     <key>J</key>
-    <integer>-21</integer>
+    <integer>-35</integer>
     <key>Odieresis</key>
-    <integer>-18</integer>
+    <integer>-33</integer>
     <key>aacute</key>
-    <integer>-53</integer>
-    <key>aogonek</key>
-    <integer>-51</integer>
-    <key>colon</key>
-    <integer>-20</integer>
-    <key>comma</key>
     <integer>-56</integer>
+    <key>aogonek</key>
+    <integer>-56</integer>
+    <key>colon</key>
+    <integer>-32</integer>
+    <key>comma</key>
+    <integer>-59</integer>
     <key>eacute</key>
-    <integer>-53</integer>
+    <integer>-56</integer>
     <key>eogonek</key>
-    <integer>-53</integer>
+    <integer>-56</integer>
     <key>hyphen</key>
-    <integer>-17</integer>
+    <integer>-24</integer>
     <key>nacute</key>
-    <integer>-51</integer>
+    <integer>-57</integer>
     <key>ncaron</key>
-    <integer>-9</integer>
+    <integer>-22</integer>
     <key>oacute</key>
-    <integer>-53</integer>
+    <integer>-61</integer>
     <key>ohungarumlaut</key>
-    <integer>-42</integer>
+    <integer>-54</integer>
     <key>period</key>
     <integer>-52</integer>
     <key>racute</key>
     <integer>-41</integer>
     <key>rcaron</key>
-    <integer>21</integer>
+    <integer>17</integer>
     <key>sacute</key>
-    <integer>-47</integer>
+    <integer>-58</integer>
     <key>semicolon</key>
-    <integer>-13</integer>
-    <key>tcaron</key>
-    <integer>-10</integer>
-    <key>tcommaaccent</key>
-    <integer>-12</integer>
-    <key>uacute</key>
-    <integer>-56</integer>
-    <key>uhungarumlaut</key>
-    <integer>-47</integer>
-    <key>yacute</key>
     <integer>-25</integer>
+    <key>tcaron</key>
+    <integer>-32</integer>
+    <key>tcommaaccent</key>
+    <integer>-27</integer>
+    <key>uacute</key>
+    <integer>-59</integer>
+    <key>uhungarumlaut</key>
+    <integer>-58</integer>
+    <key>yacute</key>
+    <integer>-46</integer>
     <key>zacute</key>
-    <integer>-35</integer>
+    <integer>-40</integer>
     <key>zcaron</key>
-    <integer>16</integer>
+    <integer>4</integer>
     <key>zdotaccent</key>
-    <integer>-28</integer>
+    <integer>-34</integer>
   </dict>
   <key>Tcommaaccent</key>
   <dict>
     <key>Aacute</key>
-    <integer>-42</integer>
+    <integer>-56</integer>
     <key>Abreve</key>
-    <integer>-42</integer>
+    <integer>-56</integer>
     <key>Acircumflex</key>
-    <integer>-42</integer>
+    <integer>-56</integer>
     <key>Adieresis</key>
-    <integer>-42</integer>
+    <integer>-56</integer>
     <key>Aogonek</key>
-    <integer>-42</integer>
+    <integer>-54</integer>
     <key>aacute</key>
-    <integer>-54</integer>
+    <integer>-56</integer>
     <key>aogonek</key>
-    <integer>-48</integer>
+    <integer>-50</integer>
     <key>eacute</key>
-    <integer>-54</integer>
+    <integer>-56</integer>
     <key>eogonek</key>
-    <integer>-54</integer>
+    <integer>-56</integer>
     <key>nacute</key>
     <integer>-52</integer>
     <key>ncaron</key>
-    <integer>-13</integer>
+    <integer>-25</integer>
     <key>oacute</key>
-    <integer>-54</integer>
+    <integer>-56</integer>
     <key>ohungarumlaut</key>
-    <integer>-42</integer>
+    <integer>-55</integer>
     <key>racute</key>
     <integer>-41</integer>
     <key>rcaron</key>
-    <integer>17</integer>
+    <integer>14</integer>
     <key>sacute</key>
-    <integer>-47</integer>
+    <integer>-54</integer>
     <key>tcaron</key>
-    <integer>-10</integer>
+    <integer>-33</integer>
     <key>tcommaaccent</key>
-    <integer>-50</integer>
+    <integer>-54</integer>
     <key>uacute</key>
-    <integer>-56</integer>
+    <integer>-59</integer>
     <key>uhungarumlaut</key>
-    <integer>-47</integer>
+    <integer>-59</integer>
     <key>uring</key>
-    <integer>-28</integer>
+    <integer>-36</integer>
     <key>yacute</key>
-    <integer>-25</integer>
+    <integer>-40</integer>
     <key>zacute</key>
-    <integer>-41</integer>
+    <integer>-52</integer>
     <key>zcaron</key>
-    <integer>12</integer>
+    <integer>1</integer>
     <key>zdotaccent</key>
-    <integer>-28</integer>
+    <integer>-40</integer>
   </dict>
   <key>U</key>
   <dict>
     <key>A</key>
-    <integer>-22</integer>
+    <integer>-21</integer>
     <key>Aacute</key>
-    <integer>-22</integer>
+    <integer>-21</integer>
     <key>Acircumflex</key>
-    <integer>-22</integer>
+    <integer>-21</integer>
     <key>Adieresis</key>
-    <integer>-22</integer>
+    <integer>-21</integer>
     <key>comma</key>
-    <integer>-20</integer>
+    <integer>-11</integer>
     <key>j</key>
-    <integer>-10</integer>
+    <integer>-18</integer>
     <key>m</key>
-    <integer>-7</integer>
+    <integer>-8</integer>
     <key>n</key>
-    <integer>-7</integer>
+    <integer>-8</integer>
     <key>p</key>
-    <integer>-7</integer>
+    <integer>-5</integer>
     <key>period</key>
-    <integer>-13</integer>
+    <integer>-6</integer>
     <key>r</key>
-    <integer>-7</integer>
+    <integer>-8</integer>
   </dict>
   <key>Uacute</key>
   <dict>
     <key>A</key>
-    <integer>-22</integer>
+    <integer>-21</integer>
     <key>comma</key>
-    <integer>-15</integer>
-    <key>m</key>
-    <integer>-7</integer>
-    <key>n</key>
-    <integer>-7</integer>
-    <key>p</key>
-    <integer>-7</integer>
-    <key>period</key>
     <integer>-11</integer>
+    <key>m</key>
+    <integer>-8</integer>
+    <key>n</key>
+    <integer>-8</integer>
+    <key>p</key>
+    <integer>-5</integer>
+    <key>period</key>
+    <integer>-6</integer>
     <key>r</key>
-    <integer>-7</integer>
+    <integer>-8</integer>
   </dict>
   <key>Udieresis</key>
   <dict>
     <key>A</key>
-    <integer>-22</integer>
+    <integer>-21</integer>
     <key>b</key>
-    <integer>-7</integer>
+    <integer>-8</integer>
     <key>comma</key>
-    <integer>-20</integer>
+    <integer>-11</integer>
     <key>m</key>
-    <integer>-7</integer>
+    <integer>-8</integer>
     <key>n</key>
-    <integer>-7</integer>
+    <integer>-8</integer>
     <key>p</key>
-    <integer>-7</integer>
+    <integer>-5</integer>
     <key>period</key>
-    <integer>-13</integer>
+    <integer>-6</integer>
     <key>r</key>
-    <integer>-7</integer>
+    <integer>-8</integer>
   </dict>
   <key>V</key>
   <dict>
     <key>A</key>
-    <integer>-43</integer>
+    <integer>-33</integer>
     <key>Aacute</key>
-    <integer>-43</integer>
+    <integer>-33</integer>
     <key>Abreve</key>
-    <integer>-43</integer>
+    <integer>-33</integer>
     <key>Acircumflex</key>
-    <integer>-43</integer>
+    <integer>-33</integer>
     <key>Adieresis</key>
-    <integer>-43</integer>
+    <integer>-33</integer>
     <key>Aogonek</key>
-    <integer>-43</integer>
+    <integer>-33</integer>
     <key>C</key>
-    <integer>-18</integer>
+    <integer>-17</integer>
     <key>G</key>
-    <integer>-18</integer>
+    <integer>-17</integer>
     <key>J</key>
-    <integer>-43</integer>
+    <integer>-46</integer>
     <key>O</key>
-    <integer>-14</integer>
+    <integer>-16</integer>
     <key>Oacute</key>
-    <integer>-14</integer>
+    <integer>-16</integer>
     <key>Ocircumflex</key>
-    <integer>-14</integer>
+    <integer>-16</integer>
     <key>Odieresis</key>
-    <integer>-14</integer>
+    <integer>-16</integer>
     <key>Ohungarumlaut</key>
-    <integer>-14</integer>
+    <integer>-16</integer>
     <key>S</key>
     <integer>3</integer>
     <key>T</key>
-    <integer>63</integer>
+    <integer>53</integer>
     <key>a</key>
-    <integer>-46</integer>
+    <integer>-36</integer>
     <key>aacute</key>
-    <integer>-46</integer>
+    <integer>-36</integer>
     <key>adieresis</key>
-    <integer>-12</integer>
+    <integer>-26</integer>
     <key>aogonek</key>
-    <integer>-40</integer>
+    <integer>-30</integer>
     <key>c</key>
-    <integer>-46</integer>
+    <integer>-36</integer>
     <key>colon</key>
-    <integer>-10</integer>
-    <key>comma</key>
-    <integer>-72</integer>
-    <key>dcaron</key>
-    <integer>-46</integer>
-    <key>e</key>
-    <integer>-46</integer>
-    <key>eacute</key>
-    <integer>-46</integer>
-    <key>ecaron</key>
-    <integer>-2</integer>
-    <key>eogonek</key>
-    <integer>-46</integer>
-    <key>g</key>
-    <integer>-46</integer>
-    <key>guillemotleft</key>
-    <integer>-51</integer>
-    <key>guilsinglleft</key>
-    <integer>-51</integer>
-    <key>hyphen</key>
-    <integer>-2</integer>
-    <key>i</key>
-    <integer>17</integer>
-    <key>iacute</key>
-    <integer>-7</integer>
-    <key>o</key>
-    <integer>-46</integer>
-    <key>oacute</key>
-    <integer>-46</integer>
-    <key>ocircumflex</key>
-    <integer>-21</integer>
-    <key>odieresis</key>
     <integer>-6</integer>
-    <key>ohungarumlaut</key>
-    <integer>-46</integer>
-    <key>period</key>
-    <integer>-65</integer>
-    <key>r</key>
-    <integer>-30</integer>
-    <key>racute</key>
-    <integer>-30</integer>
-    <key>rcaron</key>
-    <integer>21</integer>
-    <key>sacute</key>
-    <integer>-41</integer>
-    <key>semicolon</key>
-    <integer>-2</integer>
-    <key>u</key>
-    <integer>-35</integer>
-    <key>uacute</key>
-    <integer>-33</integer>
-    <key>udieresis</key>
-    <integer>-10</integer>
-    <key>uhungarumlaut</key>
-    <integer>-33</integer>
-    <key>uring</key>
-    <integer>-29</integer>
-    <key>yacute</key>
+    <key>comma</key>
+    <integer>-58</integer>
+    <key>dcaron</key>
+    <integer>-36</integer>
+    <key>e</key>
+    <integer>-36</integer>
+    <key>eacute</key>
+    <integer>-36</integer>
+    <key>ecaron</key>
+    <integer>-9</integer>
+    <key>eogonek</key>
+    <integer>-36</integer>
+    <key>g</key>
+    <integer>-34</integer>
+    <key>guillemotleft</key>
+    <integer>-44</integer>
+    <key>guilsinglleft</key>
+    <integer>-44</integer>
+    <key>hyphen</key>
+    <integer>11</integer>
+    <key>i</key>
+    <integer>13</integer>
+    <key>iacute</key>
     <integer>1</integer>
+    <key>o</key>
+    <integer>-36</integer>
+    <key>oacute</key>
+    <integer>-36</integer>
+    <key>ocircumflex</key>
+    <integer>-29</integer>
+    <key>odieresis</key>
+    <integer>-20</integer>
+    <key>ohungarumlaut</key>
+    <integer>-36</integer>
+    <key>period</key>
+    <integer>-50</integer>
+    <key>r</key>
+    <integer>-35</integer>
+    <key>racute</key>
+    <integer>-32</integer>
+    <key>rcaron</key>
+    <integer>22</integer>
+    <key>sacute</key>
+    <integer>-40</integer>
+    <key>semicolon</key>
+    <integer>1</integer>
+    <key>u</key>
+    <integer>-37</integer>
+    <key>uacute</key>
+    <integer>-35</integer>
+    <key>udieresis</key>
+    <integer>-22</integer>
+    <key>uhungarumlaut</key>
+    <integer>-35</integer>
+    <key>uring</key>
+    <integer>-28</integer>
+    <key>y</key>
+    <integer>-8</integer>
+    <key>yacute</key>
+    <integer>-5</integer>
   </dict>
   <key>W</key>
   <dict>
     <key>A</key>
-    <integer>-40</integer>
+    <integer>-39</integer>
     <key>Aacute</key>
-    <integer>-40</integer>
+    <integer>-39</integer>
     <key>Abreve</key>
-    <integer>-40</integer>
+    <integer>-39</integer>
     <key>Acircumflex</key>
-    <integer>-40</integer>
+    <integer>-39</integer>
     <key>Adieresis</key>
-    <integer>-40</integer>
+    <integer>-39</integer>
     <key>Aogonek</key>
-    <integer>-40</integer>
+    <integer>-39</integer>
     <key>C</key>
-    <integer>-23</integer>
+    <integer>-19</integer>
     <key>G</key>
-    <integer>-23</integer>
+    <integer>-19</integer>
     <key>O</key>
-    <integer>-20</integer>
+    <integer>-18</integer>
     <key>Oacute</key>
-    <integer>-20</integer>
+    <integer>-18</integer>
     <key>Ocircumflex</key>
-    <integer>-20</integer>
+    <integer>-18</integer>
     <key>Odieresis</key>
-    <integer>-20</integer>
+    <integer>-18</integer>
     <key>Ohungarumlaut</key>
-    <integer>-20</integer>
+    <integer>-18</integer>
     <key>S</key>
-    <integer>-5</integer>
+    <integer>-7</integer>
     <key>T</key>
-    <integer>51</integer>
+    <integer>41</integer>
     <key>Y</key>
-    <integer>58</integer>
+    <integer>47</integer>
     <key>a</key>
-    <integer>-40</integer>
+    <integer>-38</integer>
     <key>aacute</key>
-    <integer>-40</integer>
+    <integer>-38</integer>
     <key>adieresis</key>
-    <integer>-23</integer>
+    <integer>-37</integer>
     <key>aogonek</key>
-    <integer>-34</integer>
+    <integer>-31</integer>
     <key>c</key>
-    <integer>-40</integer>
+    <integer>-38</integer>
+    <key>colon</key>
+    <integer>-6</integer>
     <key>comma</key>
-    <integer>-58</integer>
+    <integer>-57</integer>
     <key>dcaron</key>
-    <integer>-40</integer>
+    <integer>-38</integer>
     <key>e</key>
-    <integer>-40</integer>
+    <integer>-38</integer>
     <key>eacute</key>
-    <integer>-40</integer>
+    <integer>-38</integer>
     <key>ecaron</key>
-    <integer>-14</integer>
+    <integer>-21</integer>
     <key>eogonek</key>
-    <integer>-40</integer>
+    <integer>-38</integer>
     <key>g</key>
-    <integer>-40</integer>
+    <integer>-34</integer>
     <key>guillemotleft</key>
     <integer>-45</integer>
     <key>guilsinglleft</key>
     <integer>-45</integer>
     <key>hyphen</key>
-    <integer>1</integer>
-    <key>i</key>
-    <integer>6</integer>
-    <key>iacute</key>
-    <integer>-14</integer>
-    <key>o</key>
-    <integer>-40</integer>
-    <key>oacute</key>
-    <integer>-40</integer>
-    <key>ocircumflex</key>
-    <integer>-29</integer>
-    <key>odieresis</key>
-    <integer>-17</integer>
-    <key>ohungarumlaut</key>
-    <integer>-40</integer>
-    <key>period</key>
-    <integer>-53</integer>
-    <key>r</key>
-    <integer>-33</integer>
-    <key>racute</key>
-    <integer>-33</integer>
-    <key>rcaron</key>
     <integer>9</integer>
+    <key>i</key>
+    <integer>1</integer>
+    <key>iacute</key>
+    <integer>-8</integer>
+    <key>o</key>
+    <integer>-37</integer>
+    <key>oacute</key>
+    <integer>-37</integer>
+    <key>ocircumflex</key>
+    <integer>-37</integer>
+    <key>odieresis</key>
+    <integer>-31</integer>
+    <key>ohungarumlaut</key>
+    <integer>-37</integer>
+    <key>period</key>
+    <integer>-50</integer>
+    <key>r</key>
+    <integer>-38</integer>
+    <key>racute</key>
+    <integer>-38</integer>
+    <key>rcaron</key>
+    <integer>10</integer>
     <key>sacute</key>
-    <integer>-39</integer>
+    <integer>-40</integer>
     <key>semicolon</key>
-    <integer>5</integer>
+    <integer>2</integer>
     <key>u</key>
-    <integer>-36</integer>
+    <integer>-41</integer>
     <key>uacute</key>
-    <integer>-35</integer>
+    <integer>-41</integer>
     <key>udieresis</key>
-    <integer>-21</integer>
+    <integer>-33</integer>
     <key>uhungarumlaut</key>
-    <integer>-35</integer>
+    <integer>-41</integer>
     <key>uring</key>
-    <integer>-35</integer>
+    <integer>-40</integer>
     <key>y</key>
-    <integer>-2</integer>
+    <integer>-14</integer>
+    <key>yacute</key>
+    <integer>-12</integer>
   </dict>
   <key>X</key>
   <dict>
     <key>C</key>
-    <integer>-27</integer>
+    <integer>-21</integer>
     <key>O</key>
-    <integer>-23</integer>
+    <integer>-21</integer>
     <key>Odieresis</key>
-    <integer>-23</integer>
+    <integer>-21</integer>
     <key>Q</key>
-    <integer>-23</integer>
+    <integer>-21</integer>
     <key>a</key>
-    <integer>-17</integer>
+    <integer>-24</integer>
     <key>e</key>
-    <integer>-17</integer>
+    <integer>-24</integer>
     <key>hyphen</key>
-    <integer>5</integer>
+    <integer>6</integer>
     <key>o</key>
-    <integer>-17</integer>
+    <integer>-24</integer>
     <key>u</key>
-    <integer>-17</integer>
+    <integer>-29</integer>
     <key>y</key>
-    <integer>-32</integer>
+    <integer>-37</integer>
   </dict>
   <key>Y</key>
   <dict>
     <key>A</key>
-    <integer>-49</integer>
+    <integer>-43</integer>
     <key>Aacute</key>
-    <integer>-49</integer>
+    <integer>-43</integer>
     <key>Abreve</key>
-    <integer>-49</integer>
+    <integer>-43</integer>
     <key>Acircumflex</key>
-    <integer>-49</integer>
+    <integer>-43</integer>
     <key>Adieresis</key>
-    <integer>-49</integer>
+    <integer>-43</integer>
     <key>Aogonek</key>
-    <integer>-46</integer>
+    <integer>-43</integer>
     <key>C</key>
-    <integer>-28</integer>
+    <integer>-29</integer>
     <key>G</key>
-    <integer>-28</integer>
+    <integer>-29</integer>
     <key>J</key>
-    <integer>-28</integer>
+    <integer>-40</integer>
     <key>O</key>
-    <integer>-23</integer>
+    <integer>-28</integer>
     <key>Oacute</key>
     <integer>-28</integer>
     <key>Ocircumflex</key>
     <integer>-28</integer>
     <key>Odieresis</key>
-    <integer>-23</integer>
+    <integer>-28</integer>
     <key>S</key>
-    <integer>-1</integer>
+    <integer>-2</integer>
     <key>T</key>
-    <integer>66</integer>
+    <integer>56</integer>
     <key>W</key>
-    <integer>59</integer>
+    <integer>48</integer>
     <key>a</key>
-    <integer>-53</integer>
+    <integer>-50</integer>
     <key>aacute</key>
-    <integer>-53</integer>
+    <integer>-50</integer>
     <key>aogonek</key>
-    <integer>-47</integer>
+    <integer>-44</integer>
     <key>colon</key>
-    <integer>-12</integer>
+    <integer>-22</integer>
     <key>comma</key>
-    <integer>-58</integer>
+    <integer>-55</integer>
     <key>e</key>
-    <integer>-53</integer>
+    <integer>-50</integer>
     <key>eacute</key>
-    <integer>-53</integer>
+    <integer>-50</integer>
     <key>eogonek</key>
-    <integer>-53</integer>
+    <integer>-50</integer>
     <key>g</key>
-    <integer>-53</integer>
+    <integer>-49</integer>
     <key>guillemotleft</key>
-    <integer>-58</integer>
+    <integer>-59</integer>
     <key>guilsinglleft</key>
-    <integer>-58</integer>
+    <integer>-59</integer>
     <key>hyphen</key>
-    <integer>-17</integer>
+    <integer>-12</integer>
     <key>i</key>
-    <integer>17</integer>
+    <integer>16</integer>
     <key>iacute</key>
-    <integer>-14</integer>
+    <integer>-7</integer>
     <key>o</key>
-    <integer>-53</integer>
+    <integer>-50</integer>
     <key>oacute</key>
-    <integer>-53</integer>
+    <integer>-50</integer>
     <key>ohungarumlaut</key>
-    <integer>-53</integer>
+    <integer>-50</integer>
     <key>p</key>
-    <integer>-47</integer>
+    <integer>-53</integer>
     <key>period</key>
-    <integer>-52</integer>
+    <integer>-53</integer>
     <key>q</key>
-    <integer>-53</integer>
+    <integer>-50</integer>
     <key>racute</key>
-    <integer>-47</integer>
+    <integer>-40</integer>
     <key>semicolon</key>
-    <integer>-10</integer>
+    <integer>-9</integer>
     <key>u</key>
-    <integer>-53</integer>
+    <integer>-54</integer>
     <key>uacute</key>
-    <integer>-50</integer>
+    <integer>-54</integer>
     <key>uhungarumlaut</key>
-    <integer>-50</integer>
+    <integer>-54</integer>
     <key>v</key>
-    <integer>-17</integer>
+    <integer>-27</integer>
   </dict>
   <key>Yacute</key>
   <dict>
     <key>Aacute</key>
-    <integer>-49</integer>
+    <integer>-43</integer>
     <key>Abreve</key>
-    <integer>-49</integer>
+    <integer>-43</integer>
     <key>Acircumflex</key>
-    <integer>-31</integer>
+    <integer>-43</integer>
     <key>Adieresis</key>
-    <integer>-49</integer>
+    <integer>-43</integer>
     <key>Aogonek</key>
-    <integer>-46</integer>
+    <integer>-43</integer>
     <key>J</key>
-    <integer>-28</integer>
+    <integer>-40</integer>
     <key>aacute</key>
-    <integer>-53</integer>
-    <key>colon</key>
-    <integer>-12</integer>
-    <key>comma</key>
-    <integer>-58</integer>
-    <key>eacute</key>
-    <integer>-53</integer>
-    <key>eogonek</key>
-    <integer>-53</integer>
-    <key>hyphen</key>
-    <integer>-17</integer>
-    <key>oacute</key>
-    <integer>-53</integer>
-    <key>ohungarumlaut</key>
-    <integer>-53</integer>
-    <key>period</key>
-    <integer>-52</integer>
-    <key>scedilla</key>
-    <integer>-42</integer>
-    <key>semicolon</key>
-    <integer>-10</integer>
-    <key>uacute</key>
     <integer>-50</integer>
+    <key>colon</key>
+    <integer>-22</integer>
+    <key>comma</key>
+    <integer>-55</integer>
+    <key>eacute</key>
+    <integer>-50</integer>
+    <key>eogonek</key>
+    <integer>-50</integer>
+    <key>hyphen</key>
+    <integer>-12</integer>
+    <key>oacute</key>
+    <integer>-50</integer>
+    <key>ohungarumlaut</key>
+    <integer>-50</integer>
+    <key>period</key>
+    <integer>-53</integer>
+    <key>scedilla</key>
+    <integer>-43</integer>
+    <key>semicolon</key>
+    <integer>-9</integer>
+    <key>uacute</key>
+    <integer>-54</integer>
   </dict>
   <key>Z</key>
   <dict>
     <key>O</key>
-    <integer>-17</integer>
-    <key>Oacute</key>
-    <integer>-17</integer>
-    <key>colon</key>
-    <integer>26</integer>
-    <key>comma</key>
-    <integer>20</integer>
-    <key>period</key>
-    <integer>26</integer>
-    <key>semicolon</key>
-    <integer>23</integer>
-    <key>v</key>
-    <integer>-24</integer>
-    <key>y</key>
     <integer>-25</integer>
+    <key>Oacute</key>
+    <integer>-25</integer>
+    <key>colon</key>
+    <integer>16</integer>
+    <key>comma</key>
+    <integer>7</integer>
+    <key>period</key>
+    <integer>16</integer>
+    <key>semicolon</key>
+    <integer>10</integer>
+    <key>v</key>
+    <integer>-34</integer>
+    <key>y</key>
+    <integer>-39</integer>
   </dict>
   <key>a</key>
   <dict>
     <key>j</key>
-    <integer>-4</integer>
+    <integer>-10</integer>
     <key>quoteright</key>
     <integer>3</integer>
-    <key>w</key>
+    <key>v</key>
     <integer>-6</integer>
+    <key>w</key>
+    <integer>-9</integer>
+    <key>y</key>
+    <integer>-9</integer>
   </dict>
   <key>aacute</key>
   <dict>
-    <key>w</key>
+    <key>v</key>
     <integer>-6</integer>
+    <key>w</key>
+    <integer>-9</integer>
+    <key>y</key>
+    <integer>-9</integer>
   </dict>
   <key>adieresis</key>
   <dict>
-    <key>w</key>
+    <key>v</key>
     <integer>-6</integer>
+    <key>w</key>
+    <integer>-9</integer>
+    <key>y</key>
+    <integer>-9</integer>
   </dict>
   <key>b</key>
   <dict>
     <key>j</key>
-    <integer>-3</integer>
+    <integer>-14</integer>
     <key>v</key>
-    <integer>-13</integer>
+    <integer>-9</integer>
     <key>w</key>
-    <integer>-10</integer>
+    <integer>-8</integer>
     <key>y</key>
-    <integer>-12</integer>
+    <integer>-13</integer>
   </dict>
   <key>c</key>
   <dict>
     <key>J</key>
-    <integer>53</integer>
+    <integer>45</integer>
     <key>h</key>
-    <integer>4</integer>
+    <integer>-6</integer>
     <key>j</key>
-    <integer>1</integer>
+    <integer>-18</integer>
     <key>k</key>
-    <integer>4</integer>
+    <integer>-6</integer>
     <key>oacute</key>
-    <integer>4</integer>
+    <integer>-4</integer>
   </dict>
   <key>ccaron</key>
   <dict>
     <key>e</key>
-    <integer>4</integer>
+    <integer>-5</integer>
     <key>o</key>
-    <integer>4</integer>
+    <integer>-4</integer>
   </dict>
   <key>comma</key>
   <dict>
     <key>one</key>
-    <integer>-101</integer>
+    <integer>-90</integer>
     <key>quotedblright</key>
-    <integer>-14</integer>
+    <integer>-20</integer>
     <key>quoteright</key>
-    <integer>-16</integer>
+    <integer>-20</integer>
   </dict>
   <key>d</key>
   <dict>
     <key>j</key>
-    <integer>-4</integer>
+    <integer>-10</integer>
   </dict>
   <key>dcaron</key>
   <dict>
     <key>a</key>
-    <integer>-43</integer>
-    <key>aacute</key>
-    <integer>-43</integer>
-    <key>colon</key>
-    <integer>-7</integer>
-    <key>comma</key>
-    <integer>-43</integer>
-    <key>e</key>
-    <integer>-43</integer>
-    <key>eacute</key>
-    <integer>-43</integer>
-    <key>m</key>
-    <integer>-43</integer>
-    <key>n</key>
-    <integer>-43</integer>
-    <key>o</key>
-    <integer>-43</integer>
-    <key>oacute</key>
-    <integer>-43</integer>
-    <key>period</key>
-    <integer>-36</integer>
-    <key>r</key>
-    <integer>-43</integer>
-    <key>s</key>
-    <integer>-42</integer>
-    <key>semicolon</key>
-    <integer>-3</integer>
-    <key>u</key>
-    <integer>-47</integer>
-    <key>uacute</key>
-    <integer>-47</integer>
-    <key>udieresis</key>
-    <integer>-12</integer>
-    <key>uring</key>
-    <integer>-36</integer>
-    <key>y</key>
-    <integer>-38</integer>
-    <key>yacute</key>
-    <integer>-33</integer>
-    <key>z</key>
     <integer>-41</integer>
+    <key>aacute</key>
+    <integer>-41</integer>
+    <key>colon</key>
+    <integer>-15</integer>
+    <key>comma</key>
+    <integer>-47</integer>
+    <key>e</key>
+    <integer>-41</integer>
+    <key>eacute</key>
+    <integer>-41</integer>
+    <key>m</key>
+    <integer>-42</integer>
+    <key>n</key>
+    <integer>-42</integer>
+    <key>o</key>
+    <integer>-46</integer>
+    <key>oacute</key>
+    <integer>-46</integer>
+    <key>period</key>
+    <integer>-37</integer>
+    <key>r</key>
+    <integer>-42</integer>
+    <key>s</key>
+    <integer>-44</integer>
+    <key>semicolon</key>
+    <integer>-7</integer>
+    <key>u</key>
+    <integer>-45</integer>
+    <key>uacute</key>
+    <integer>-45</integer>
+    <key>udieresis</key>
+    <integer>-29</integer>
+    <key>uring</key>
+    <integer>-40</integer>
+    <key>y</key>
+    <integer>-50</integer>
+    <key>yacute</key>
+    <integer>-45</integer>
+    <key>z</key>
+    <integer>-49</integer>
   </dict>
   <key>e</key>
   <dict>
     <key>j</key>
-    <integer>-4</integer>
+    <integer>-19</integer>
     <key>quoteright</key>
-    <integer>2</integer>
+    <integer>-1</integer>
+    <key>t</key>
+    <integer>-4</integer>
     <key>v</key>
-    <integer>-8</integer>
+    <integer>-13</integer>
     <key>w</key>
     <integer>-10</integer>
     <key>x</key>
-    <integer>-6</integer>
-    <key>y</key>
     <integer>-8</integer>
-    <key>zcaron</key>
-    <integer>6</integer>
+    <key>y</key>
+    <integer>-17</integer>
   </dict>
   <key>eacute</key>
   <dict>
+    <key>t</key>
+    <integer>-4</integer>
     <key>v</key>
-    <integer>-8</integer>
+    <integer>-15</integer>
     <key>w</key>
-    <integer>-10</integer>
+    <integer>-12</integer>
     <key>y</key>
-    <integer>-8</integer>
+    <integer>-19</integer>
   </dict>
   <key>eight</key>
   <dict>
     <key>four</key>
-    <integer>-5</integer>
+    <integer>-13</integer>
     <key>one</key>
-    <integer>-59</integer>
+    <integer>-57</integer>
     <key>seven</key>
-    <integer>-52</integer>
-  </dict>
-  <key>eogonek</key>
-  <dict>
-    <key>zdotaccent</key>
-    <integer>7</integer>
+    <integer>-64</integer>
   </dict>
   <key>f</key>
   <dict>
     <key>a</key>
-    <integer>2</integer>
+    <integer>-9</integer>
     <key>aacute</key>
-    <integer>2</integer>
+    <integer>-9</integer>
     <key>adieresis</key>
-    <integer>2</integer>
+    <integer>-9</integer>
     <key>aogonek</key>
-    <integer>5</integer>
+    <integer>-8</integer>
     <key>e</key>
-    <integer>4</integer>
+    <integer>-9</integer>
     <key>eacute</key>
-    <integer>4</integer>
+    <integer>-9</integer>
     <key>f</key>
-    <integer>34</integer>
+    <integer>24</integer>
     <key>i</key>
-    <integer>15</integer>
+    <integer>12</integer>
     <key>iacute</key>
-    <integer>7</integer>
-    <key>j</key>
-    <integer>14</integer>
+    <integer>-1</integer>
     <key>l</key>
-    <integer>16</integer>
+    <integer>10</integer>
     <key>o</key>
-    <integer>3</integer>
+    <integer>-8</integer>
     <key>oacute</key>
-    <integer>3</integer>
+    <integer>-8</integer>
     <key>odieresis</key>
-    <integer>3</integer>
+    <integer>-8</integer>
     <key>quoteright</key>
-    <integer>23</integer>
-    <key>racute</key>
-    <integer>7</integer>
-    <key>s</key>
     <integer>11</integer>
+    <key>racute</key>
+    <integer>-3</integer>
     <key>t</key>
-    <integer>37</integer>
+    <integer>30</integer>
     <key>uring</key>
-    <integer>7</integer>
+    <integer>-3</integer>
     <key>yacute</key>
-    <integer>40</integer>
+    <integer>25</integer>
   </dict>
   <key>five</key>
   <dict>
     <key>four</key>
-    <integer>-2</integer>
+    <integer>-17</integer>
     <key>one</key>
-    <integer>-70</integer>
+    <integer>-86</integer>
     <key>seven</key>
-    <integer>-37</integer>
+    <integer>-53</integer>
   </dict>
   <key>four</key>
   <dict>
     <key>four</key>
-    <integer>6</integer>
+    <integer>-1</integer>
     <key>one</key>
-    <integer>-81</integer>
+    <integer>-78</integer>
     <key>seven</key>
-    <integer>-61</integer>
+    <integer>-66</integer>
   </dict>
   <key>g</key>
   <dict>
     <key>a</key>
-    <integer>-2</integer>
+    <integer>-4</integer>
     <key>adieresis</key>
-    <integer>-2</integer>
+    <integer>-4</integer>
     <key>e</key>
-    <integer>-2</integer>
+    <integer>-4</integer>
     <key>eacute</key>
-    <integer>-2</integer>
+    <integer>-4</integer>
     <key>l</key>
-    <integer>-5</integer>
+    <integer>-3</integer>
     <key>oacute</key>
-    <integer>-2</integer>
+    <integer>-4</integer>
     <key>odieresis</key>
-    <integer>-2</integer>
+    <integer>-4</integer>
     <key>r</key>
-    <integer>-5</integer>
+    <integer>-3</integer>
   </dict>
   <key>guillemotright</key>
   <dict>
     <key>A</key>
-    <integer>-7</integer>
+    <integer>2</integer>
     <key>Aacute</key>
-    <integer>-5</integer>
+    <integer>2</integer>
     <key>Adieresis</key>
-    <integer>-5</integer>
+    <integer>2</integer>
     <key>T</key>
-    <integer>-55</integer>
+    <integer>-59</integer>
     <key>V</key>
-    <integer>-49</integer>
+    <integer>-46</integer>
     <key>W</key>
-    <integer>-34</integer>
+    <integer>-30</integer>
     <key>Y</key>
     <integer>-57</integer>
   </dict>
   <key>guilsinglright</key>
   <dict>
     <key>A</key>
-    <integer>-7</integer>
+    <integer>2</integer>
     <key>Aacute</key>
-    <integer>-5</integer>
+    <integer>2</integer>
     <key>Adieresis</key>
-    <integer>-5</integer>
+    <integer>2</integer>
     <key>T</key>
-    <integer>-55</integer>
+    <integer>-54</integer>
     <key>V</key>
-    <integer>-49</integer>
+    <integer>-42</integer>
     <key>W</key>
-    <integer>-34</integer>
+    <integer>-26</integer>
     <key>Y</key>
-    <integer>-57</integer>
+    <integer>-56</integer>
   </dict>
   <key>h</key>
   <dict>
     <key>quoteright</key>
-    <integer>-5</integer>
+    <integer>-9</integer>
     <key>v</key>
     <integer>-16</integer>
     <key>y</key>
-    <integer>-16</integer>
+    <integer>-17</integer>
     <key>yacute</key>
-    <integer>-16</integer>
+    <integer>-17</integer>
   </dict>
   <key>hyphen</key>
   <dict>
     <key>A</key>
-    <integer>34</integer>
+    <integer>38</integer>
     <key>Aacute</key>
-    <integer>37</integer>
+    <integer>38</integer>
     <key>Adieresis</key>
-    <integer>37</integer>
+    <integer>38</integer>
     <key>T</key>
-    <integer>-10</integer>
+    <integer>-11</integer>
     <key>V</key>
-    <integer>-1</integer>
+    <integer>3</integer>
     <key>W</key>
-    <integer>15</integer>
+    <integer>20</integer>
     <key>Y</key>
-    <integer>-15</integer>
+    <integer>-17</integer>
   </dict>
   <key>i</key>
   <dict>
     <key>T</key>
-    <integer>18</integer>
+    <integer>12</integer>
     <key>j</key>
-    <integer>-3</integer>
+    <integer>-13</integer>
+  </dict>
+  <key>iacute</key>
+  <dict>
+    <key>v</key>
+    <integer>-6</integer>
   </dict>
   <key>j</key>
   <dict>
     <key>eogonek</key>
-    <integer>-3</integer>
+    <integer>-2</integer>
     <key>oacute</key>
-    <integer>-3</integer>
+    <integer>-1</integer>
   </dict>
   <key>k</key>
   <dict>
     <key>a</key>
-    <integer>-23</integer>
-    <key>aacute</key>
-    <integer>-23</integer>
-    <key>adieresis</key>
-    <integer>-23</integer>
-    <key>aogonek</key>
-    <integer>-17</integer>
-    <key>c</key>
-    <integer>-23</integer>
-    <key>comma</key>
-    <integer>9</integer>
-    <key>e</key>
-    <integer>-19</integer>
-    <key>eacute</key>
-    <integer>-19</integer>
-    <key>eogonek</key>
-    <integer>-19</integer>
-    <key>g</key>
-    <integer>-23</integer>
-    <key>hyphen</key>
-    <integer>-10</integer>
-    <key>o</key>
-    <integer>-19</integer>
-    <key>oacute</key>
-    <integer>-19</integer>
-    <key>odieresis</key>
-    <integer>-19</integer>
-    <key>period</key>
-    <integer>15</integer>
-    <key>u</key>
-    <integer>-18</integer>
-    <key>udieresis</key>
     <integer>-16</integer>
+    <key>aacute</key>
+    <integer>-16</integer>
+    <key>adieresis</key>
+    <integer>-16</integer>
+    <key>aogonek</key>
+    <integer>-15</integer>
+    <key>c</key>
+    <integer>-16</integer>
+    <key>comma</key>
+    <integer>3</integer>
+    <key>e</key>
+    <integer>-16</integer>
+    <key>eacute</key>
+    <integer>-16</integer>
+    <key>eogonek</key>
+    <integer>-16</integer>
+    <key>g</key>
+    <integer>-16</integer>
+    <key>hyphen</key>
+    <integer>-7</integer>
+    <key>o</key>
+    <integer>-15</integer>
+    <key>oacute</key>
+    <integer>-15</integer>
+    <key>odieresis</key>
+    <integer>-15</integer>
+    <key>period</key>
+    <integer>12</integer>
+    <key>s</key>
+    <integer>-7</integer>
+    <key>u</key>
+    <integer>-11</integer>
+    <key>udieresis</key>
+    <integer>-11</integer>
   </dict>
   <key>l</key>
   <dict>
     <key>j</key>
-    <integer>-4</integer>
+    <integer>-10</integer>
+    <key>v</key>
+    <integer>-7</integer>
+    <key>y</key>
+    <integer>-10</integer>
   </dict>
   <key>lcaron</key>
   <dict>
     <key>a</key>
-    <integer>-36</integer>
+    <integer>-40</integer>
     <key>aacute</key>
-    <integer>-36</integer>
+    <integer>-40</integer>
     <key>ccaron</key>
-    <integer>-2</integer>
+    <integer>-24</integer>
     <key>colon</key>
-    <integer>3</integer>
+    <integer>-4</integer>
     <key>comma</key>
-    <integer>-32</integer>
+    <integer>-36</integer>
     <key>d</key>
-    <integer>-36</integer>
+    <integer>-40</integer>
     <key>dcaron</key>
-    <integer>-36</integer>
+    <integer>-40</integer>
     <key>e</key>
-    <integer>-36</integer>
+    <integer>-40</integer>
     <key>eacute</key>
-    <integer>-36</integer>
+    <integer>-40</integer>
+    <key>f</key>
+    <integer>-13</integer>
     <key>g</key>
-    <integer>-36</integer>
+    <integer>-37</integer>
     <key>o</key>
-    <integer>-36</integer>
+    <integer>-40</integer>
     <key>oacute</key>
-    <integer>-36</integer>
+    <integer>-40</integer>
     <key>ocircumflex</key>
-    <integer>-27</integer>
+    <integer>-40</integer>
     <key>p</key>
-    <integer>-36</integer>
-    <key>period</key>
-    <integer>-29</integer>
-    <key>s</key>
     <integer>-35</integer>
-    <key>scaron</key>
-    <integer>16</integer>
-    <key>semicolon</key>
-    <integer>6</integer>
-    <key>t</key>
-    <integer>-18</integer>
-    <key>u</key>
-    <integer>-40</integer>
-    <key>uacute</key>
-    <integer>-40</integer>
-    <key>uring</key>
-    <integer>-33</integer>
-    <key>v</key>
-    <integer>-33</integer>
-    <key>z</key>
+    <key>period</key>
+    <integer>-31</integer>
+    <key>s</key>
     <integer>-38</integer>
+    <key>semicolon</key>
+    <integer>4</integer>
+    <key>t</key>
+    <integer>-33</integer>
+    <key>u</key>
+    <integer>-44</integer>
+    <key>uacute</key>
+    <integer>-44</integer>
+    <key>uring</key>
+    <integer>-39</integer>
+    <key>v</key>
+    <integer>-44</integer>
+    <key>z</key>
+    <integer>-49</integer>
     <key>zcaron</key>
-    <integer>15</integer>
+    <integer>2</integer>
   </dict>
   <key>m</key>
   <dict>
     <key>j</key>
-    <integer>-7</integer>
+    <integer>-19</integer>
     <key>p</key>
-    <integer>-7</integer>
+    <integer>-9</integer>
     <key>v</key>
     <integer>-16</integer>
     <key>w</key>
-    <integer>-14</integer>
+    <integer>-13</integer>
     <key>y</key>
-    <integer>-16</integer>
+    <integer>-18</integer>
   </dict>
   <key>n</key>
   <dict>
     <key>T</key>
-    <integer>-52</integer>
+    <integer>-58</integer>
     <key>j</key>
-    <integer>-7</integer>
+    <integer>-18</integer>
     <key>p</key>
-    <integer>-6</integer>
+    <integer>-8</integer>
     <key>quoteright</key>
-    <integer>-5</integer>
+    <integer>-9</integer>
     <key>v</key>
     <integer>-16</integer>
     <key>w</key>
-    <integer>-14</integer>
+    <integer>-13</integer>
     <key>y</key>
-    <integer>-16</integer>
+    <integer>-17</integer>
   </dict>
   <key>nine</key>
   <dict>
     <key>four</key>
-    <integer>-17</integer>
+    <integer>-24</integer>
     <key>one</key>
-    <integer>-58</integer>
+    <integer>-59</integer>
     <key>seven</key>
-    <integer>-54</integer>
+    <integer>-69</integer>
   </dict>
   <key>o</key>
   <dict>
     <key>T</key>
-    <integer>-50</integer>
+    <integer>-53</integer>
     <key>j</key>
-    <integer>-4</integer>
+    <integer>-14</integer>
     <key>quoteright</key>
-    <integer>-4</integer>
+    <integer>-3</integer>
     <key>t</key>
-    <integer>-7</integer>
+    <integer>-2</integer>
     <key>v</key>
-    <integer>-13</integer>
-    <key>w</key>
-    <integer>-10</integer>
-    <key>x</key>
     <integer>-9</integer>
+    <key>w</key>
+    <integer>-8</integer>
+    <key>x</key>
+    <integer>-5</integer>
     <key>y</key>
     <integer>-13</integer>
     <key>zcaron</key>
-    <integer>-3</integer>
+    <integer>-4</integer>
   </dict>
   <key>oacute</key>
   <dict>
     <key>v</key>
-    <integer>-13</integer>
-    <key>w</key>
     <integer>-10</integer>
+    <key>w</key>
+    <integer>-8</integer>
     <key>y</key>
-    <integer>-13</integer>
+    <integer>-14</integer>
+    <key>zacute</key>
+    <integer>-1</integer>
   </dict>
   <key>ocircumflex</key>
   <dict>
     <key>t</key>
-    <integer>-7</integer>
+    <integer>-2</integer>
   </dict>
   <key>odieresis</key>
   <dict>
     <key>t</key>
-    <integer>-7</integer>
+    <integer>-1</integer>
     <key>v</key>
-    <integer>-13</integer>
+    <integer>-8</integer>
     <key>w</key>
-    <integer>-10</integer>
+    <integer>-7</integer>
     <key>x</key>
-    <integer>-9</integer>
+    <integer>-8</integer>
     <key>y</key>
-    <integer>-13</integer>
+    <integer>-12</integer>
   </dict>
   <key>one</key>
   <dict>
     <key>comma</key>
-    <integer>-43</integer>
+    <integer>-53</integer>
     <key>eight</key>
-    <integer>-50</integer>
+    <integer>-58</integer>
     <key>five</key>
-    <integer>-62</integer>
+    <integer>-63</integer>
     <key>four</key>
-    <integer>-55</integer>
+    <integer>-75</integer>
     <key>nine</key>
-    <integer>-56</integer>
+    <integer>-67</integer>
     <key>one</key>
-    <integer>-97</integer>
+    <integer>-107</integer>
     <key>period</key>
-    <integer>-37</integer>
+    <integer>-46</integer>
     <key>seven</key>
-    <integer>-77</integer>
+    <integer>-94</integer>
     <key>six</key>
-    <integer>-50</integer>
+    <integer>-63</integer>
     <key>three</key>
-    <integer>-57</integer>
+    <integer>-85</integer>
     <key>two</key>
-    <integer>-74</integer>
+    <integer>-89</integer>
     <key>zero</key>
-    <integer>-35</integer>
+    <integer>-47</integer>
   </dict>
   <key>p</key>
   <dict>
     <key>j</key>
-    <integer>-3</integer>
+    <integer>-14</integer>
     <key>t</key>
-    <integer>-5</integer>
+    <integer>-2</integer>
     <key>y</key>
-    <integer>-12</integer>
+    <integer>-13</integer>
     <key>yacute</key>
-    <integer>-12</integer>
+    <integer>-13</integer>
   </dict>
   <key>period</key>
   <dict>
     <key>one</key>
-    <integer>-101</integer>
+    <integer>-89</integer>
     <key>quotedblright</key>
-    <integer>-18</integer>
+    <integer>-21</integer>
     <key>quoteright</key>
-    <integer>-19</integer>
+    <integer>-21</integer>
   </dict>
   <key>q</key>
   <dict>
     <key>c</key>
-    <integer>-2</integer>
+    <integer>-4</integer>
     <key>u</key>
     <integer>-7</integer>
   </dict>
   <key>quotedblbase</key>
   <dict>
     <key>A</key>
-    <integer>23</integer>
+    <integer>26</integer>
     <key>T</key>
-    <integer>-47</integer>
+    <integer>-49</integer>
     <key>Tcaron</key>
-    <integer>-54</integer>
-    <key>V</key>
     <integer>-60</integer>
+    <key>V</key>
+    <integer>-56</integer>
     <key>W</key>
-    <integer>-41</integer>
+    <integer>-36</integer>
     <key>Y</key>
-    <integer>-57</integer>
+    <integer>-53</integer>
     <key>Yacute</key>
-    <integer>-57</integer>
+    <integer>-53</integer>
   </dict>
   <key>quotedblleft</key>
   <dict>
     <key>A</key>
-    <integer>-60</integer>
+    <integer>-47</integer>
     <key>Aacute</key>
-    <integer>-57</integer>
+    <integer>-47</integer>
     <key>Adieresis</key>
-    <integer>-57</integer>
+    <integer>-47</integer>
     <key>T</key>
-    <integer>27</integer>
-    <key>V</key>
     <integer>22</integer>
+    <key>V</key>
+    <integer>25</integer>
     <key>W</key>
-    <integer>23</integer>
+    <integer>29</integer>
     <key>Y</key>
-    <integer>34</integer>
+    <integer>25</integer>
   </dict>
   <key>quotedblright</key>
   <dict>
     <key>A</key>
-    <integer>-64</integer>
+    <integer>-54</integer>
     <key>Aacute</key>
-    <integer>-64</integer>
+    <integer>-54</integer>
     <key>Adieresis</key>
-    <integer>-64</integer>
+    <integer>-54</integer>
     <key>T</key>
-    <integer>17</integer>
+    <integer>9</integer>
     <key>V</key>
     <integer>19</integer>
     <key>W</key>
-    <integer>20</integer>
+    <integer>23</integer>
     <key>Y</key>
-    <integer>24</integer>
+    <integer>15</integer>
   </dict>
   <key>quoteleft</key>
   <dict>
     <key>A</key>
-    <integer>-57</integer>
+    <integer>-47</integer>
     <key>Aacute</key>
-    <integer>-57</integer>
+    <integer>-47</integer>
     <key>Adieresis</key>
-    <integer>-57</integer>
+    <integer>-47</integer>
     <key>T</key>
-    <integer>27</integer>
+    <integer>22</integer>
     <key>V</key>
-    <integer>23</integer>
+    <integer>25</integer>
     <key>W</key>
-    <integer>26</integer>
+    <integer>30</integer>
     <key>Y</key>
-    <integer>34</integer>
+    <integer>25</integer>
   </dict>
   <key>quoteright</key>
   <dict>
     <key>A</key>
-    <integer>-64</integer>
+    <integer>-54</integer>
     <key>Aacute</key>
-    <integer>-64</integer>
+    <integer>-54</integer>
     <key>Adieresis</key>
-    <integer>-64</integer>
+    <integer>-54</integer>
     <key>comma</key>
-    <integer>-49</integer>
+    <integer>-48</integer>
     <key>d</key>
-    <integer>-32</integer>
+    <integer>-24</integer>
     <key>o</key>
-    <integer>-32</integer>
+    <integer>-24</integer>
     <key>period</key>
-    <integer>-47</integer>
+    <integer>-42</integer>
     <key>r</key>
-    <integer>-25</integer>
+    <integer>-20</integer>
     <key>s</key>
-    <integer>-25</integer>
+    <integer>-18</integer>
     <key>sacute</key>
-    <integer>-25</integer>
+    <integer>-18</integer>
     <key>scaron</key>
-    <integer>-23</integer>
+    <integer>-18</integer>
     <key>scedilla</key>
-    <integer>-43</integer>
+    <integer>-22</integer>
     <key>t</key>
-    <integer>-7</integer>
-    <key>v</key>
     <integer>-3</integer>
     <key>w</key>
-    <integer>-7</integer>
+    <integer>-3</integer>
     <key>y</key>
     <integer>-4</integer>
   </dict>
   <key>r</key>
   <dict>
+    <key>a</key>
+    <integer>-7</integer>
+    <key>aacute</key>
+    <integer>-7</integer>
+    <key>acircumflex</key>
+    <integer>-7</integer>
+    <key>adieresis</key>
+    <integer>-7</integer>
     <key>aogonek</key>
-    <integer>1</integer>
+    <integer>-7</integer>
     <key>b</key>
-    <integer>12</integer>
+    <integer>7</integer>
+    <key>c</key>
+    <integer>-7</integer>
+    <key>ccaron</key>
+    <integer>-7</integer>
     <key>ccedilla</key>
-    <integer>-3</integer>
+    <integer>-7</integer>
     <key>colon</key>
-    <integer>19</integer>
+    <integer>11</integer>
     <key>comma</key>
-    <integer>-60</integer>
+    <integer>-53</integer>
     <key>d</key>
-    <integer>-1</integer>
+    <integer>-7</integer>
     <key>dcaron</key>
-    <integer>-1</integer>
+    <integer>-7</integer>
+    <key>e</key>
+    <integer>-8</integer>
+    <key>eacute</key>
+    <integer>-8</integer>
+    <key>eogonek</key>
+    <integer>-8</integer>
     <key>f</key>
-    <integer>39</integer>
+    <integer>34</integer>
     <key>g</key>
-    <integer>-1</integer>
+    <integer>-7</integer>
     <key>h</key>
-    <integer>12</integer>
+    <integer>7</integer>
     <key>hyphen</key>
-    <integer>-20</integer>
+    <integer>-12</integer>
     <key>i</key>
-    <integer>13</integer>
+    <integer>9</integer>
     <key>j</key>
-    <integer>12</integer>
+    <integer>-2</integer>
     <key>k</key>
-    <integer>12</integer>
+    <integer>7</integer>
     <key>l</key>
-    <integer>12</integer>
+    <integer>7</integer>
     <key>m</key>
-    <integer>12</integer>
+    <integer>7</integer>
     <key>n</key>
-    <integer>12</integer>
+    <integer>7</integer>
     <key>nacute</key>
-    <integer>12</integer>
+    <integer>7</integer>
     <key>ncaron</key>
-    <integer>12</integer>
+    <integer>7</integer>
+    <key>o</key>
+    <integer>-7</integer>
+    <key>oacute</key>
+    <integer>-7</integer>
+    <key>ocircumflex</key>
+    <integer>-7</integer>
+    <key>odieresis</key>
+    <integer>-7</integer>
+    <key>ohungarumlaut</key>
+    <integer>-7</integer>
     <key>p</key>
-    <integer>12</integer>
+    <integer>7</integer>
     <key>period</key>
-    <integer>-55</integer>
+    <integer>-49</integer>
     <key>q</key>
-    <integer>-1</integer>
+    <integer>-8</integer>
     <key>quoteright</key>
-    <integer>25</integer>
+    <integer>20</integer>
     <key>r</key>
-    <integer>12</integer>
+    <integer>7</integer>
     <key>racute</key>
-    <integer>12</integer>
+    <integer>7</integer>
     <key>rcaron</key>
-    <integer>13</integer>
+    <integer>7</integer>
     <key>s</key>
-    <integer>8</integer>
+    <integer>1</integer>
     <key>semicolon</key>
-    <integer>25</integer>
+    <integer>15</integer>
     <key>t</key>
-    <integer>42</integer>
+    <integer>40</integer>
     <key>tcaron</key>
-    <integer>45</integer>
+    <integer>40</integer>
     <key>tcommaaccent</key>
-    <integer>42</integer>
+    <integer>41</integer>
     <key>u</key>
-    <integer>12</integer>
+    <integer>7</integer>
     <key>uacute</key>
-    <integer>12</integer>
+    <integer>7</integer>
     <key>uhungarumlaut</key>
-    <integer>12</integer>
+    <integer>7</integer>
     <key>uring</key>
-    <integer>12</integer>
+    <integer>7</integer>
     <key>v</key>
-    <integer>41</integer>
+    <integer>36</integer>
     <key>w</key>
-    <integer>35</integer>
+    <integer>30</integer>
     <key>x</key>
-    <integer>27</integer>
+    <integer>21</integer>
     <key>y</key>
-    <integer>41</integer>
+    <integer>33</integer>
     <key>yacute</key>
-    <integer>41</integer>
+    <integer>34</integer>
     <key>z</key>
-    <integer>27</integer>
+    <integer>22</integer>
     <key>zacute</key>
-    <integer>29</integer>
+    <integer>23</integer>
     <key>zcaron</key>
-    <integer>29</integer>
+    <integer>23</integer>
     <key>zdotaccent</key>
-    <integer>29</integer>
+    <integer>23</integer>
   </dict>
   <key>racute</key>
   <dict>
+    <key>a</key>
+    <integer>-7</integer>
     <key>comma</key>
-    <integer>-59</integer>
-    <key>d</key>
-    <integer>-1</integer>
-    <key>m</key>
-    <integer>12</integer>
-    <key>n</key>
-    <integer>12</integer>
-    <key>p</key>
-    <integer>12</integer>
-    <key>period</key>
     <integer>-54</integer>
+    <key>d</key>
+    <integer>-7</integer>
+    <key>m</key>
+    <integer>7</integer>
+    <key>n</key>
+    <integer>7</integer>
+    <key>p</key>
+    <integer>7</integer>
+    <key>period</key>
+    <integer>-49</integer>
     <key>s</key>
-    <integer>8</integer>
+    <integer>1</integer>
     <key>t</key>
-    <integer>42</integer>
+    <integer>40</integer>
     <key>v</key>
-    <integer>41</integer>
+    <integer>36</integer>
     <key>z</key>
-    <integer>27</integer>
+    <integer>22</integer>
   </dict>
   <key>rcaron</key>
   <dict>
     <key>a</key>
-    <integer>-1</integer>
+    <integer>-7</integer>
     <key>aacute</key>
-    <integer>-1</integer>
+    <integer>-7</integer>
     <key>colon</key>
-    <integer>19</integer>
+    <integer>11</integer>
     <key>comma</key>
-    <integer>-60</integer>
+    <integer>-56</integer>
     <key>d</key>
-    <integer>-1</integer>
+    <integer>-7</integer>
     <key>dcaron</key>
-    <integer>-1</integer>
+    <integer>-7</integer>
+    <key>e</key>
+    <integer>-8</integer>
+    <key>eacute</key>
+    <integer>-8</integer>
     <key>i</key>
-    <integer>12</integer>
+    <integer>9</integer>
     <key>iacute</key>
-    <integer>12</integer>
+    <integer>9</integer>
     <key>o</key>
-    <integer>-1</integer>
+    <integer>-7</integer>
     <key>oacute</key>
-    <integer>-1</integer>
+    <integer>-7</integer>
     <key>period</key>
-    <integer>-55</integer>
+    <integer>-50</integer>
     <key>semicolon</key>
-    <integer>25</integer>
+    <integer>15</integer>
     <key>u</key>
-    <integer>12</integer>
+    <integer>7</integer>
     <key>uacute</key>
-    <integer>12</integer>
+    <integer>7</integer>
     <key>uring</key>
-    <integer>12</integer>
+    <integer>7</integer>
     <key>v</key>
-    <integer>40</integer>
+    <integer>36</integer>
   </dict>
   <key>s</key>
   <dict>
     <key>eacute</key>
-    <integer>-2</integer>
+    <integer>-9</integer>
     <key>k</key>
-    <integer>-4</integer>
+    <integer>-8</integer>
     <key>p</key>
-    <integer>-4</integer>
+    <integer>-10</integer>
     <key>quoteright</key>
-    <integer>-2</integer>
+    <integer>-8</integer>
     <key>t</key>
-    <integer>10</integer>
+    <integer>5</integer>
   </dict>
   <key>sacute</key>
   <dict>
     <key>c</key>
-    <integer>-2</integer>
+    <integer>-10</integer>
+    <key>w</key>
+    <integer>-11</integer>
   </dict>
   <key>scaron</key>
   <dict>
     <key>k</key>
-    <integer>-4</integer>
+    <integer>-8</integer>
     <key>p</key>
-    <integer>-4</integer>
+    <integer>-6</integer>
     <key>t</key>
-    <integer>10</integer>
+    <integer>5</integer>
   </dict>
   <key>seven</key>
   <dict>
     <key>colon</key>
-    <integer>-44</integer>
+    <integer>-46</integer>
     <key>comma</key>
-    <integer>-105</integer>
+    <integer>-104</integer>
     <key>eight</key>
-    <integer>-45</integer>
+    <integer>-53</integer>
     <key>five</key>
-    <integer>-62</integer>
+    <integer>-58</integer>
     <key>four</key>
-    <integer>-84</integer>
+    <integer>-87</integer>
     <key>one</key>
     <integer>-59</integer>
     <key>period</key>
-    <integer>-98</integer>
+    <integer>-96</integer>
     <key>seven</key>
-    <integer>-30</integer>
+    <integer>-37</integer>
     <key>six</key>
-    <integer>-63</integer>
+    <integer>-61</integer>
     <key>three</key>
-    <integer>-36</integer>
+    <integer>-49</integer>
     <key>two</key>
-    <integer>-42</integer>
+    <integer>-55</integer>
   </dict>
   <key>six</key>
   <dict>
     <key>four</key>
-    <integer>-3</integer>
+    <integer>-10</integer>
     <key>one</key>
-    <integer>-71</integer>
+    <integer>-60</integer>
     <key>seven</key>
     <integer>-37</integer>
   </dict>
   <key>softhyphen</key>
   <dict>
     <key>A</key>
-    <integer>37</integer>
+    <integer>38</integer>
     <key>T</key>
-    <integer>-8</integer>
+    <integer>-11</integer>
     <key>V</key>
-    <integer>1</integer>
+    <integer>3</integer>
     <key>W</key>
-    <integer>17</integer>
+    <integer>20</integer>
     <key>Y</key>
-    <integer>-13</integer>
+    <integer>-17</integer>
   </dict>
   <key>t</key>
   <dict>
     <key>S</key>
-    <integer>21</integer>
+    <integer>14</integer>
     <key>a</key>
-    <integer>-6</integer>
+    <integer>-9</integer>
     <key>aacute</key>
-    <integer>-6</integer>
+    <integer>-9</integer>
     <key>adieresis</key>
-    <integer>-6</integer>
+    <integer>-9</integer>
     <key>aogonek</key>
-    <integer>-4</integer>
+    <integer>-9</integer>
     <key>c</key>
-    <integer>-6</integer>
+    <integer>-9</integer>
     <key>colon</key>
-    <integer>27</integer>
+    <integer>16</integer>
     <key>e</key>
-    <integer>-6</integer>
+    <integer>-10</integer>
     <key>eacute</key>
-    <integer>-6</integer>
+    <integer>-10</integer>
     <key>eogonek</key>
-    <integer>-6</integer>
+    <integer>-10</integer>
     <key>h</key>
-    <integer>-2</integer>
+    <integer>2</integer>
     <key>o</key>
-    <integer>-6</integer>
+    <integer>-9</integer>
     <key>oacute</key>
-    <integer>-6</integer>
+    <integer>-9</integer>
     <key>odieresis</key>
-    <integer>-6</integer>
+    <integer>-9</integer>
     <key>quoteright</key>
-    <integer>10</integer>
+    <integer>15</integer>
     <key>semicolon</key>
-    <integer>28</integer>
-    <key>y</key>
     <integer>26</integer>
+    <key>y</key>
+    <integer>20</integer>
   </dict>
   <key>tcaron</key>
   <dict>
     <key>a</key>
-    <integer>-7</integer>
+    <integer>-11</integer>
     <key>aacute</key>
-    <integer>-7</integer>
+    <integer>-11</integer>
     <key>comma</key>
-    <integer>-2</integer>
+    <integer>-3</integer>
     <key>e</key>
-    <integer>-7</integer>
+    <integer>-11</integer>
     <key>eacute</key>
-    <integer>-7</integer>
+    <integer>-11</integer>
     <key>m</key>
-    <integer>-2</integer>
+    <integer>-6</integer>
     <key>n</key>
-    <integer>-2</integer>
+    <integer>-6</integer>
     <key>o</key>
-    <integer>-6</integer>
+    <integer>-10</integer>
     <key>oacute</key>
-    <integer>-6</integer>
+    <integer>-10</integer>
     <key>period</key>
-    <integer>10</integer>
+    <integer>7</integer>
     <key>r</key>
-    <integer>-2</integer>
+    <integer>-6</integer>
     <key>rcaron</key>
-    <integer>20</integer>
+    <integer>16</integer>
     <key>s</key>
-    <integer>13</integer>
+    <integer>3</integer>
     <key>scaron</key>
-    <integer>15</integer>
+    <integer>3</integer>
     <key>t</key>
-    <integer>23</integer>
+    <integer>18</integer>
     <key>u</key>
-    <integer>-6</integer>
+    <integer>-15</integer>
     <key>uacute</key>
-    <integer>-6</integer>
+    <integer>-15</integer>
     <key>uring</key>
-    <integer>-6</integer>
+    <integer>-15</integer>
     <key>y</key>
-    <integer>26</integer>
+    <integer>11</integer>
     <key>yacute</key>
-    <integer>26</integer>
+    <integer>12</integer>
     <key>z</key>
-    <integer>26</integer>
+    <integer>22</integer>
     <key>zcaron</key>
-    <integer>28</integer>
+    <integer>23</integer>
   </dict>
   <key>three</key>
   <dict>
     <key>four</key>
-    <integer>-18</integer>
+    <integer>-17</integer>
     <key>one</key>
-    <integer>-79</integer>
+    <integer>-65</integer>
     <key>seven</key>
-    <integer>-70</integer>
+    <integer>-72</integer>
   </dict>
   <key>two</key>
   <dict>
     <key>four</key>
-    <integer>-46</integer>
+    <integer>-54</integer>
     <key>one</key>
-    <integer>-63</integer>
+    <integer>-52</integer>
     <key>seven</key>
-    <integer>-49</integer>
+    <integer>-52</integer>
   </dict>
   <key>u</key>
   <dict>
     <key>j</key>
-    <integer>-3</integer>
+    <integer>-10</integer>
     <key>quoteright</key>
     <integer>3</integer>
   </dict>
@@ -2563,21 +2581,21 @@
     <key>c</key>
     <integer>-9</integer>
     <key>colon</key>
-    <integer>27</integer>
+    <integer>18</integer>
     <key>comma</key>
-    <integer>-39</integer>
+    <integer>-42</integer>
     <key>e</key>
     <integer>-9</integer>
     <key>eacute</key>
     <integer>-9</integer>
     <key>g</key>
-    <integer>-9</integer>
+    <integer>-10</integer>
     <key>hyphen</key>
-    <integer>33</integer>
+    <integer>30</integer>
     <key>j</key>
-    <integer>4</integer>
+    <integer>-10</integer>
     <key>l</key>
-    <integer>4</integer>
+    <integer>-1</integer>
     <key>o</key>
     <integer>-9</integer>
     <key>oacute</key>
@@ -2585,63 +2603,65 @@
     <key>odieresis</key>
     <integer>-9</integer>
     <key>period</key>
-    <integer>-33</integer>
+    <integer>-36</integer>
     <key>s</key>
-    <integer>-4</integer>
+    <integer>-9</integer>
     <key>semicolon</key>
-    <integer>31</integer>
+    <integer>22</integer>
   </dict>
   <key>w</key>
   <dict>
     <key>a</key>
-    <integer>-8</integer>
+    <integer>-7</integer>
     <key>aacute</key>
-    <integer>-8</integer>
+    <integer>-7</integer>
     <key>acircumflex</key>
-    <integer>-8</integer>
+    <integer>-7</integer>
     <key>adieresis</key>
-    <integer>-8</integer>
+    <integer>-7</integer>
     <key>c</key>
-    <integer>-8</integer>
+    <integer>-7</integer>
     <key>colon</key>
-    <integer>29</integer>
+    <integer>17</integer>
     <key>comma</key>
     <integer>-36</integer>
     <key>e</key>
-    <integer>-8</integer>
+    <integer>-7</integer>
     <key>eacute</key>
-    <integer>-8</integer>
+    <integer>-7</integer>
     <key>g</key>
-    <integer>-8</integer>
+    <integer>-6</integer>
     <key>hyphen</key>
-    <integer>33</integer>
+    <integer>32</integer>
+    <key>l</key>
+    <integer>-6</integer>
     <key>o</key>
-    <integer>-8</integer>
+    <integer>-6</integer>
     <key>oacute</key>
-    <integer>-8</integer>
+    <integer>-6</integer>
     <key>odieresis</key>
-    <integer>-8</integer>
+    <integer>-6</integer>
     <key>period</key>
     <integer>-27</integer>
     <key>s</key>
-    <integer>-7</integer>
+    <integer>-8</integer>
     <key>semicolon</key>
-    <integer>29</integer>
+    <integer>27</integer>
   </dict>
   <key>x</key>
   <dict>
     <key>a</key>
-    <integer>-6</integer>
+    <integer>-3</integer>
     <key>c</key>
-    <integer>-6</integer>
+    <integer>-3</integer>
     <key>e</key>
-    <integer>-6</integer>
+    <integer>-3</integer>
     <key>eacute</key>
-    <integer>-6</integer>
+    <integer>-3</integer>
     <key>o</key>
-    <integer>-6</integer>
+    <integer>-2</integer>
     <key>q</key>
-    <integer>-6</integer>
+    <integer>-3</integer>
   </dict>
   <key>y</key>
   <dict>
@@ -2658,21 +2678,21 @@
     <key>ccaron</key>
     <integer>-6</integer>
     <key>colon</key>
-    <integer>27</integer>
+    <integer>16</integer>
     <key>comma</key>
-    <integer>-41</integer>
+    <integer>-45</integer>
     <key>e</key>
     <integer>-6</integer>
     <key>eacute</key>
     <integer>-6</integer>
     <key>g</key>
-    <integer>-6</integer>
+    <integer>-7</integer>
     <key>hyphen</key>
-    <integer>33</integer>
+    <integer>29</integer>
     <key>j</key>
-    <integer>7</integer>
+    <integer>-7</integer>
     <key>l</key>
-    <integer>7</integer>
+    <integer>2</integer>
     <key>o</key>
     <integer>-6</integer>
     <key>oacute</key>
@@ -2680,77 +2700,79 @@
     <key>odieresis</key>
     <integer>-6</integer>
     <key>period</key>
-    <integer>-34</integer>
+    <integer>-38</integer>
     <key>s</key>
-    <integer>-1</integer>
+    <integer>-6</integer>
     <key>sacute</key>
-    <integer>-1</integer>
+    <integer>-6</integer>
     <key>semicolon</key>
-    <integer>30</integer>
+    <integer>25</integer>
   </dict>
   <key>yacute</key>
   <dict>
     <key>ccaron</key>
     <integer>-6</integer>
     <key>comma</key>
-    <integer>-41</integer>
+    <integer>-45</integer>
     <key>period</key>
-    <integer>-34</integer>
+    <integer>-38</integer>
   </dict>
   <key>z</key>
   <dict>
     <key>colon</key>
-    <integer>33</integer>
+    <integer>11</integer>
+    <key>comma</key>
+    <integer>-9</integer>
     <key>e</key>
-    <integer>-7</integer>
+    <integer>-17</integer>
     <key>o</key>
-    <integer>-6</integer>
+    <integer>-17</integer>
     <key>semicolon</key>
-    <integer>27</integer>
+    <integer>15</integer>
   </dict>
   <key>zacute</key>
   <dict>
     <key>colon</key>
-    <integer>43</integer>
+    <integer>26</integer>
     <key>comma</key>
-    <integer>3</integer>
+    <integer>-9</integer>
     <key>semicolon</key>
-    <integer>37</integer>
+    <integer>30</integer>
   </dict>
   <key>zcaron</key>
   <dict>
     <key>colon</key>
-    <integer>36</integer>
+    <integer>12</integer>
     <key>comma</key>
-    <integer>3</integer>
+    <integer>-9</integer>
     <key>e</key>
-    <integer>-4</integer>
+    <integer>-16</integer>
     <key>semicolon</key>
-    <integer>30</integer>
+    <integer>21</integer>
   </dict>
   <key>zdotaccent</key>
   <dict>
     <key>c</key>
-    <integer>-4</integer>
+    <integer>-11</integer>
     <key>colon</key>
-    <integer>43</integer>
+    <integer>23</integer>
     <key>comma</key>
-    <integer>3</integer>
+    <integer>-9</integer>
     <key>e</key>
-    <integer>-4</integer>
+    <integer>-11</integer>
     <key>oacute</key>
-    <integer>-4</integer>
+    <integer>-11</integer>
     <key>semicolon</key>
-    <integer>37</integer>
+    <integer>27</integer>
   </dict>
   <key>zero</key>
   <dict>
     <key>four</key>
-    <integer>3</integer>
+    <integer>-5</integer>
     <key>one</key>
     <integer>-49</integer>
     <key>seven</key>
-    <integer>-51</integer>
+    <integer>-61</integer>
   </dict>
 </dict>
 </plist>

@@ -79,7 +79,6 @@
         <key>stems</key>
         <array>
           <string>hstem -15 61</string>
-          <string>hstem 292 73</string>
           <string>hstem 445 77</string>
           <string>hstem 622 61</string>
           <string>vstem 33 67</string>

@@ -30,6 +30,8 @@
   <string>B_.glif</string>
   <key>C</key>
   <string>C_.glif</string>
+  <key>CR</key>
+  <string>C_R_.glif</string>
   <key>Cacute</key>
   <string>C_acute.glif</string>
   <key>Ccaron</key>
@@ -112,6 +114,8 @@
   <string>M_.glif</string>
   <key>N</key>
   <string>N_.glif</string>
+  <key>NULL</key>
+  <string>N_U_L_L_.glif</string>
   <key>Nacute</key>
   <string>N_acute.glif</string>
   <key>Ncaron</key>

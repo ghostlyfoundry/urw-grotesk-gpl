@@ -40,6 +40,7 @@
         <key>stems</key>
         <array>
           <string>hstem 534 71</string>
+          <string>hstem 695 -20</string>
         </array>
       </dict>
     </array>

@@ -70,6 +70,7 @@
       <dict>
         <key>stems</key>
         <array>
+          <string>hstem 696 -20</string>
           <string>vstem 89 51</string>
         </array>
       </dict>

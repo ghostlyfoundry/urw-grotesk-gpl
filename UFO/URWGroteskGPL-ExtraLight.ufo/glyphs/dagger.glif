@@ -7,15 +7,57 @@
       <point x="296" y="660" type="line"/>
       <point x="233" y="660" type="line"/>
       <point x="248" y="379" type="line"/>
-      <point x="57" y="388" type="line"/>
+      <point x="57" y="388" type="line" name="hr01"/>
       <point x="57" y="331" type="line"/>
       <point x="248" y="347" type="line"/>
       <point x="233" y="-137" type="line"/>
       <point x="296" y="-137" type="line"/>
       <point x="281" y="347" type="line"/>
-      <point x="472" y="331" type="line"/>
+      <point x="472" y="331" type="line" name="hr02"/>
       <point x="472" y="388" type="line"/>
       <point x="281" y="379" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w529m296,660l233,660l248,379l57,388l57,331l248,347l233,-137l296,-137l281,347l472,331l472,388l281,379</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 660 -20</string>
+          <string>vstem 240.5 48</string>
+          <string>hstem -116 -21</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 57 231.5</string>
+          <string>hstem -116 -21</string>
+          <string>hstem 660 -20</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr01</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 240.5 231.5</string>
+          <string>hstem 660 -20</string>
+          <string>hstem -116 -21</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr02</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

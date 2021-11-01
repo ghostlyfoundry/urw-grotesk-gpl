@@ -22,7 +22,7 @@
       <point x="557.436" y="197.785" type="curve" smooth="yes"/>
       <point x="640.732" y="197.785"/>
       <point x="695.61" y="256.617"/>
-      <point x="695.61" y="345.346" type="curve" smooth="yes"/>
+      <point x="695.61" y="345.347" type="curve" smooth="yes"/>
       <point x="695.61" y="427.058"/>
       <point x="636.77" y="485.697"/>
       <point x="555.376" y="485.697" type="curve" smooth="yes"/>
@@ -35,7 +35,7 @@
       <point x="389.975" y="347.306"/>
       <point x="392.619" y="350.392"/>
       <point x="396.13" y="355.307" type="curve" smooth="yes"/>
-      <point x="429.82" y="402.473"/>
+      <point x="429.819" y="402.473"/>
       <point x="494.829" y="452.227"/>
       <point x="553.316" y="452.227" type="curve" smooth="yes"/>
       <point x="615.173" y="452.227"/>
@@ -57,9 +57,9 @@
       <point x="227.665" y="231.255"/>
       <point x="160.836" y="231.255" type="curve" smooth="yes"/>
       <point x="103.089" y="231.255"/>
-      <point x="63.1106" y="276.604"/>
-      <point x="63.1106" y="341.226" type="curve" smooth="yes"/>
-      <point x="63.1106" y="409.186"/>
+      <point x="63.1105" y="276.604"/>
+      <point x="63.1105" y="341.226" type="curve" smooth="yes"/>
+      <point x="63.1105" y="409.186"/>
       <point x="102.934" y="452.227"/>
       <point x="165.987" y="452.227" type="curve" smooth="yes"/>
       <point x="219.131" y="452.227"/>
@@ -74,16 +74,16 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>413057896a7d697798eca8a75f447ff1e228ebe226e547dbd1c26b79daf41d6eda64efa435b27dac27100f0922ee16f27875d7d6216e945e53777afd65a282c4</string>
+    <string>f135f6c9c78cfc7b3e861e5db07ed70002fa4d7c92722bf77cc55ca2bdf075901cb4916ab621ecced40730c605b3cf4bc9118b1a09eec49a28b90c5949f0afbe</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 196.61 37.25</string>
-          <string>hstem 449.53 37.25</string>
-          <string>vstem 25.6 39.13</string>
-          <string>vstem 654.33 39.13</string>
+          <string>hstem 197.78 33.47</string>
+          <string>hstem 452.23 33.47</string>
+          <string>vstem 25.75 37.36</string>
+          <string>vstem 658.25 37.36</string>
         </array>
       </dict>
     </array>

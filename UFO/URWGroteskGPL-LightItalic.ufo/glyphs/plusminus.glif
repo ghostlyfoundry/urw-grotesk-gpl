@@ -39,7 +39,7 @@
         <array>
           <string>hstem 0 40</string>
           <string>hstem 303 40</string>
-          <string>vstem 233 40</string>
+          <string>hstem 565 -20</string>
         </array>
       </dict>
     </array>

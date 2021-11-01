@@ -19,7 +19,7 @@
       <point x="340" y="765" type="line"/>
       <point x="232" y="863" type="line"/>
       <point x="205" y="854" type="line"/>
-      <point x="301" y="723" type="line"/>
+      <point x="301" y="723" type="line" name="hr01"/>
       <point x="357" y="723" type="line"/>
     </contour>
   </outline>
@@ -36,9 +36,18 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 0 20</string>
+          <string>hstem 21 -21</string>
           <string>hstem 604 63</string>
         </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 667 56</string>
+          <string>hstem 21 -21</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr01</string>
       </dict>
     </array>
   </dict>

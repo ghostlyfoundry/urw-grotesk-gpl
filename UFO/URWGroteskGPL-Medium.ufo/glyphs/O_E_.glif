@@ -30,7 +30,7 @@
       <point x="395" y="-13"/>
       <point x="423" y="-6"/>
       <point x="493" y="23" type="curve"/>
-      <point x="493" y="0" type="line" name="hr02"/>
+      <point x="493" y="0" type="line"/>
       <point x="918" y="0" type="line"/>
       <point x="918" y="124" type="line"/>
       <point x="648" y="124" type="line"/>
@@ -94,7 +94,7 @@
           <string>vstem 39 174</string>
         </array>
         <key>pointTag</key>
-        <string>hr02</string>
+        <string>._.2481522219712</string>
       </dict>
       <dict>
         <key>stems</key>

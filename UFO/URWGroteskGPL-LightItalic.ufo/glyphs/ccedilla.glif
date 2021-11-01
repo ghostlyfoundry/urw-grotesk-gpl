@@ -73,6 +73,7 @@
           <string>hstem -10 57</string>
           <string>hstem 393 57</string>
           <string>vstem 39 78</string>
+          <string>vstem 171 62</string>
         </array>
       </dict>
     </array>

@@ -12,7 +12,7 @@
       <point x="219" y="255"/>
       <point x="232" y="284" type="curve" smooth="yes"/>
       <point x="247" y="315"/>
-      <point x="270" y="329" name="hr01"/>
+      <point x="270" y="329"/>
       <point x="306" y="329" type="curve" smooth="yes"/>
       <point x="331" y="329"/>
       <point x="347" y="323"/>
@@ -23,11 +23,11 @@
       <point x="334" y="469" type="curve" smooth="yes"/>
       <point x="281" y="469"/>
       <point x="247" y="447"/>
-      <point x="205" y="385" type="curve"/>
-      <point x="205" y="457" type="line" name="hr02"/>
+      <point x="205" y="385" type="curve" name="hr01"/>
+      <point x="205" y="457" type="line"/>
     </contour>
     <contour>
-      <point x="179" y="-53" type="line" name="hr03"/>
+      <point x="179" y="-53" type="line"/>
       <point x="95" y="-53" type="line"/>
       <point x="95" y="-109" type="line" smooth="yes"/>
       <point x="95" y="-128"/>
@@ -51,15 +51,17 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 437 20</string>
-          <string>vstem 60 145</string>
+          <string>vstem 60 149</string>
+          <string>hstem -53 53</string>
+          <string>hstem 329 140</string>
         </array>
       </dict>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 329 140</string>
           <string>vstem 60 145</string>
+          <string>hstem -53 53</string>
+          <string>hstem 329 140</string>
         </array>
         <key>pointTag</key>
         <string>hr01</string>
@@ -67,20 +69,12 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 437 20</string>
-          <string>vstem 60 145</string>
-        </array>
-        <key>pointTag</key>
-        <string>hr02</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
+          <string>hstem -53 53</string>
           <string>vstem 95 84</string>
           <string>hstem 329 140</string>
         </array>
         <key>pointTag</key>
-        <string>hr03</string>
+        <string>._.2481522264272</string>
       </dict>
     </array>
   </dict>

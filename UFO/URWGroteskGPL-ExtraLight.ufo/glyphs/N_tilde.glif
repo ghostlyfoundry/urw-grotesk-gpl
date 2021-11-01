@@ -57,10 +57,10 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 647 20</string>
+          <string>hstem 667 -20</string>
           <string>vstem 568 50</string>
           <string>vstem 99 50</string>
-          <string>hstem 0 20</string>
+          <string>hstem 21 -21</string>
           <string>hstem 745 44</string>
         </array>
       </dict>
@@ -68,8 +68,8 @@
         <key>stems</key>
         <array>
           <string>hstem 787 42</string>
-          <string>hstem 0 20</string>
-          <string>hstem 647 20</string>
+          <string>hstem 667 -20</string>
+          <string>hstem 21 -21</string>
           <string>vstem 99 50</string>
           <string>vstem 568 50</string>
         </array>
@@ -80,8 +80,8 @@
         <key>stems</key>
         <array>
           <string>hstem 745 44</string>
-          <string>hstem 0 20</string>
-          <string>hstem 647 20</string>
+          <string>hstem 667 -20</string>
+          <string>hstem 21 -21</string>
           <string>vstem 99 50</string>
           <string>vstem 568 50</string>
         </array>

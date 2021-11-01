@@ -4,9 +4,9 @@
   <unicode hex="005B"/>
   <outline>
     <contour>
-      <point x="173" y="-153" type="line"/>
+      <point x="173" y="-153" type="line" name="hr02"/>
       <point x="173" y="634" type="line"/>
-      <point x="270" y="648" type="line"/>
+      <point x="270" y="648" type="line" name="hr01"/>
       <point x="270" y="700" type="line"/>
       <point x="62" y="700" type="line"/>
       <point x="62" y="-216" type="line"/>
@@ -27,9 +27,30 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -216 20</string>
           <string>vstem 62 111</string>
+          <string>hstem 700 -20</string>
+          <string>hstem -195 -21</string>
         </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 62 208</string>
+          <string>hstem 700 -20</string>
+          <string>hstem -195 -21</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr01</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 62 111</string>
+          <string>hstem 700 -20</string>
+          <string>hstem -195 -21</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr02</string>
       </dict>
     </array>
   </dict>

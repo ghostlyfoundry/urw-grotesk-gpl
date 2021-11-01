@@ -21,10 +21,10 @@
       <point x="416" y="440" type="line"/>
       <point x="362" y="188" type="line" smooth="yes"/>
       <point x="350" y="133"/>
-      <point x="336" y="105"/>
+      <point x="335.647" y="105.438"/>
       <point x="307" y="82" type="curve" smooth="yes"/>
-      <point x="281" y="60"/>
-      <point x="244" y="47"/>
+      <point x="280.64" y="60.4327"/>
+      <point x="244" y="47" name="hr02"/>
       <point x="210" y="47" type="curve" smooth="yes"/>
       <point x="162" y="47"/>
       <point x="132" y="73"/>
@@ -70,16 +70,42 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>b7d50646c69fa42b0211a6bd5d67c38221168d23728ff40f4313a660d6e87efeb85c3cc8f8b3e5f2e02499642ee49ea10f124eb3fb8a3005016903567899ca5b</string>
+    <string>5c41b649d52ccf46082738398f0b5b5a53518ac37b0ceb4923893f83f264aba52621e87e9e7d740afd9bdeb52e0a466bbeb9932f818fd699f2dd69482e09e704</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -10 57</string>
-          <string>hstem 420 20</string>
           <string>vstem 57 75</string>
+          <string>hstem -10 57</string>
+          <string>hstem 566 96</string>
+          <string>vstem 210 97</string>
+          <string>vstem 381 98</string>
         </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 21 -21</string>
+          <string>vstem 210 97</string>
+          <string>hstem 566 96</string>
+          <string>vstem 57 75</string>
+          <string>vstem 381 98</string>
+        </array>
+        <key>pointTag</key>
+        <string>._.2481076106432</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -10 57</string>
+          <string>vstem 210 97</string>
+          <string>vstem 57 75</string>
+          <string>hstem 566 96</string>
+          <string>vstem 381 98</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr02</string>
       </dict>
     </array>
   </dict>

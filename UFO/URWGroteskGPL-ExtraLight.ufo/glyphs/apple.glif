@@ -17,9 +17,9 @@
       <point x="507.351" y="530.58"/>
       <point x="486.858" y="522.832"/>
       <point x="465.452" y="514.665" type="curve" smooth="yes"/>
-      <point x="454.679" y="510.555"/>
+      <point x="454.679" y="510.554"/>
       <point x="443.915" y="506.45"/>
-      <point x="432.934" y="503.368" type="curve" smooth="yes"/>
+      <point x="432.933" y="503.368" type="curve" smooth="yes"/>
       <point x="421.812" y="500.246"/>
       <point x="410.3" y="498.116"/>
       <point x="398.228" y="498.116" type="curve" smooth="yes"/>
@@ -36,7 +36,7 @@
       <point x="82.3555" y="419.938"/>
       <point x="82.3555" y="311.449" type="curve" smooth="yes"/>
       <point x="82.3555" y="270.211"/>
-      <point x="89.8118" y="228.985"/>
+      <point x="89.8117" y="228.986"/>
       <point x="101.8" y="189.489" type="curve" smooth="yes"/>
       <point x="123.523" y="117.921"/>
       <point x="194.766" y="-27.3913"/>
@@ -45,24 +45,24 @@
       <point x="294.708" y="-25.0552"/>
       <point x="304.541" y="-21.6909" type="curve" smooth="yes"/>
       <point x="314.419" y="-18.3112"/>
-      <point x="324.077" y="-14.0503"/>
-      <point x="332.145" y="-10.5453" type="curve" smooth="yes"/>
-      <point x="358.132" y="0.74579"/>
-      <point x="370.124" y="2.02899"/>
-      <point x="398.228" y="2.02899" type="curve" smooth="yes"/>
-      <point x="414.555" y="2.02899"/>
-      <point x="426.139" y="2.22118"/>
-      <point x="437.376" y="0.78131" type="curve" smooth="yes"/>
-      <point x="448.998" y="-0.707924"/>
-      <point x="460.172" y="-3.91001"/>
-      <point x="475.199" y="-10.5583" type="curve" smooth="yes"/>
+      <point x="324.077" y="-14.0502"/>
+      <point x="332.145" y="-10.5452" type="curve" smooth="yes"/>
+      <point x="358.132" y="0.745875"/>
+      <point x="370.124" y="2.02908"/>
+      <point x="398.228" y="2.02908" type="curve" smooth="yes"/>
+      <point x="414.555" y="2.02908"/>
+      <point x="426.139" y="2.22128"/>
+      <point x="437.376" y="0.781375" type="curve" smooth="yes"/>
+      <point x="448.998" y="-0.707825"/>
+      <point x="460.172" y="-3.90992"/>
+      <point x="475.199" y="-10.5582" type="curve" smooth="yes"/>
       <point x="481.136" y="-13.1846"/>
-      <point x="490.577" y="-17.4557"/>
-      <point x="500.166" y="-21.0676" type="curve" smooth="yes"/>
-      <point x="509.914" y="-24.7394"/>
-      <point x="518.977" y="-27.3913"/>
-      <point x="524.577" y="-27.3913" type="curve" smooth="yes"/>
-      <point x="594.729" y="-27.3913"/>
+      <point x="490.577" y="-17.4556"/>
+      <point x="500.166" y="-21.0675" type="curve" smooth="yes"/>
+      <point x="509.914" y="-24.7393"/>
+      <point x="518.977" y="-27.3912"/>
+      <point x="524.577" y="-27.3912" type="curve" smooth="yes"/>
+      <point x="594.729" y="-27.3912"/>
       <point x="667.471" y="106.525"/>
     </contour>
     <contour>
@@ -88,8 +88,7 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 117.92 -21</string>
-          <string>vstem 465.45 64.06</string>
+          <string>hstem -6.39 -21</string>
         </array>
       </dict>
     </array>

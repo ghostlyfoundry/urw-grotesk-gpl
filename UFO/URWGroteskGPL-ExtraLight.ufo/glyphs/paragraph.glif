@@ -41,7 +41,8 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 647 20</string>
+          <string>hstem -65 -21</string>
+          <string>hstem 634.5 32.5</string>
           <string>vstem 250 38</string>
           <string>vstem 362 38</string>
         </array>

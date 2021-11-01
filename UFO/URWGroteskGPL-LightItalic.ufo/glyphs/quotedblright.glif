@@ -28,7 +28,7 @@
       <point x="312" y="573"/>
       <point x="290" y="534" type="curve"/>
       <point x="278" y="515"/>
-      <point x="266" y="495"/>
+      <point x="265.943" y="495.034"/>
       <point x="254" y="475" type="curve" smooth="yes"/>
     </contour>
   </outline>
@@ -39,13 +39,13 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>f6248f19ac5ceafea9d149f7d30d8465f152e11a2c9c615076ca95efd7047dddffd3d3076f71c7acbf9417c0ab6ad798d9bee806c2e0ff26ec476af9a062318e</string>
+    <string>7f4d8739af68c445915efc5950732b90ceef0ade42a3e49b002ccdedfc9083a55ef83d9a290a3a96885c0bec37ba27c647fdd3158618e5f1bcadc99badc178f0</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 647 20</string>
+          <string>hstem 423 244</string>
         </array>
       </dict>
     </array>

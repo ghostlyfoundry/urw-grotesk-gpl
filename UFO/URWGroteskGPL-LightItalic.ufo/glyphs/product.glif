@@ -43,7 +43,7 @@
       <point x="793.974" y="-103.175" type="line"/>
       <point x="801.46" y="-107.175" type="line"/>
       <point x="798.424" y="-107.175" type="line" smooth="yes"/>
-      <point x="761.656" y="-107.175"/>
+      <point x="761.655" y="-107.175"/>
       <point x="733.33" y="-94.3629"/>
       <point x="720.514" y="-74.0765" type="curve"/>
       <point x="710.266" y="-55.1667"/>
@@ -52,7 +52,7 @@
       <point x="777.083" y="612.304" type="line" smooth="yes"/>
       <point x="782.623" y="665.012"/>
       <point x="787.712" y="681.687"/>
-      <point x="801.936" y="700.597" type="curve"/>
+      <point x="801.935" y="700.597" type="curve"/>
       <point x="819.016" y="720.883"/>
       <point x="850.035" y="733.696"/>
       <point x="886.803" y="733.696" type="curve" smooth="yes"/>
@@ -95,8 +95,6 @@
         <array>
           <string>hstem -104.49 -21</string>
           <string>hstem 716.49 35.52</string>
-          <string>vstem 189.75 91.89</string>
-          <string>vstem 682. 95.08</string>
         </array>
       </dict>
     </array>
