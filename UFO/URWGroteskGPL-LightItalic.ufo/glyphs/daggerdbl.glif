@@ -4,88 +4,26 @@
   <unicode hex="2021"/>
   <outline>
     <contour>
-      <point x="451.775" y="667" type="line"/>
-      <point x="373.775" y="667" type="line"/>
-      <point x="344.201" y="462" type="line"/>
-      <point x="164.902" y="470" type="line"/>
-      <point x="149.81" y="399" type="line"/>
-      <point x="333.786" y="413" type="line"/>
-      <point x="272.144" y="123" type="line"/>
-      <point x="94.1202" y="137" type="line"/>
-      <point x="79.0287" y="66" type="line"/>
-      <point x="261.729" y="74" type="line"/>
-      <point x="204.155" y="-131" type="line"/>
-      <point x="282.155" y="-131" type="line"/>
-      <point x="311.729" y="74" type="line"/>
-      <point x="491.029" y="66" type="line"/>
-      <point x="506.12" y="137" type="line"/>
-      <point x="322.144" y="123" type="line"/>
-      <point x="383.786" y="413" type="line"/>
-      <point x="561.81" y="399" type="line"/>
-      <point x="576.902" y="470" type="line"/>
-      <point x="394.201" y="462" type="line"/>
+      <point x="164" y="-115" type="line"/>
+      <point x="238" y="-115" type="line"/>
+      <point x="272" y="109" type="line"/>
+      <point x="452" y="100" type="line"/>
+      <point x="467" y="168" type="line"/>
+      <point x="282" y="153" type="line"/>
+      <point x="344" y="449" type="line"/>
+      <point x="524" y="436" type="line"/>
+      <point x="538" y="503" type="line"/>
+      <point x="354" y="494" type="line"/>
+      <point x="411" y="701" type="line"/>
+      <point x="337" y="701" type="line"/>
+      <point x="307" y="494" type="line"/>
+      <point x="126" y="503" type="line"/>
+      <point x="112" y="436" type="line"/>
+      <point x="298" y="449" type="line"/>
+      <point x="235" y="153" type="line"/>
+      <point x="55" y="168" type="line"/>
+      <point x="41" y="100" type="line"/>
+      <point x="225" y="109" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>70abc21c13bd005d95260d8d86e2b9e7502f04dc58377982a4af7f52fff1e1b425d3d0bb824048648f64b625d839e5d9da82e28f205df77804dd5408f047ebc1</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 667 -20</string>
-          <string>hstem 70 60</string>
-          <string>hstem 406 60</string>
-          <string>vstem 239 64</string>
-          <string>vstem 344.2 232.7</string>
-          <string>hstem -110 -21</string>
-        </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 70 60</string>
-          <string>hstem 406 60</string>
-          <string>vstem 164.9 229.3</string>
-          <string>hstem -110 -21</string>
-          <string>hstem 667 -20</string>
-        </array>
-        <key>pointTag</key>
-        <string>._.2481009866384</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 70 60</string>
-          <string>hstem 406 60</string>
-          <string>vstem 344.2 232.7</string>
-          <string>vstem 239 64</string>
-          <string>hstem 667 -20</string>
-          <string>hstem -110 -21</string>
-        </array>
-        <key>pointTag</key>
-        <string>._.2481009873104</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 70 60</string>
-          <string>hstem 406 60</string>
-          <string>vstem 164.9 229.3</string>
-          <string>hstem 667 -20</string>
-          <string>hstem -110 -21</string>
-        </array>
-        <key>pointTag</key>
-        <string>._.2481009871024</string>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
 </glyph>

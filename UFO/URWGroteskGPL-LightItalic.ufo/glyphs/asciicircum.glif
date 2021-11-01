@@ -1,36 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="asciicircum" format="2">
-  <advance width="434"/>
+  <advance width="433"/>
   <unicode hex="005E"/>
   <outline>
     <contour>
-      <point x="184.312" y="439" type="line"/>
-      <point x="351.036" y="640" type="line"/>
-      <point x="435.312" y="439" type="line"/>
-      <point x="483.501" y="454" type="line"/>
-      <point x="377.152" y="697" type="line"/>
-      <point x="345.152" y="697" type="line"/>
-      <point x="142.501" y="454" type="line"/>
+      <point x="141" y="439" type="line"/>
+      <point x="265" y="640" type="line"/>
+      <point x="392" y="439" type="line"/>
+      <point x="437" y="454" type="line"/>
+      <point x="279" y="697" type="line"/>
+      <point x="247" y="697" type="line"/>
+      <point x="96" y="454" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w434m184.31,439l351.04,640l435.31,439l483.5,454l377.15,697l345.15,697l142.5,454</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 697 -20</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
 </glyph>

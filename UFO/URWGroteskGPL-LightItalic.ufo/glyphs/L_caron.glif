@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Lcaron" format="2">
-  <advance width="442"/>
+  <advance width="443"/>
   <unicode hex="013D"/>
   <outline>
     <contour>
-      <point x="314.775" y="667" type="line"/>
-      <point x="234.775" y="667" type="line"/>
-      <point x="93" y="0" type="line"/>
-      <point x="441" y="0" type="line"/>
-      <point x="454.391" y="63" type="line"/>
-      <point x="186.391" y="63" type="line"/>
+      <point x="47" y="0" type="line"/>
+      <point x="396" y="0" type="line"/>
+      <point x="410" y="63" type="line"/>
+      <point x="140" y="63" type="line"/>
+      <point x="269" y="667" type="line"/>
+      <point x="189" y="667" type="line"/>
     </contour>
     <contour>
-      <point x="512.775" y="667" type="line"/>
-      <point x="450.775" y="667" type="line"/>
-      <point x="438.447" y="609" type="line" smooth="yes"/>
-      <point x="435.046" y="593"/>
-      <point x="421.732" y="568"/>
-      <point x="403.631" y="544" type="curve" smooth="yes"/>
-      <point x="360.302" y="486" type="line"/>
-      <point x="401.302" y="486" type="line"/>
-      <point x="494.283" y="580" type="line"/>
+      <point x="467" y="667" type="line"/>
+      <point x="405" y="667" type="line"/>
+      <point x="393" y="609" type="line"/>
+      <point x="386" y="587"/>
+      <point x="377" y="569"/>
+      <point x="358" y="544" type="curve" smooth="yes"/>
+      <point x="315" y="486" type="line"/>
+      <point x="355" y="486" type="line"/>
+      <point x="448" y="580" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -30,16 +30,14 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>326ea37f81ca6f1cded65f1a8e04d8297911b33c3c7800e8f183f38d8c5f8164e151f28f8632130950043c34382735e194dbfe2f0f4738b634e1b4ad8309da93</string>
+    <string>w443m47,0l396,0l410,63l140,63l269,667l189,667m467,667l405,667l393,609c386,587 377,569 358,544l315,486l355,486l448,580</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
           <string>hstem 0 63</string>
-          <string>hstem 667 -20</string>
-          <string>vstem 234.78 80</string>
-          <string>vstem 450.78 62</string>
+          <string>hstem 647 20</string>
         </array>
       </dict>
     </array>

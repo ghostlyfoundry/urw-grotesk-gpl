@@ -4,24 +4,24 @@
   <unicode hex="00B1"/>
   <outline>
     <contour>
-      <point x="89.9069" y="343" type="line"/>
-      <point x="81.4046" y="303" type="line"/>
-      <point x="308.405" y="303" type="line"/>
-      <point x="259.942" y="75" type="line"/>
-      <point x="299.942" y="75" type="line"/>
-      <point x="348.405" y="303" type="line"/>
-      <point x="574.405" y="303" type="line"/>
-      <point x="582.907" y="343" type="line"/>
-      <point x="356.907" y="343" type="line"/>
-      <point x="404.094" y="565" type="line"/>
-      <point x="364.094" y="565" type="line"/>
-      <point x="316.907" y="343" type="line"/>
+      <point x="66.4802" y="343" type="line"/>
+      <point x="59.4271" y="303" type="line"/>
+      <point x="286.427" y="303" type="line"/>
+      <point x="246.225" y="75" type="line"/>
+      <point x="286.225" y="75" type="line"/>
+      <point x="326.427" y="303" type="line"/>
+      <point x="552.427" y="303" type="line"/>
+      <point x="559.48" y="343" type="line"/>
+      <point x="333.48" y="343" type="line"/>
+      <point x="372.625" y="565" type="line"/>
+      <point x="332.625" y="565" type="line"/>
+      <point x="293.48" y="343" type="line"/>
     </contour>
     <contour>
-      <point x="25.5023" y="40" type="line"/>
-      <point x="17" y="0" type="line"/>
-      <point x="510" y="0" type="line"/>
-      <point x="518.502" y="40" type="line"/>
+      <point x="13.0531" y="40" type="line"/>
+      <point x="6" y="0" type="line"/>
+      <point x="499" y="0" type="line"/>
+      <point x="506.053" y="40" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -31,7 +31,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>3b528f870bc312680486d07db15b41c7aa3e31c6d0adea0c5e699a1cd602e73bf676ddcd39825a1714e6c9479c2fccf3eb8a3afd9c128b0442a51bca98297cda</string>
+    <string>9b0aeb47ca54424786ee7a7f53b1e5d5585659a26ffb079a45718e3e098acdfe69b44dc71c7cca1de0737c6912587f73107fbbf8663ccc9178ce0f63d73f0fa2</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -39,8 +39,7 @@
         <array>
           <string>hstem 0 40</string>
           <string>hstem 303 40</string>
-          <string>hstem 565 -20</string>
-          <string>vstem 308.4 40</string>
+          <string>vstem 233 40</string>
         </array>
       </dict>
     </array>

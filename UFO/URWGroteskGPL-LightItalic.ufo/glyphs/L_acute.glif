@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Lacute" format="2">
-  <advance width="442"/>
+  <advance width="443"/>
   <unicode hex="0139"/>
   <outline>
     <contour>
-      <point x="314.775" y="667" type="line"/>
-      <point x="234.775" y="667" type="line"/>
-      <point x="93" y="0" type="line"/>
-      <point x="441" y="0" type="line"/>
-      <point x="454.391" y="63" type="line"/>
-      <point x="186.391" y="63" type="line"/>
+      <point x="47" y="0" type="line"/>
+      <point x="396" y="0" type="line"/>
+      <point x="410" y="63" type="line"/>
+      <point x="140" y="63" type="line"/>
+      <point x="269" y="667" type="line"/>
+      <point x="189" y="667" type="line"/>
     </contour>
     <contour>
-      <point x="413.05" y="880" type="line"/>
-      <point x="241.616" y="718" type="line"/>
-      <point x="275.34" y="712" type="line"/>
-      <point x="488.649" y="864" type="line"/>
+      <point x="200" y="736" type="line"/>
+      <point x="229" y="726" type="line"/>
+      <point x="442" y="832" type="line"/>
+      <point x="368" y="860" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -25,15 +25,14 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w442m314.78,667l234.78,667l93,0l441,0l454.39,63l186.39,63m413.05,880l241.62,718l275.34,712l488.65,864</string>
+    <string>w443m47,0l396,0l410,63l140,63l269,667l189,667m200,736l229,726l442,832l368,860</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
           <string>hstem 0 63</string>
-          <string>hstem 667 -20</string>
-          <string>vstem 234.78 80</string>
+          <string>hstem 647 20</string>
         </array>
       </dict>
     </array>

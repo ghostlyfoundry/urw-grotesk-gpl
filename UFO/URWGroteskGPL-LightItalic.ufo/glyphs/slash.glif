@@ -1,13 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="slash" format="2">
-  <advance width="395"/>
+  <advance width="411"/>
   <unicode hex="002F"/>
   <outline>
     <contour>
-      <point x="522.002" y="701" type="line"/>
-      <point x="484.915" y="710" type="line"/>
-      <point x="-83.4001" y="-223" type="line"/>
-      <point x="-45.888" y="-230" type="line"/>
+      <point x="-123" y="-220" type="line"/>
+      <point x="-73" y="-227" type="line"/>
+      <point x="489" y="700" type="line"/>
+      <point x="440" y="707" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w411m-123,-220l-73,-227l489,700l440,707</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -227 20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="k" format="2">
-  <advance width="431"/>
+  <advance width="423"/>
   <unicode hex="006B"/>
   <outline>
     <contour>
-      <point x="298.79" y="700" type="line"/>
-      <point x="225.79" y="700" type="line"/>
-      <point x="77" y="0" type="line"/>
-      <point x="150" y="0" type="line"/>
-      <point x="197.4" y="223" type="line"/>
-      <point x="337" y="0" type="line"/>
-      <point x="434" y="0" type="line"/>
-      <point x="277.651" y="243" type="line"/>
-      <point x="479.525" y="440" type="line"/>
-      <point x="393.525" y="440" type="line"/>
-      <point x="203.564" y="252" type="line"/>
+      <point x="30" y="0" type="line"/>
+      <point x="103" y="0" type="line"/>
+      <point x="152" y="230" type="line"/>
+      <point x="294" y="0" type="line"/>
+      <point x="379" y="0" type="line"/>
+      <point x="233" y="238" type="line"/>
+      <point x="446" y="440" type="line"/>
+      <point x="353" y="440" type="line"/>
+      <point x="155" y="243" type="line"/>
+      <point x="252" y="700" type="line"/>
+      <point x="179" y="700" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -24,15 +24,14 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w431m298.79,700l225.79,700l77,0l150,0l197.4,223l337,0l434,0l277.65,243l479.52,440l393.52,440l203.56,252</string>
+    <string>w423m30,0l103,0l152,230l294,0l379,0l233,238l446,440l353,440l155,243l252,700l179,700</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 21 -21</string>
-          <string>hstem 700 -20</string>
-          <string>vstem 225.79 73.</string>
+          <string>hstem 0 20</string>
+          <string>hstem 420 20</string>
         </array>
       </dict>
     </array>

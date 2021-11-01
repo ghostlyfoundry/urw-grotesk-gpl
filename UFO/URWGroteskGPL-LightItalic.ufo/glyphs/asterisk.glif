@@ -4,41 +4,21 @@
   <unicode hex="002A"/>
   <outline>
     <contour>
-      <point x="303.752" y="474" type="line"/>
-      <point x="381.433" y="369" type="line"/>
-      <point x="398.197" y="382" type="line"/>
-      <point x="346.129" y="504" type="line"/>
-      <point x="492.669" y="563" type="line"/>
-      <point x="490.92" y="583" type="line"/>
-      <point x="343.481" y="548" type="line"/>
-      <point x="361.79" y="700" type="line"/>
-      <point x="341.79" y="700" type="line"/>
-      <point x="295.481" y="548" type="line"/>
-      <point x="162.92" y="583" type="line"/>
-      <point x="152.669" y="563" type="line"/>
-      <point x="274.129" y="504" type="line"/>
-      <point x="168.197" y="382" type="line"/>
-      <point x="181.433" y="369" type="line"/>
+      <point x="250" y="474" type="line"/>
+      <point x="328" y="369" type="line"/>
+      <point x="344" y="382" type="line"/>
+      <point x="292" y="504" type="line"/>
+      <point x="439" y="563" type="line"/>
+      <point x="437" y="583" type="line"/>
+      <point x="289" y="548" type="line"/>
+      <point x="308" y="700" type="line"/>
+      <point x="288" y="700" type="line"/>
+      <point x="242" y="548" type="line"/>
+      <point x="110" y="583" type="line"/>
+      <point x="99" y="563" type="line"/>
+      <point x="220" y="504" type="line"/>
+      <point x="114" y="382" type="line"/>
+      <point x="128" y="369" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>f13cf5649ca507ea899ecb23ff3e741bebe4712ecab42bfe9a222e8e40e9831309b50259f5c6b0b68a1036f5f9b2c06222cdf89ee4984501311a16a88b5e2275</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 700 -20</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
 </glyph>

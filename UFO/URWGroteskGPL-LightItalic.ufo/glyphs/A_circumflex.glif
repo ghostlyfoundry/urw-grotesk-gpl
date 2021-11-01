@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Acircumflex" format="2">
-  <advance width="599"/>
+  <advance width="604"/>
   <unicode hex="00C2"/>
   <outline>
     <contour>
-      <point x="478.775" y="667" type="line"/>
-      <point x="404.775" y="667" type="line"/>
-      <point x="-3" y="0" type="line"/>
-      <point x="83" y="0" type="line"/>
-      <point x="208.912" y="216" type="line"/>
-      <point x="479.912" y="216" type="line"/>
-      <point x="517" y="0" type="line"/>
-      <point x="603" y="0" type="line"/>
+      <point x="-50" y="0" type="line"/>
+      <point x="41" y="0" type="line"/>
+      <point x="165" y="214" type="line"/>
+      <point x="438" y="214" type="line"/>
+      <point x="475" y="0" type="line"/>
+      <point x="560" y="0" type="line"/>
+      <point x="439" y="667" type="line"/>
+      <point x="356" y="667" type="line"/>
     </contour>
     <contour>
-      <point x="467.728" y="281" type="line"/>
-      <point x="248.728" y="281" type="line"/>
-      <point x="417.945" y="569" type="line"/>
+      <point x="202" y="277" type="line"/>
+      <point x="377" y="575" type="line"/>
+      <point x="429" y="277" type="line"/>
     </contour>
     <contour>
-      <point x="514.625" y="878" type="line"/>
-      <point x="458.625" y="878" type="line"/>
-      <point x="292.828" y="719" type="line"/>
-      <point x="323.553" y="713" type="line"/>
-      <point x="476.209" y="829" type="line"/>
-      <point x="581.553" y="713" type="line"/>
-      <point x="612.828" y="719" type="line"/>
+      <point x="243" y="731" type="line"/>
+      <point x="271" y="722" type="line"/>
+      <point x="426" y="820" type="line"/>
+      <point x="534" y="722" type="line"/>
+      <point x="562" y="731" type="line"/>
+      <point x="465" y="862" type="line"/>
+      <point x="410" y="862" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -35,16 +35,15 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>ded24fdfb580ea3dcc13f56a517b6af9fe9c468c85ae05eb57368c7f8e513be903a50e09f6d29297e736edeac4de08bbd5c254179169cc4a28e6e2705cb8693c</string>
+    <string>1d9ba6b48a28affc07becd7121816a4108931c172af29ad68dd7579cdd53ef90c017b23e39af7e6f83a084546465b6c792e8b434ee166baa4edb911ff6e679cf</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 21 -21</string>
-          <string>hstem 216 65</string>
-          <string>hstem 667 -20</string>
-          <string>hstem 878 -20</string>
+          <string>hstem 0 20</string>
+          <string>hstem 214 63</string>
+          <string>hstem 647 20</string>
         </array>
       </dict>
     </array>

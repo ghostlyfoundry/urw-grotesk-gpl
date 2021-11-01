@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="trademark" format="2">
-  <advance width="851"/>
+  <advance width="820"/>
   <unicode hex="2122"/>
   <outline>
     <contour>
-      <point x="311.423" y="623" type="line"/>
-      <point x="433.423" y="623" type="line"/>
-      <point x="442.775" y="667" type="line"/>
-      <point x="144.775" y="667" type="line"/>
-      <point x="135.423" y="623" type="line"/>
-      <point x="255.423" y="623" type="line"/>
-      <point x="179.753" y="267" type="line"/>
-      <point x="235.753" y="267" type="line"/>
+      <point x="124" y="267" type="line"/>
+      <point x="180" y="267" type="line"/>
+      <point x="256" y="623" type="line"/>
+      <point x="374" y="623" type="line"/>
+      <point x="384" y="667" type="line"/>
+      <point x="85" y="667" type="line"/>
+      <point x="76" y="623" type="line"/>
+      <point x="200" y="623" type="line"/>
     </contour>
     <contour>
-      <point x="908.775" y="667" type="line"/>
-      <point x="853.775" y="667" type="line"/>
-      <point x="630.119" y="344" type="line"/>
-      <point x="542.775" y="667" type="line"/>
-      <point x="487.775" y="667" type="line"/>
-      <point x="402.753" y="267" type="line"/>
-      <point x="456.753" y="267" type="line"/>
-      <point x="516.694" y="549" type="line"/>
-      <point x="593.753" y="267" type="line"/>
-      <point x="632.753" y="267" type="line"/>
-      <point x="829.694" y="549" type="line"/>
-      <point x="769.753" y="267" type="line"/>
-      <point x="823.753" y="267" type="line"/>
+      <point x="350" y="267" type="line"/>
+      <point x="405" y="267" type="line"/>
+      <point x="466" y="555" type="line"/>
+      <point x="542" y="267" type="line"/>
+      <point x="583" y="267" type="line"/>
+      <point x="783" y="555" type="line"/>
+      <point x="722" y="267" type="line"/>
+      <point x="775" y="267" type="line"/>
+      <point x="860" y="667" type="line"/>
+      <point x="804" y="667" type="line"/>
+      <point x="578" y="343" type="line"/>
+      <point x="488" y="667" type="line"/>
+      <point x="435" y="667" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -36,17 +36,13 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>afccf7a19e522f613cc3fddf0b697b84397935b5b9854b50941ce8357055022e557371df671de79a935370ff42fb04d595ae3e9d7da70d63dd583f5a6f4a46d5</string>
+    <string>5ebe2b4e0a40975c51f438b60bf982eede460589efc1c71f37972120b517604df0988268becfe7ac861849439699a113db74e25c89b86c68633f0deee5fde15a</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 288 -21</string>
           <string>hstem 623 44</string>
-          <string>vstem 255.42 56.</string>
-          <string>vstem 487.78 28.92</string>
-          <string>vstem 829.69 79.08</string>
         </array>
       </dict>
     </array>

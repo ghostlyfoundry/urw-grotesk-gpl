@@ -87,11 +87,11 @@
       </dict>
     </dict>
   </dict>
+  <key>com.typemytype.robofont.italicSlantOffset</key>
+  <real>-47</real>
   <key>public.glyphOrder</key>
   <array>
     <string>.notdef</string>
-    <string>NULL</string>
-    <string>CR</string>
     <string>space</string>
     <string>exclam</string>
     <string>quotedbl</string>

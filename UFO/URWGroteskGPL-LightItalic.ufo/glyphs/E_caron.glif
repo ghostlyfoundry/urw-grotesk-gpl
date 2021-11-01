@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ecaron" format="2">
-  <advance width="489"/>
+  <advance width="492"/>
   <unicode hex="011A"/>
   <outline>
     <contour>
-      <point x="252.071" y="372" type="line"/>
-      <point x="301.384" y="604" type="line"/>
-      <point x="547.384" y="604" type="line"/>
-      <point x="560.775" y="667" type="line"/>
-      <point x="234.775" y="667" type="line"/>
-      <point x="93" y="0" type="line"/>
-      <point x="455" y="0" type="line"/>
-      <point x="468.391" y="63" type="line"/>
-      <point x="186.391" y="63" type="line"/>
-      <point x="238.68" y="309" type="line"/>
-      <point x="484.68" y="309" type="line"/>
-      <point x="498.071" y="372" type="line"/>
+      <point x="47" y="0" type="line"/>
+      <point x="412" y="0" type="line"/>
+      <point x="426" y="63" type="line"/>
+      <point x="140" y="63" type="line"/>
+      <point x="193" y="310" type="line"/>
+      <point x="442" y="310" type="line"/>
+      <point x="456" y="373" type="line"/>
+      <point x="206" y="373" type="line"/>
+      <point x="255" y="604" type="line"/>
+      <point x="505" y="604" type="line"/>
+      <point x="518" y="667" type="line"/>
+      <point x="189" y="667" type="line"/>
     </contour>
     <contour>
-      <point x="433.553" y="713" type="line"/>
-      <point x="599.349" y="872" type="line"/>
-      <point x="570.625" y="878" type="line"/>
-      <point x="415.968" y="762" type="line"/>
-      <point x="312.625" y="878" type="line"/>
-      <point x="279.349" y="872" type="line"/>
-      <point x="377.553" y="713" type="line"/>
+      <point x="553" y="854" type="line"/>
+      <point x="524" y="863" type="line"/>
+      <point x="369" y="765" type="line"/>
+      <point x="261" y="863" type="line"/>
+      <point x="234" y="854" type="line"/>
+      <point x="330" y="723" type="line"/>
+      <point x="386" y="723" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -34,39 +34,16 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>6ce0a84ca5b7070985bd0acdbb72d7b3b8669c9bca4aa49572ea42baadec75c6db99b3deb15f25b7c0f3ff5fd008c8e7a1019418b4a4e7b1e280b6cfd26be10b</string>
+    <string>4b6d192818fa40207266c770ad8fcbbc7fcf238914e2095ce1f1dc4de761b6355ba60cee1aeb760b646883d59e65b2715e8a9021cf1b05aff802d024774576a3</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 372 232</string>
-          <string>vstem 234.78 66.61</string>
           <string>hstem 0 63</string>
-          <string>hstem 667 46</string>
-        </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
+          <string>hstem 310 63</string>
           <string>hstem 604 63</string>
-          <string>vstem 234.78 66.61</string>
-          <string>hstem 0 63</string>
-          <string>hstem 309 63</string>
         </array>
-        <key>pointTag</key>
-        <string>._.2481005722544</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 667 46</string>
-          <string>hstem 0 63</string>
-          <string>hstem 309 63</string>
-          <string>vstem 234.78 66.61</string>
-        </array>
-        <key>pointTag</key>
-        <string>._.2481005722784</string>
       </dict>
     </array>
   </dict>

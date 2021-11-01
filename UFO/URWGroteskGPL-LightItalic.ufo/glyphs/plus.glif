@@ -4,18 +4,18 @@
   <unicode hex="002B"/>
   <outline>
     <contour>
-      <point x="92.5831" y="365" type="line"/>
-      <point x="83.2307" y="321" type="line"/>
-      <point x="303.231" y="321" type="line"/>
-      <point x="256.043" y="99" type="line"/>
-      <point x="304.043" y="99" type="line"/>
-      <point x="351.231" y="321" type="line"/>
-      <point x="574.231" y="321" type="line"/>
-      <point x="583.583" y="365" type="line"/>
-      <point x="360.583" y="365" type="line"/>
-      <point x="408.621" y="591" type="line"/>
-      <point x="360.621" y="591" type="line"/>
-      <point x="312.583" y="365" type="line"/>
+      <point x="24" y="365" type="line"/>
+      <point x="15" y="321" type="line"/>
+      <point x="235" y="321" type="line"/>
+      <point x="187" y="99" type="line"/>
+      <point x="235" y="99" type="line"/>
+      <point x="283" y="321" type="line"/>
+      <point x="506" y="321" type="line"/>
+      <point x="515" y="365" type="line"/>
+      <point x="292" y="365" type="line"/>
+      <point x="340" y="591" type="line"/>
+      <point x="292" y="591" type="line"/>
+      <point x="244" y="365" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -25,16 +25,13 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>8fea7fade15d05cc2a89436e8bfa0f6e65f501b87bcdf394aca128f907eeb7259b1d119ce3d77ee5914a3e5b2c064ca39880df200a52475812e8534fa955635b</string>
+    <string>w520m24,365l15,321l235,321l187,99l235,99l283,321l506,321l515,365l292,365l340,591l292,591l244,365</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 120 -21</string>
-          <string>hstem 321 44</string>
-          <string>hstem 591 -20</string>
-          <string>vstem 303.23 48</string>
+          <string>hstem 196 44</string>
         </array>
       </dict>
     </array>

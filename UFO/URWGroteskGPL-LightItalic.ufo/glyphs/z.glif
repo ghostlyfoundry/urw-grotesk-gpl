@@ -4,16 +4,16 @@
   <unicode hex="007A"/>
   <outline>
     <contour>
-      <point x="141.525" y="440" type="line"/>
-      <point x="128.134" y="377" type="line"/>
-      <point x="379.134" y="377" type="line"/>
-      <point x="32.3911" y="63" type="line"/>
-      <point x="19" y="0" type="line"/>
-      <point x="394" y="0" type="line"/>
-      <point x="407.391" y="63" type="line"/>
-      <point x="121.391" y="63" type="line"/>
-      <point x="467.134" y="377" type="line"/>
-      <point x="480.525" y="440" type="line"/>
+      <point x="-28" y="0" type="line"/>
+      <point x="347" y="0" type="line"/>
+      <point x="359" y="59" type="line"/>
+      <point x="83" y="59" type="line"/>
+      <point x="419" y="380" type="line"/>
+      <point x="432" y="440" type="line"/>
+      <point x="93" y="440" type="line"/>
+      <point x="80" y="380" type="line"/>
+      <point x="326" y="380" type="line"/>
+      <point x="-16" y="59" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -23,14 +23,14 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w412m141.52,440l128.13,377l379.13,377l32.39,63l19,0l394,0l407.39,63l121.39,63l467.13,377l480.52,440</string>
+    <string>w412m-28,0l347,0l359,59l83,59l419,380l432,440l93,440l80,380l326,380l-16,59</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 0 63</string>
-          <string>hstem 377 63</string>
+          <string>hstem 0 59</string>
+          <string>hstem 380 60</string>
         </array>
       </dict>
     </array>

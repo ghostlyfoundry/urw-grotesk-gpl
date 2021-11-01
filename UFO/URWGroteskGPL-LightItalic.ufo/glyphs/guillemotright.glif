@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="guillemotright" format="2">
-  <advance width="398"/>
+  <advance width="375"/>
   <unicode hex="00BB"/>
   <outline>
     <contour>
-      <point x="143.525" y="440" type="line"/>
-      <point x="163.337" y="218" type="line"/>
-      <point x="55" y="0" type="line"/>
-      <point x="86" y="0" type="line"/>
-      <point x="248.337" y="218" type="line"/>
-      <point x="179.525" y="440" type="line"/>
+      <point x="263" y="413" type="line"/>
+      <point x="232" y="413" type="line"/>
+      <point x="248" y="205" type="line"/>
+      <point x="145" y="0" type="line"/>
+      <point x="175" y="0" type="line"/>
+      <point x="329" y="205" type="line"/>
     </contour>
     <contour>
-      <point x="296.525" y="440" type="line"/>
-      <point x="316.337" y="218" type="line"/>
-      <point x="208" y="0" type="line"/>
-      <point x="239" y="0" type="line"/>
-      <point x="401.337" y="218" type="line"/>
-      <point x="332.525" y="440" type="line"/>
+      <point x="122" y="413" type="line"/>
+      <point x="92" y="413" type="line"/>
+      <point x="107" y="205" type="line"/>
+      <point x="4" y="0" type="line"/>
+      <point x="35" y="0" type="line"/>
+      <point x="189" y="205" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -27,14 +27,13 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w398m143.52,440l163.34,218l55,0l86,0l248.34,218l179.52,440m296.52,440l316.34,218l208,0l239,0l401.34,218l332.52,440</string>
+    <string>w375m263,413l232,413l248,205l145,0l175,0l329,205m122,413l92,413l107,205l4,0l35,0l189,205</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 21 -21</string>
-          <string>hstem 440 -20</string>
+          <string>hstem 0 20</string>
         </array>
       </dict>
     </array>

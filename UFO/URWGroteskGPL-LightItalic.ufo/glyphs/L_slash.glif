@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Lslash" format="2">
-  <advance width="442"/>
+  <advance width="443"/>
   <unicode hex="0141"/>
   <outline>
     <contour>
-      <point x="166.119" y="344" type="line"/>
-      <point x="66.8782" y="277" type="line"/>
-      <point x="83.6755" y="229" type="line"/>
-      <point x="151.453" y="275" type="line"/>
-      <point x="93" y="0" type="line"/>
-      <point x="442" y="0" type="line"/>
-      <point x="455.391" y="63" type="line"/>
-      <point x="186.391" y="63" type="line"/>
-      <point x="240.806" y="319" type="line"/>
-      <point x="421.887" y="437" type="line"/>
-      <point x="400.665" y="483" type="line"/>
-      <point x="255.685" y="389" type="line"/>
-      <point x="314.775" y="667" type="line"/>
-      <point x="234.775" y="667" type="line"/>
+      <point x="47" y="0" type="line"/>
+      <point x="396" y="0" type="line"/>
+      <point x="409" y="63" type="line"/>
+      <point x="141" y="63" type="line"/>
+      <point x="196" y="324" type="line"/>
+      <point x="373" y="399" type="line"/>
+      <point x="355" y="451" type="line"/>
+      <point x="209" y="387" type="line"/>
+      <point x="269" y="667" type="line"/>
+      <point x="189" y="667" type="line"/>
+      <point x="123" y="356" type="line"/>
+      <point x="8" y="305" type="line"/>
+      <point x="26" y="254" type="line"/>
+      <point x="109" y="293" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -27,15 +27,14 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>3c87e6bbf117ca0b1f145ace06f417673a078ce2a42e1bbffe9ee4910983b7a965bf809ae956e9bb4f9bee09559ba8550e7765525beebd861e65b95fe48da3e0</string>
+    <string>w443m47,0l396,0l409,63l141,63l196,324l373,399l355,451l209,387l269,667l189,667l123,356l8,305l26,254l109,293</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
           <string>hstem 0 63</string>
-          <string>hstem 667 -20</string>
-          <string>vstem 166.12 74.69</string>
+          <string>hstem 647 20</string>
         </array>
       </dict>
     </array>

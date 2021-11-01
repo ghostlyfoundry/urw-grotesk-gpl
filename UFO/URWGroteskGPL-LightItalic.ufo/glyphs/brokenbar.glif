@@ -4,16 +4,16 @@
   <unicode hex="00A6"/>
   <outline>
     <contour>
-      <point x="376.775" y="667" type="line"/>
-      <point x="305.994" y="334" type="line"/>
-      <point x="378.994" y="334" type="line"/>
-      <point x="449.775" y="667" type="line"/>
+      <point x="259" y="667" type="line"/>
+      <point x="259" y="334" type="line"/>
+      <point x="332" y="334" type="line"/>
+      <point x="332" y="667" type="line"/>
     </contour>
     <contour>
-      <point x="267.521" y="153" type="line"/>
-      <point x="199.503" y="-167" type="line"/>
-      <point x="272.503" y="-167" type="line"/>
-      <point x="340.521" y="153" type="line"/>
+      <point x="259" y="153" type="line"/>
+      <point x="259" y="-167" type="line"/>
+      <point x="332" y="-167" type="line"/>
+      <point x="332" y="153" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -23,15 +23,14 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w543m376.78,667l305.99,334l378.99,334l449.78,667m267.52,153l199.5,-167l272.5,-167l340.52,153</string>
+    <string>w543m259,667l259,334l332,334l332,667m259,153l259,-167l332,-167l332,153</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -146 -21</string>
-          <string>hstem 667 -20</string>
-          <string>vstem 376.78 73</string>
+          <string>hstem 647 20</string>
+          <string>vstem 259 73</string>
         </array>
       </dict>
     </array>

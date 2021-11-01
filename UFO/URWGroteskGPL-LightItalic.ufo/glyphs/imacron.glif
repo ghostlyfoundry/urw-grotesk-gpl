@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="imacron" format="2">
-  <advance width="227"/>
+  <advance width="223"/>
   <unicode hex="012B"/>
   <outline>
     <contour>
-      <point x="242.525" y="440" type="line"/>
-      <point x="169.525" y="440" type="line"/>
-      <point x="76" y="0" type="line"/>
-      <point x="149" y="0" type="line"/>
+      <point x="26" y="0" type="line"/>
+      <point x="99" y="0" type="line"/>
+      <point x="193" y="440" type="line"/>
+      <point x="120" y="440" type="line"/>
     </contour>
     <contour>
-      <point x="142.186" y="636" type="line"/>
-      <point x="132.196" y="589" type="line"/>
-      <point x="344.196" y="589" type="line"/>
-      <point x="354.186" y="636" type="line"/>
+      <point x="89" y="630" type="line"/>
+      <point x="79" y="585" type="line"/>
+      <point x="298" y="585" type="line"/>
+      <point x="307" y="630" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -23,15 +23,15 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w227m242.52,440l169.52,440l76,0l149,0m142.19,636l132.2,589l344.2,589l354.19,636</string>
+    <string>w223m26,0l99,0l193,440l120,440m89,630l79,585l298,585l307,630</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 21 -21</string>
-          <string>hstem 589 47</string>
-          <string>vstem 169.52 73</string>
+          <string>hstem 0 20</string>
+          <string>hstem 420 20</string>
+          <string>hstem 585 45</string>
         </array>
       </dict>
     </array>

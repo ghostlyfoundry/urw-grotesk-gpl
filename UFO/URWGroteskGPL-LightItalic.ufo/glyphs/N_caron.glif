@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ncaron" format="2">
-  <advance width="731"/>
+  <advance width="736"/>
   <unicode hex="0147"/>
   <outline>
     <contour>
-      <point x="778.775" y="667" type="line"/>
-      <point x="701.775" y="667" type="line"/>
-      <point x="586.57" y="125" type="line"/>
-      <point x="311.775" y="667" type="line"/>
-      <point x="234.775" y="667" type="line"/>
-      <point x="93" y="0" type="line"/>
-      <point x="170" y="0" type="line"/>
-      <point x="285.206" y="542" type="line"/>
-      <point x="560" y="0" type="line"/>
-      <point x="637" y="0" type="line"/>
+      <point x="47" y="0" type="line"/>
+      <point x="124" y="0" type="line"/>
+      <point x="240" y="546" type="line"/>
+      <point x="520" y="0" type="line"/>
+      <point x="596" y="0" type="line"/>
+      <point x="738" y="667" type="line"/>
+      <point x="662" y="667" type="line"/>
+      <point x="546" y="121" type="line"/>
+      <point x="266" y="667" type="line"/>
+      <point x="189" y="667" type="line"/>
     </contour>
     <contour>
-      <point x="544.553" y="713" type="line"/>
-      <point x="710.349" y="872" type="line"/>
-      <point x="681.625" y="878" type="line"/>
-      <point x="526.968" y="762" type="line"/>
-      <point x="423.625" y="878" type="line"/>
-      <point x="390.349" y="872" type="line"/>
-      <point x="488.553" y="713" type="line"/>
+      <point x="672" y="854" type="line"/>
+      <point x="643" y="863" type="line"/>
+      <point x="488" y="765" type="line"/>
+      <point x="380" y="863" type="line"/>
+      <point x="353" y="854" type="line"/>
+      <point x="449" y="723" type="line"/>
+      <point x="505" y="723" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -32,16 +32,14 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>0bee3a185d8bdb2bc284fced40b3b5478947a1f536412e714b03b1b726882707fa1aac84ed6f4d4b92164815097b3d250eaed89954597fdda9f15fdf223d8241</string>
+    <string>9c04d320cd3147e7a97fd14e4022265287f1fa29873e865852e5ea3dcaa3a2b886998f09ff136d7e112491bfb065305b9d71721c35b0ae67f47bc7bd32d7f694</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 21 -21</string>
-          <string>hstem 667 -20</string>
-          <string>vstem 234.78 77</string>
-          <string>vstem 701.78 77</string>
+          <string>hstem 0 20</string>
+          <string>hstem 647 20</string>
         </array>
       </dict>
     </array>

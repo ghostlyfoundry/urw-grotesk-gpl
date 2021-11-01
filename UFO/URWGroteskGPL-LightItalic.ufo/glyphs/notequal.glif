@@ -4,26 +4,26 @@
   <unicode hex="2260"/>
   <outline>
     <contour>
-      <point x="110.824" y="432" type="line"/>
-      <point x="101.472" y="388" type="line"/>
-      <point x="364.472" y="388" type="line"/>
-      <point x="276.554" y="299" type="line"/>
-      <point x="82.5544" y="299" type="line"/>
-      <point x="73.2019" y="255" type="line"/>
-      <point x="230.202" y="255" type="line"/>
-      <point x="124.096" y="151" type="line"/>
-      <point x="152.357" y="124" type="line"/>
-      <point x="284.202" y="255" type="line"/>
-      <point x="575.202" y="255" type="line"/>
-      <point x="584.554" y="299" type="line"/>
-      <point x="328.554" y="299" type="line"/>
-      <point x="417.472" y="388" type="line"/>
-      <point x="603.472" y="388" type="line"/>
-      <point x="612.824" y="432" type="line"/>
-      <point x="462.824" y="432" type="line"/>
-      <point x="569.143" y="537" type="line"/>
-      <point x="543.307" y="566" type="line"/>
-      <point x="406.824" y="432" type="line"/>
+      <point x="61.146" y="432" type="line"/>
+      <point x="54.9622" y="388" type="line"/>
+      <point x="317.962" y="388" type="line"/>
+      <point x="236.454" y="299" type="line"/>
+      <point x="42.4541" y="299" type="line"/>
+      <point x="36.2703" y="255" type="line"/>
+      <point x="193.27" y="255" type="line"/>
+      <point x="94.6541" y="151" type="line"/>
+      <point x="124.859" y="124" type="line"/>
+      <point x="247.27" y="255" type="line"/>
+      <point x="538.27" y="255" type="line"/>
+      <point x="544.454" y="299" type="line"/>
+      <point x="288.454" y="299" type="line"/>
+      <point x="370.962" y="388" type="line"/>
+      <point x="556.962" y="388" type="line"/>
+      <point x="563.146" y="432" type="line"/>
+      <point x="413.146" y="432" type="line"/>
+      <point x="511.903" y="537" type="line"/>
+      <point x="483.979" y="566" type="line"/>
+      <point x="357.146" y="432" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -33,14 +33,16 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>2a53cd9a7987d035552223882c09e79511c323a61368b1dfa298394ce30e0a415aec3b5775a0ec822b1d9992ea98092fa8ae812e607c17acc449ed19489f4e2d</string>
+    <string>60f8894d04606f77ea6664a7a52c133160dfca9b781009de149627c36f4babbb3fdb17c198b1856ff6e09757691305ce2df02d93770be2f1e4b6b18bf5ea0069</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 255 44</string>
-          <string>hstem 388 44</string>
+          <string>hstem -1 20</string>
+          <string>hstem 130 44</string>
+          <string>hstem 263 44</string>
+          <string>hstem 421 20</string>
         </array>
       </dict>
     </array>
