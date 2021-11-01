@@ -1,26 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="icircumflex" format="2">
-  <advance width="276"/>
+  <advance width="269"/>
   <unicode hex="00EE"/>
   <outline>
     <contour>
-      <point x="-25.5761" y="527.04" type="line"/>
-      <point x="-22.6284" y="527.04" type="line"/>
-      <point x="35.6789" y="512.647" type="line"/>
-      <point x="40.5798" y="512.647" type="line"/>
-      <point x="139.338" y="614.712" type="line"/>
-      <point x="239.056" y="514.433" type="line"/>
-      <point x="244.088" y="514.433" type="line"/>
-      <point x="299.911" y="530.388" type="line"/>
-      <point x="302.665" y="530.388" type="line"/>
-      <point x="181.34" y="700" type="line"/>
-      <point x="96.9414" y="700" type="line"/>
+      <point x="209" y="457" type="line"/>
+      <point x="60" y="457" type="line"/>
+      <point x="60" y="0" type="line"/>
+      <point x="209" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="68.873" y="0" type="line"/>
-      <point x="208.463" y="0" type="line"/>
-      <point x="208.463" y="454.302" type="line"/>
-      <point x="68.873" y="454.302" type="line"/>
+      <point x="172" y="700" type="line"/>
+      <point x="95" y="700" type="line"/>
+      <point x="-36" y="535" type="line"/>
+      <point x="11" y="522" type="line"/>
+      <point x="134" y="628" type="line"/>
+      <point x="259" y="526" type="line"/>
+      <point x="304" y="540" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -30,15 +26,15 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>f5639dcc9b1a18d7e5a151d7606381bceb89786c645ccf6050756e21b6311b9ef631435d84072e1c8b611cf3a159d0d881dfacbe6c560cbca859d4828ab0e105</string>
+    <string>w269m209,457l60,457l60,0l209,0m172,700l95,700l-36,535l11,522l134,628l259,526l304,540</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 527.04 -21</string>
-          <string>hstem 618.43 -20</string>
-          <string>vstem 101.11 76.07</string>
+          <string>hstem 0 20</string>
+          <string>hstem 437 20</string>
+          <string>vstem 60 149</string>
         </array>
       </dict>
     </array>

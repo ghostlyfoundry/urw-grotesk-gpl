@@ -1,22 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="onesuperior" format="2">
-  <advance width="380"/>
+  <advance width="372"/>
   <unicode hex="00B9"/>
   <outline>
     <contour>
-      <point x="172.686" y="260.323" type="line"/>
-      <point x="279.613" y="260.323" type="line"/>
-      <point x="279.613" y="667.825" type="line"/>
-      <point x="197.346" y="667.825" type="line"/>
-      <point x="194.763" y="662.565" type="line" smooth="yes"/>
-      <point x="171.155" y="614.482"/>
-      <point x="135.918" y="608.565"/>
-      <point x="78.8267" y="604.422" type="curve" smooth="yes"/>
-      <point x="69.7576" y="603.763" type="line" name="hr01"/>
-      <point x="65.0489" y="603.763" type="line"/>
-      <point x="65.0489" y="539.592" type="line"/>
-      <point x="70.4005" y="539.592" type="line"/>
-      <point x="172.686" y="545.152" type="line"/>
+      <point x="270" y="667" type="line"/>
+      <point x="190" y="667" type="line"/>
+      <point x="171" y="621"/>
+      <point x="139" y="605"/>
+      <point x="57" y="601" type="curve"/>
+      <point x="57" y="534" type="line"/>
+      <point x="171" y="542" type="line"/>
+      <point x="171" y="267" type="line"/>
+      <point x="270" y="267" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -26,28 +22,15 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>0de1563a82afe5852a9de9510d0a5afe9db9a514841c9fd5b1c553025827316557d9542747178bf0732116b9c0a2d44614809b8104ea08ffb89b5e003d03b6f4</string>
+    <string>w372m270,667l190,667c171,621 139,605 57,601l57,534l171,542l171,267l270,267</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 557 45</string>
-          <string>hstem 539.59 -21</string>
-          <string>vstem 139.02 135.51</string>
-          <string>hstem 667.83 -20</string>
+          <string>hstem 647 20</string>
+          <string>vstem 171 99</string>
         </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 557 45</string>
-          <string>hstem 539.59 -21</string>
-          <string>vstem 70.13 204.41</string>
-          <string>hstem 667.83 -20</string>
-        </array>
-        <key>pointTag</key>
-        <string>hr01</string>
       </dict>
     </array>
   </dict>

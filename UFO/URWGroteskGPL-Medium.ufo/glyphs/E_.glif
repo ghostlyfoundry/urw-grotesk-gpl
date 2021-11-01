@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="E" format="2">
-  <advance width="541"/>
+  <advance width="563"/>
   <unicode hex="0045"/>
   <outline>
     <contour>
-      <point x="80.0489" y="0" type="line"/>
-      <point x="510.874" y="0" type="line"/>
-      <point x="510.874" y="109.155" type="line"/>
-      <point x="505.798" y="109.155" type="line"/>
-      <point x="223.374" y="109.155" type="line"/>
-      <point x="228.451" y="109.155" type="line"/>
-      <point x="228.451" y="285.673" type="line"/>
-      <point x="469.261" y="285.673" type="line"/>
-      <point x="474.337" y="285.673" type="line"/>
-      <point x="474.337" y="391.903" type="line"/>
-      <point x="469.261" y="391.903" type="line"/>
-      <point x="223.374" y="391.903" type="line"/>
-      <point x="228.451" y="391.903" type="line"/>
-      <point x="228.451" y="558.67" type="line"/>
-      <point x="223.374" y="558.67" type="line"/>
-      <point x="469.261" y="558.67" type="line"/>
-      <point x="474.337" y="558.67" type="line"/>
-      <point x="474.337" y="667.825" type="line"/>
-      <point x="80.0489" y="667.825" type="line"/>
+      <point x="237" y="396" type="line"/>
+      <point x="237" y="543" type="line"/>
+      <point x="489" y="543" type="line"/>
+      <point x="489" y="667" type="line"/>
+      <point x="77" y="667" type="line"/>
+      <point x="77" y="0" type="line"/>
+      <point x="527" y="0" type="line"/>
+      <point x="527" y="124" type="line"/>
+      <point x="237" y="124" type="line"/>
+      <point x="237" y="278" type="line"/>
+      <point x="489" y="278" type="line"/>
+      <point x="489" y="396" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -32,16 +25,16 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>f97ae8c01442fe6fb5eda90dfbec5e5f0c6c911106b0fa2b591aaf720524c642b340979ac44eaec5b2b0180e72d173fb563804d4cd396adca9ac9798f7391983</string>
+    <string>w563m237,396l237,543l489,543l489,667l77,667l77,0l527,0l527,124l237,124l237,278l489,278l489,396</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 0 109.15</string>
-          <string>hstem 285.67 106.23</string>
-          <string>hstem 558.67 109.16</string>
-          <string>vstem 85.13 138.25</string>
+          <string>hstem 0 124</string>
+          <string>hstem 278 118</string>
+          <string>hstem 543 124</string>
+          <string>vstem 77 160</string>
         </array>
       </dict>
     </array>

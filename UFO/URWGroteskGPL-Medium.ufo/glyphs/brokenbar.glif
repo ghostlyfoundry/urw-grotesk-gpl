@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="brokenbar" format="2">
-  <advance width="582"/>
+  <advance width="583"/>
   <unicode hex="00A6"/>
   <outline>
     <contour>
-      <point x="221.049" y="-162.824" type="line"/>
-      <point x="360.563" y="-162.824" type="line"/>
-      <point x="360.563" y="166.679" type="line"/>
-      <point x="221.049" y="166.679" type="line"/>
+      <point x="217" y="667" type="line"/>
+      <point x="217" y="314" type="line"/>
+      <point x="366" y="314" type="line"/>
+      <point x="366" y="667" type="line"/>
     </contour>
     <contour>
-      <point x="221.049" y="315.897" type="line"/>
-      <point x="360.563" y="315.897" type="line"/>
-      <point x="360.563" y="667.825" type="line"/>
-      <point x="221.049" y="667.825" type="line"/>
+      <point x="217" y="153" type="line"/>
+      <point x="217" y="-167" type="line"/>
+      <point x="366" y="-167" type="line"/>
+      <point x="366" y="153" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -23,15 +23,14 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w582m221.05,-162.82l360.56,-162.82l360.56,166.68l221.05,166.68m221.05,315.9l360.56,315.9l360.56,667.83l221.05,667.83</string>
+    <string>w583m217,667l217,314l366,314l366,667m217,153l217,-167l366,-167l366,153</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 166.68 -20</string>
-          <string>hstem 315.9 -21</string>
-          <string>vstem 226.13 129.36</string>
+          <string>hstem 647 20</string>
+          <string>vstem 217 149</string>
         </array>
       </dict>
     </array>

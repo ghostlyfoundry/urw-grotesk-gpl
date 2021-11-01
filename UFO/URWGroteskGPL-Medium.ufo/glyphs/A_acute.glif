@@ -1,33 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Aacute" format="2">
-  <advance width="640"/>
+  <advance width="641"/>
   <unicode hex="00C1"/>
   <outline>
     <contour>
-      <point x="264.128" y="708.792" type="line"/>
-      <point x="267.095" y="708.792" type="line"/>
-      <point x="331.783" y="697.437" type="line"/>
-      <point x="335.724" y="697.437" type="line"/>
-      <point x="547.962" y="858.058" type="line"/>
-      <point x="546.127" y="858.058" type="line"/>
-      <point x="424.111" y="888.48" type="line"/>
-      <point x="419.039" y="888.48" type="line"/>
+      <point x="413" y="667" type="line"/>
+      <point x="236" y="667" type="line"/>
+      <point x="-14" y="0" type="line"/>
+      <point x="140" y="0" type="line"/>
+      <point x="191" y="142" type="line"/>
+      <point x="426" y="142" type="line"/>
+      <point x="474" y="0" type="line"/>
+      <point x="641" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="-13.6088" y="0" type="line"/>
-      <point x="135.431" y="0" type="line"/>
-      <point x="199.618" y="174.523" type="line"/>
-      <point x="426.579" y="174.523" type="line"/>
-      <point x="490.767" y="0" type="line"/>
-      <point x="645.565" y="0" type="line"/>
-      <point x="395.087" y="667.825" type="line"/>
-      <point x="248.023" y="667.825" type="line"/>
+      <point x="394" y="254" type="line"/>
+      <point x="230" y="254" type="line"/>
+      <point x="316" y="491" type="line"/>
     </contour>
     <contour>
-      <point x="238.701" y="277.829" type="line"/>
-      <point x="315.83" y="484.303" type="line"/>
-      <point x="390.573" y="277.829" type="line"/>
-      <point x="395.346" y="277.829" type="line"/>
+      <point x="397" y="899" type="line"/>
+      <point x="248" y="723" type="line"/>
+      <point x="304" y="713" type="line"/>
+      <point x="516" y="863" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -37,15 +32,15 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>17e8391b2e389f7884f81f02c5ccc96b21fdb50b168ca7d06805c43a6b145ec8e3f99ef8058843798697dd47fafaf7825e47b5c7a26b2bb3c22290a3782fd1f1</string>
+    <string>w641m413,667l236,667l-14,0l140,0l191,142l426,142l474,0l641,0m394,254l230,254l316,491m397,899l248,723l304,713l516,863</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 0 667.83</string>
-          <string>hstem 708.79 -20</string>
-          <string>hstem 858.06 -21</string>
+          <string>hstem 0 20</string>
+          <string>hstem 142 112</string>
+          <string>hstem 647 20</string>
         </array>
       </dict>
     </array>

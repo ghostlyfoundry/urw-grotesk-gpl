@@ -1,48 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dagger" format="2">
-  <advance width="578"/>
+  <advance width="583"/>
   <unicode hex="2020"/>
   <outline>
     <contour>
-      <point x="223.695" y="-117.974" type="line"/>
-      <point x="352.822" y="-117.974" type="line"/>
-      <point x="340.014" y="337.292" type="line"/>
-      <point x="515.045" y="325.96" type="line"/>
-      <point x="520.449" y="325.96" type="line"/>
-      <point x="520.449" y="433.233" type="line"/>
-      <point x="515.182" y="433.233" type="line"/>
-      <point x="340.218" y="426.625" type="line"/>
-      <point x="353.025" y="677.575" type="line"/>
-      <point x="223.473" y="677.575" type="line"/>
-      <point x="236.28" y="426.625" type="line"/>
-      <point x="61.3166" y="433.233" type="line"/>
-      <point x="56.0489" y="433.233" type="line"/>
-      <point x="56.0489" y="325.956" type="line"/>
-      <point x="61.4548" y="325.956" type="line"/>
-      <point x="235.518" y="337.287" type="line"/>
+      <point x="354" y="687" type="line"/>
+      <point x="230" y="687" type="line"/>
+      <point x="242" y="443" type="line"/>
+      <point x="64" y="449" type="line"/>
+      <point x="64" y="337" type="line"/>
+      <point x="242" y="347" type="line"/>
+      <point x="232" y="-111" type="line"/>
+      <point x="352" y="-111" type="line"/>
+      <point x="342" y="347" type="line"/>
+      <point x="520" y="337" type="line"/>
+      <point x="520" y="449" type="line"/>
+      <point x="342" y="443" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>06d7e748bac8a9c2da7ee542893e843196c9da890ac7bf7f5f63b32418d059ea423726735a3127b48f6caf2974c5da60fd75031df070855f12f376ad1242df48</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -138.97 21</string>
-          <string>hstem 341 81.5</string>
-          <string>hstem 677.58 -20</string>
-          <string>vstem 241.92 97.65</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
 </glyph>

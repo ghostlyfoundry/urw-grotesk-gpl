@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="underscore" format="2">
-  <advance width="576"/>
+  <advance width="583"/>
   <unicode hex="005F"/>
   <outline>
     <contour>
-      <point x="-4.95106" y="-112.124" type="line"/>
-      <point x="580.911" y="-112.124" type="line"/>
-      <point x="580.911" y="-40.019" type="line"/>
-      <point x="-4.95106" y="-40.019" type="line"/>
+      <point x="0" y="-53" type="line"/>
+      <point x="0" y="-122" type="line"/>
+      <point x="583" y="-122" type="line"/>
+      <point x="583" y="-53" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -17,13 +17,13 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w576m-4.95,-112.12l580.91,-112.12l580.91,-40.02l-4.95,-40.02</string>
+    <string>w583m0,-53l0,-122l583,-122l583,-53</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -112.12 72.11</string>
+          <string>hstem -122 69</string>
         </array>
       </dict>
     </array>

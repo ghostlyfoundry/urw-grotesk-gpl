@@ -1,29 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Nacute" format="2">
-  <advance width="765"/>
+  <advance width="773"/>
   <unicode hex="0143"/>
   <outline>
     <contour>
-      <point x="308.704" y="708.792" type="line"/>
-      <point x="311.671" y="708.792" type="line" name="hr01"/>
-      <point x="376.358" y="697.437" type="line"/>
-      <point x="380.299" y="697.437" type="line"/>
-      <point x="592.538" y="858.058" type="line"/>
-      <point x="590.702" y="858.058" type="line"/>
-      <point x="468.687" y="888.48" type="line"/>
-      <point x="463.614" y="888.48" type="line"/>
+      <point x="696" y="667" type="line"/>
+      <point x="537" y="667" type="line"/>
+      <point x="537" y="248" type="line"/>
+      <point x="228" y="667" type="line"/>
+      <point x="76" y="667" type="line"/>
+      <point x="76" y="0" type="line"/>
+      <point x="235" y="0" type="line"/>
+      <point x="235" y="409" type="line"/>
+      <point x="537" y="0" type="line"/>
+      <point x="696" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="80.0489" y="0" type="line"/>
-      <point x="226.476" y="0" type="line"/>
-      <point x="226.476" y="430.972" type="line"/>
-      <point x="543.763" y="0" type="line"/>
-      <point x="684.674" y="0" type="line"/>
-      <point x="684.674" y="667.825" type="line"/>
-      <point x="538.247" y="667.825" type="line"/>
-      <point x="538.247" y="232.942" type="line"/>
-      <point x="217.996" y="667.825" type="line"/>
-      <point x="80.0489" y="667.825" type="line"/>
+      <point x="456" y="899" type="line"/>
+      <point x="307" y="723" type="line"/>
+      <point x="363" y="713" type="line"/>
+      <point x="575" y="863" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -33,26 +29,17 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>7faf8e8638797fa7dc0e663a0ace128ea1295c9511b069639660974bf4206a9804bbb4ab06f2554be88c692d3044dda081d251f6256de26b09d772c1f314f658</string>
+    <string>w773m696,667l537,667l537,248l228,667l76,667l76,0l235,0l235,409l537,0l696,0m456,899l307,723l363,713l575,863</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 667.83 -21</string>
-          <string>vstem 213.91 465.69</string>
-          <string>hstem 888.48 -20</string>
+          <string>hstem 0 20</string>
+          <string>hstem 647 20</string>
+          <string>vstem 76 159</string>
+          <string>vstem 537 159</string>
         </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 667.83 -21</string>
-          <string>vstem 312.55 154.91</string>
-          <string>hstem 888.48 -20</string>
-        </array>
-        <key>pointTag</key>
-        <string>hr01</string>
       </dict>
     </array>
   </dict>

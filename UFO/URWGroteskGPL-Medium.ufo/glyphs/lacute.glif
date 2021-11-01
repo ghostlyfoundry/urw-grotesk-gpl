@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lacute" format="2">
-  <advance width="278"/>
+  <advance width="269"/>
   <unicode hex="013A"/>
   <outline>
     <contour>
-      <point x="64.4829" y="726.091" type="line"/>
-      <point x="67.7223" y="726.091" type="line"/>
-      <point x="132.625" y="714.947" type="line"/>
-      <point x="136.785" y="714.947" type="line"/>
-      <point x="327.696" y="875.752" type="line"/>
-      <point x="325.685" y="875.752" type="line"/>
-      <point x="204.451" y="907.188" type="line"/>
-      <point x="199.063" y="907.188" type="line"/>
+      <point x="209" y="687" type="line"/>
+      <point x="60" y="687" type="line"/>
+      <point x="60" y="0" type="line"/>
+      <point x="209" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="66.0109" y="0" type="line"/>
-      <point x="205.601" y="0" type="line"/>
-      <point x="205.601" y="687.325" type="line"/>
-      <point x="66.0109" y="687.325" type="line"/>
+      <point x="206" y="919" type="line"/>
+      <point x="66" y="743" type="line"/>
+      <point x="123" y="733" type="line"/>
+      <point x="322" y="883" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -27,15 +23,14 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>3aaca5d4aab029a57da99733f4ca0ec9d3b71babf900bcde61f3ed3a2f36af11a5325c8b518f87d0b1c6ecef390db433efdeccf9892b518807472aed7598bc0a</string>
+    <string>w269m209,687l60,687l60,0l209,0m206,919l66,743l123,733l322,883</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 714.95 -21</string>
-          <string>hstem 907.19 -20</string>
-          <string>vstem 68.59 134.58</string>
+          <string>hstem 0 20</string>
+          <string>vstem 60 149</string>
         </array>
       </dict>
     </array>

@@ -1,32 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ncaron" format="2">
-  <advance width="765"/>
+  <advance width="773"/>
   <unicode hex="0147"/>
   <outline>
     <contour>
-      <point x="349.112" y="701.994" type="line"/>
-      <point x="431.375" y="701.994" type="line"/>
-      <point x="585.454" y="873.138" type="line"/>
-      <point x="583.076" y="873.138" type="line"/>
-      <point x="526.557" y="889.292" type="line"/>
-      <point x="522.009" y="889.292" type="line"/>
-      <point x="392.099" y="786.306" type="line" name="hr01"/>
-      <point x="260.37" y="888.296" type="line"/>
-      <point x="255.867" y="888.296" type="line"/>
-      <point x="199.476" y="872.179" type="line"/>
-      <point x="197.086" y="872.179" type="line"/>
+      <point x="696" y="667" type="line"/>
+      <point x="537" y="667" type="line"/>
+      <point x="537" y="248" type="line"/>
+      <point x="228" y="667" type="line"/>
+      <point x="76" y="667" type="line"/>
+      <point x="76" y="0" type="line"/>
+      <point x="235" y="0" type="line"/>
+      <point x="235" y="409" type="line"/>
+      <point x="537" y="0" type="line"/>
+      <point x="696" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="80.0489" y="0" type="line"/>
-      <point x="226.476" y="0" type="line"/>
-      <point x="226.476" y="430.972" type="line"/>
-      <point x="543.763" y="0" type="line"/>
-      <point x="684.674" y="0" type="line"/>
-      <point x="684.674" y="667.825" type="line"/>
-      <point x="538.247" y="667.825" type="line"/>
-      <point x="538.247" y="232.942" type="line"/>
-      <point x="217.996" y="667.825" type="line"/>
-      <point x="80.0489" y="667.825" type="line"/>
+      <point x="532" y="899" type="line"/>
+      <point x="388" y="793" type="line"/>
+      <point x="242" y="897" type="line"/>
+      <point x="196" y="882" type="line"/>
+      <point x="349" y="720" type="line"/>
+      <point x="426" y="720" type="line"/>
+      <point x="577" y="885" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -36,26 +32,17 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>ae68dbe99c10ed08128f43cc5f5029b725f3a523a89c92ca14348136b39168c8ff3e5e4752a3c8f3ac2c6b20194dd26a4a66e9b64a7365836d37eab340531a96</string>
+    <string>3103a0fab756723f917200489ac74cd218d42faad153715641e71629133c53e8ae3d1ce3ddb0a881e3e1fc5b48c200139bd0d1ed5a7ef2b203dcafafe922cca5</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 701.99 -21</string>
-          <string>vstem 352.9 326.7</string>
-          <string>hstem 889.29 -20</string>
+          <string>hstem 0 20</string>
+          <string>hstem 647 20</string>
+          <string>vstem 76 159</string>
+          <string>vstem 537 159</string>
         </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 701.99 -21</string>
-          <string>vstem 392.16 133.</string>
-          <string>hstem 889.29 -20</string>
-        </array>
-        <key>pointTag</key>
-        <string>hr01</string>
       </dict>
     </array>
   </dict>

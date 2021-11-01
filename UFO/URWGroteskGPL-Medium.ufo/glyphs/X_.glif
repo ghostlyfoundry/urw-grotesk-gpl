@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="X" format="2">
-  <advance width="590"/>
+  <advance width="597"/>
   <unicode hex="0058"/>
   <outline>
     <contour>
-      <point x="-7.08752" y="0" type="line"/>
-      <point x="158.551" y="0" type="line"/>
-      <point x="290.548" y="218.114" type="line"/>
-      <point x="423.462" y="0" type="line"/>
-      <point x="597.962" y="0" type="line"/>
-      <point x="377.197" y="351.951" type="line"/>
-      <point x="575.246" y="667.825" type="line"/>
-      <point x="415.483" y="667.825" type="line"/>
-      <point x="299.062" y="472.953" type="line"/>
-      <point x="177.182" y="667.825" type="line"/>
-      <point x="4.7276" y="667.825" type="line"/>
-      <point x="208.737" y="344.14" type="line"/>
+      <point x="415" y="667" type="line"/>
+      <point x="307" y="493" type="line"/>
+      <point x="201" y="667" type="line"/>
+      <point x="11" y="667" type="line"/>
+      <point x="206" y="346" type="line"/>
+      <point x="-18" y="0" type="line"/>
+      <point x="168" y="0" type="line"/>
+      <point x="293" y="203" type="line"/>
+      <point x="415" y="0" type="line"/>
+      <point x="609" y="0" type="line"/>
+      <point x="392" y="355" type="line"/>
+      <point x="589" y="667" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -25,14 +25,14 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>7ea17822554153c804071e4d0a0b496a7fa857f53b6910e528347c8ba80e05b11b4c164d6dd0cae8082b0b48742bbb5b07b54c40466165aa87dab956894b18b9</string>
+    <string>w597m415,667l307,493l201,667l11,667l206,346l-18,0l168,0l293,203l415,0l609,0l392,355l589,667</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 0 -21</string>
-          <string>hstem 667.83 -20</string>
+          <string>hstem 0 20</string>
+          <string>hstem 647 20</string>
         </array>
       </dict>
     </array>

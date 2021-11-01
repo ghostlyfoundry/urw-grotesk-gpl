@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="w" format="2">
-  <advance width="740"/>
+  <advance width="769"/>
   <unicode hex="0077"/>
   <outline>
     <contour>
-      <point x="150.852" y="0" type="line"/>
-      <point x="285.138" y="0" type="line"/>
-      <point x="369.839" y="250.04" type="line"/>
-      <point x="445.129" y="0" type="line"/>
-      <point x="577.347" y="0" type="line"/>
-      <point x="736.544" y="454.302" type="line"/>
-      <point x="600.423" y="454.302" type="line"/>
-      <point x="517.415" y="205.898" type="line"/>
-      <point x="440.398" y="454.302" type="line"/>
-      <point x="318.07" y="454.302" type="line"/>
-      <point x="232.59" y="205.329" type="line"/>
-      <point x="159.078" y="454.302" type="line"/>
-      <point x="14.251" y="454.302" type="line"/>
+      <point x="766" y="457" type="line"/>
+      <point x="623" y="457" type="line"/>
+      <point x="540" y="189" type="line"/>
+      <point x="463" y="457" type="line"/>
+      <point x="326" y="457" type="line"/>
+      <point x="240" y="193" type="line"/>
+      <point x="170" y="457" type="line"/>
+      <point x="15" y="457" type="line"/>
+      <point x="142" y="0" type="line"/>
+      <point x="294" y="0" type="line"/>
+      <point x="382" y="275" type="line"/>
+      <point x="458" y="0" type="line"/>
+      <point x="610" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -26,14 +26,14 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>09c3612c53b331b72a1f410a4533f01a9616883f4e8ee37b2af2c9511205ca4ebbf3a19792840fe4be61deb49ab912cd76a0a44df6e1b9c10d46d32ee69465d6</string>
+    <string>w769m766,457l623,457l540,189l463,457l326,457l240,193l170,457l15,457l142,0l294,0l382,275l458,0l610,0</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 0 -21</string>
-          <string>hstem 454.3 -20</string>
+          <string>hstem 0 20</string>
+          <string>hstem 437 20</string>
         </array>
       </dict>
     </array>

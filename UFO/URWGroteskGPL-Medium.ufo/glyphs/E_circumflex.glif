@@ -1,41 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ecircumflex" format="2">
-  <advance width="541"/>
+  <advance width="563"/>
   <unicode hex="00CA"/>
   <outline>
     <contour>
-      <point x="85.7796" y="714.341" type="line"/>
-      <point x="88.4513" y="714.341" type="line"/>
-      <point x="147.956" y="701.122" type="line"/>
-      <point x="152.228" y="701.122" type="line"/>
-      <point x="281.785" y="804.763" type="line"/>
-      <point x="412.349" y="702.942" type="line"/>
-      <point x="416.747" y="702.942" type="line"/>
-      <point x="473.694" y="717.738" type="line"/>
-      <point x="476.17" y="717.738" type="line"/>
-      <point x="322.696" y="886.223" type="line" name="hr01"/>
-      <point x="240.523" y="886.223" type="line"/>
+      <point x="237" y="396" type="line"/>
+      <point x="237" y="543" type="line"/>
+      <point x="489" y="543" type="line"/>
+      <point x="489" y="667" type="line"/>
+      <point x="77" y="667" type="line"/>
+      <point x="77" y="0" type="line"/>
+      <point x="527" y="0" type="line"/>
+      <point x="527" y="124" type="line"/>
+      <point x="237" y="124" type="line"/>
+      <point x="237" y="278" type="line"/>
+      <point x="489" y="278" type="line"/>
+      <point x="489" y="396" type="line"/>
     </contour>
     <contour>
-      <point x="80.0489" y="0" type="line"/>
-      <point x="510.874" y="0" type="line"/>
-      <point x="510.874" y="109.155" type="line"/>
-      <point x="505.798" y="109.155" type="line"/>
-      <point x="223.374" y="109.155" type="line"/>
-      <point x="228.451" y="109.155" type="line"/>
-      <point x="228.451" y="285.673" type="line"/>
-      <point x="469.261" y="285.673" type="line"/>
-      <point x="474.337" y="285.673" type="line"/>
-      <point x="474.337" y="391.903" type="line"/>
-      <point x="469.261" y="391.903" type="line"/>
-      <point x="223.374" y="391.903" type="line"/>
-      <point x="228.451" y="391.903" type="line"/>
-      <point x="228.451" y="558.67" type="line"/>
-      <point x="223.374" y="558.67" type="line"/>
-      <point x="469.261" y="558.67" type="line"/>
-      <point x="474.337" y="558.67" type="line"/>
-      <point x="474.337" y="667.825" type="line"/>
-      <point x="80.0489" y="667.825" type="line"/>
+      <point x="323" y="890" type="line"/>
+      <point x="246" y="890" type="line"/>
+      <point x="95" y="725" type="line"/>
+      <point x="142" y="713" type="line"/>
+      <point x="285" y="819" type="line"/>
+      <point x="430" y="717" type="line"/>
+      <point x="475" y="731" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -45,27 +34,17 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>75893914f082c911501eb1ba296afe0530e2754f2077a4cac4ad922da2481a623bd744912a8031ab9e6856ec9507c14e148b315755b65dcdfed1f905bc268545</string>
+    <string>00f968bbf03b761ef627b8655636fb22dd06e678f2c5665a2d87cdc7f6e3749974421dfbfa306bb58ed5110b98c37579da8e5035f6c154c5cd85cb1a057d74ee</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>vstem 244.3 37.42</string>
-          <string>hstem 558.67 144.27</string>
-          <string>hstem 807.25 78.98</string>
-          <string>hstem 0 -20</string>
+          <string>hstem 0 124</string>
+          <string>hstem 278 118</string>
+          <string>hstem 543 124</string>
+          <string>vstem 77 160</string>
         </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 558.67 327.55</string>
-          <string>hstem 0 -20</string>
-          <string>vstem 244.3 37.42</string>
-        </array>
-        <key>pointTag</key>
-        <string>hr01</string>
       </dict>
     </array>
   </dict>

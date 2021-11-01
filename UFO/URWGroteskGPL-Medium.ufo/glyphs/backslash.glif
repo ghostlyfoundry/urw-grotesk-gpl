@@ -4,14 +4,30 @@
   <unicode hex="005C"/>
   <outline>
     <contour>
-      <point x="375.267" y="-223.474" type="line"/>
-      <point x="380.801" y="-223.474" type="line"/>
-      <point x="456.738" y="-211.636" type="line"/>
-      <point x="460.711" y="-211.636" type="line"/>
-      <point x="115.677" y="711.041" type="line"/>
-      <point x="110.07" y="711.041" type="line"/>
-      <point x="33.2207" y="697.959" type="line"/>
-      <point x="29.3204" y="697.959" type="line"/>
+      <point x="45" y="700" type="line"/>
+      <point x="361" y="-226" type="line"/>
+      <point x="437" y="-214" type="line"/>
+      <point x="121" y="710" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w437m45,700l361,-226l437,-214l121,710</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -226 20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

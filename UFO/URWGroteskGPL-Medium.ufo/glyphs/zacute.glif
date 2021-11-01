@@ -1,31 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zacute" format="2">
-  <advance width="461"/>
+  <advance width="480"/>
   <unicode hex="017A"/>
   <outline>
     <contour>
-      <point x="155.79" y="524.51" type="line"/>
-      <point x="158.789" y="524.51" type="line"/>
-      <point x="223.427" y="513.164" type="line"/>
-      <point x="227.397" y="513.164" type="line"/>
-      <point x="439.462" y="673.653" type="line"/>
-      <point x="437.659" y="673.653" type="line"/>
-      <point x="315.843" y="705.24" type="line"/>
-      <point x="310.676" y="705.24" type="line"/>
+      <point x="39" y="457" type="line"/>
+      <point x="39" y="340" type="line"/>
+      <point x="250" y="340" type="line"/>
+      <point x="15" y="101" type="line"/>
+      <point x="15" y="0" type="line"/>
+      <point x="463" y="0" type="line"/>
+      <point x="463" y="117" type="line"/>
+      <point x="221" y="117" type="line"/>
+      <point x="445" y="346" type="line"/>
+      <point x="445" y="457" type="line"/>
     </contour>
     <contour>
-      <point x="12.0109" y="0" type="line"/>
-      <point x="447.85" y="0" type="line"/>
-      <point x="447.85" y="105.255" type="line"/>
-      <point x="442.736" y="105.255" type="line"/>
-      <point x="196.992" y="105.255" type="line"/>
-      <point x="436" y="359.029" type="line"/>
-      <point x="436" y="454.302" type="line"/>
-      <point x="37.6858" y="454.302" type="line"/>
-      <point x="37.6858" y="349.047" type="line"/>
-      <point x="42.7999" y="349.047" type="line"/>
-      <point x="256.882" y="349.047" type="line"/>
-      <point x="12.0109" y="90.409" type="line"/>
+      <point x="318" y="708" type="line"/>
+      <point x="169" y="533" type="line"/>
+      <point x="225" y="522" type="line"/>
+      <point x="437" y="672" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -35,14 +29,14 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>665734b45d0b29123268a3143003dd0267f07adca4339f2ce794edb94a1f2533a100d17cb55fa7860f37b8cef95445dd5d6aa0dc453e550e35764719cc4669d6</string>
+    <string>w480m39,457l39,340l250,340l15,101l15,0l463,0l463,117l221,117l445,346l445,457m318,708l169,533l225,522l437,672</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 91.89 362.41</string>
-          <string>hstem 524.51 180.73</string>
+          <string>hstem 0 117</string>
+          <string>hstem 340 117</string>
         </array>
       </dict>
     </array>

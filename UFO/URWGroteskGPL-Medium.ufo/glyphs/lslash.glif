@@ -1,27 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lslash" format="2">
-  <advance width="272"/>
+  <advance width="311"/>
   <unicode hex="0142"/>
   <outline>
     <contour>
-      <point x="65.7855" y="0" type="line"/>
-      <point x="206.363" y="0" type="line"/>
-      <point x="206.363" y="355.513" type="line"/>
-      <point x="204.185" y="355.513" type="line"/>
-      <point x="306.359" y="427.138" type="line"/>
-      <point x="307.496" y="427.138" type="line"/>
-      <point x="260.784" y="488.632" type="line"/>
-      <point x="253.709" y="488.632" type="line"/>
-      <point x="206.363" y="454.302" type="line"/>
-      <point x="206.363" y="700" type="line"/>
-      <point x="65.7855" y="700" type="line"/>
-      <point x="65.7855" y="372.672" type="line"/>
-      <point x="67.8967" y="372.672" type="line"/>
-      <point x="-32.0366" y="300.181" type="line"/>
-      <point x="-33.1891" y="300.181" type="line"/>
-      <point x="11.1207" y="238.418" type="line"/>
-      <point x="18.3195" y="238.418" type="line"/>
-      <point x="65.7855" y="273.567" type="line"/>
+      <point x="81" y="367" type="line"/>
+      <point x="-15" y="289" type="line"/>
+      <point x="18" y="248" type="line"/>
+      <point x="81" y="299" type="line"/>
+      <point x="81" y="0" type="line"/>
+      <point x="231" y="0" type="line"/>
+      <point x="231" y="387" type="line"/>
+      <point x="328" y="463" type="line"/>
+      <point x="294" y="504" type="line"/>
+      <point x="231" y="455" type="line"/>
+      <point x="231" y="700" type="line"/>
+      <point x="81" y="700" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -31,15 +25,14 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>9dd3284ffe0e8ab3a692e29616f55f5803b86f41fac29f6901a4c5eca826c912718667d5ad36dc94542d1dad2cf9c067e2a54a45e92a78098ea562c6ed01d7d3</string>
+    <string>w311m81,367l-15,289l18,248l81,299l81,0l231,0l231,387l328,463l294,504l231,455l231,700l81,700</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 0 -21</string>
-          <string>hstem 700 -20</string>
-          <string>vstem 70.9 130.35</string>
+          <string>hstem 0 20</string>
+          <string>vstem 81 150</string>
         </array>
       </dict>
     </array>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="minus" format="2">
-  <advance width="570"/>
+  <advance width="592"/>
   <unicode hex="2212"/>
   <outline>
     <contour>
-      <point x="20.0489" y="304.198" type="line"/>
-      <point x="549.624" y="304.198" type="line"/>
-      <point x="549.624" y="377.278" type="line"/>
-      <point x="20.0489" y="377.278" type="line"/>
+      <point x="36" y="389" type="line"/>
+      <point x="36" y="319" type="line"/>
+      <point x="556" y="319" type="line"/>
+      <point x="556" y="389" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -17,13 +17,13 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w570m20.05,304.2l549.62,304.2l549.62,377.28l20.05,377.28</string>
+    <string>w592m36,389l36,319l556,319l556,389</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 304.2 73.08</string>
+          <string>hstem 194 70</string>
         </array>
       </dict>
     </array>

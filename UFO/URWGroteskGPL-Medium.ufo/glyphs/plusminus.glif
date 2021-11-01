@@ -1,33 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="plusminus" format="2">
-  <advance width="575"/>
+  <advance width="594"/>
   <unicode hex="00B1"/>
   <outline>
     <contour>
-      <point x="22.0489" y="0" type="line"/>
-      <point x="553.599" y="0" type="line"/>
-      <point x="553.599" y="70.1551" type="line"/>
-      <point x="22.0489" y="70.1551" type="line"/>
+      <point x="36" y="399" type="line"/>
+      <point x="36" y="332" type="line"/>
+      <point x="262" y="332" type="line"/>
+      <point x="262" y="107" type="line"/>
+      <point x="333" y="107" type="line"/>
+      <point x="333" y="332" type="line"/>
+      <point x="558" y="332" type="line"/>
+      <point x="558" y="399" type="line"/>
+      <point x="333" y="399" type="line"/>
+      <point x="333" y="623" type="line"/>
+      <point x="262" y="623" type="line"/>
+      <point x="262" y="399" type="line"/>
     </contour>
     <contour>
-      <point x="22.0489" y="309.072" type="line"/>
-      <point x="27.125" y="309.072" type="line"/>
-      <point x="245.223" y="309.073" type="line"/>
-      <point x="245.223" y="88.7243" type="line"/>
-      <point x="329.437" y="88.7243" type="line"/>
-      <point x="329.437" y="309.073" type="line"/>
-      <point x="548.523" y="309.072" type="line"/>
-      <point x="553.599" y="309.072" type="line"/>
-      <point x="553.599" y="379.228" type="line"/>
-      <point x="548.523" y="379.228" type="line"/>
-      <point x="324.361" y="379.228" type="line"/>
-      <point x="329.437" y="379.228" type="line"/>
-      <point x="329.437" y="596.651" type="line"/>
-      <point x="245.223" y="596.651" type="line"/>
-      <point x="245.223" y="379.228" type="line"/>
-      <point x="250.299" y="379.228" type="line"/>
-      <point x="27.125" y="379.228" type="line"/>
-      <point x="22.0489" y="379.228" type="line"/>
+      <point x="36" y="68" type="line"/>
+      <point x="36" y="0" type="line"/>
+      <point x="558" y="0" type="line"/>
+      <point x="558" y="68" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -37,16 +31,15 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>aca621350906379601155de3eafe06da361f19ef1e725d2215a1c251850f86a654f3f141dba144653bc413acd5ac657f06fdbc34508ea856ed4e1495530986e7</string>
+    <string>w594m36,399l36,332l262,332l262,107l333,107l333,332l558,332l558,399l333,399l333,623l262,623l262,399m36,68l36,0l558,0l558,68</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 0 70.16</string>
-          <string>hstem 309.07 -20</string>
-          <string>hstem 379.23 217.42</string>
-          <string>vstem 27.13 521.4</string>
+          <string>hstem 0 68</string>
+          <string>hstem 332 67</string>
+          <string>vstem 262 71</string>
         </array>
       </dict>
     </array>

@@ -1,17 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="L" format="2">
-  <advance width="482"/>
+  <advance width="490"/>
   <unicode hex="004C"/>
   <outline>
     <contour>
-      <point x="80.0489" y="0" type="line"/>
-      <point x="484.212" y="0" type="line"/>
-      <point x="484.212" y="109.155" type="line"/>
-      <point x="479.136" y="109.155" type="line"/>
-      <point x="223.374" y="109.155" type="line"/>
-      <point x="228.451" y="109.155" type="line"/>
-      <point x="228.451" y="667.825" type="line"/>
-      <point x="80.0489" y="667.825" type="line"/>
+      <point x="237" y="667" type="line"/>
+      <point x="77" y="667" type="line"/>
+      <point x="77" y="0" type="line"/>
+      <point x="486" y="0" type="line"/>
+      <point x="486" y="124" type="line"/>
+      <point x="237" y="124" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -21,15 +19,15 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w482m80.05,0l484.21,0l484.21,109.15l479.14,109.15l223.37,109.15l228.45,109.15l228.45,667.83l80.05,667.83</string>
+    <string>w490m237,667l77,667l77,0l486,0l486,124l237,124</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 0 109.15</string>
-          <string>hstem 667.83 -20</string>
-          <string>vstem 85.13 138.25</string>
+          <string>hstem 0 124</string>
+          <string>hstem 647 20</string>
+          <string>vstem 77 160</string>
         </array>
       </dict>
     </array>

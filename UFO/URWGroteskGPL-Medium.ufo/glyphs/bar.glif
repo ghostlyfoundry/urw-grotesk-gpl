@@ -4,10 +4,10 @@
   <unicode hex="007C"/>
   <outline>
     <contour>
-      <point x="248.049" y="-162.824" type="line"/>
-      <point x="335.226" y="-162.824" type="line"/>
-      <point x="335.226" y="667.825" type="line"/>
-      <point x="248.049" y="667.825" type="line"/>
+      <point x="256" y="667" type="line"/>
+      <point x="256" y="-167" type="line"/>
+      <point x="326" y="-167" type="line"/>
+      <point x="326" y="667" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -17,15 +17,14 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w583m248.05,-162.82l335.23,-162.82l335.23,667.83l248.05,667.83</string>
+    <string>w583m256,667l256,-167l326,-167l326,667</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -162.82 -21</string>
-          <string>hstem 667.83 -20</string>
-          <string>vstem 253.13 77.02</string>
+          <string>hstem 647 20</string>
+          <string>vstem 256 70</string>
         </array>
       </dict>
     </array>

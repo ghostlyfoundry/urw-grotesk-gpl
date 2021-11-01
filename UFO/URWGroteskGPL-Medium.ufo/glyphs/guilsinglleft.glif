@@ -1,36 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="guilsinglleft" format="2">
-  <advance width="282"/>
+  <advance width="275"/>
   <unicode hex="2039"/>
   <outline>
     <contour>
-      <point x="156.795" y="0" type="line"/>
-      <point x="240.577" y="0" type="line"/>
-      <point x="229.04" y="37.5685" type="line" smooth="yes"/>
-      <point x="222.139" y="60.0089"/>
-      <point x="211.91" y="93.2687"/>
-      <point x="201.898" y="125.876" type="curve" smooth="yes"/>
-      <point x="193.793" y="152.276"/>
-      <point x="185.833" y="178.249"/>
-      <point x="179.897" y="197.701" type="curve" smooth="yes"/>
-      <point x="172.757" y="221.206" type="line"/>
-      <point x="172.253" y="222.887"/>
-      <point x="171.867" y="224.648"/>
-      <point x="171.496" y="226.126" type="curve"/>
-      <point x="170.829" y="228.645" type="line"/>
-      <point x="172.658" y="235.246" type="line" smooth="yes"/>
-      <point x="174.266" y="240.922"/>
-      <point x="176.568" y="248.945"/>
-      <point x="179.352" y="258.566" type="curve" smooth="yes"/>
-      <point x="184.927" y="277.836"/>
-      <point x="192.404" y="303.511"/>
-      <point x="200.024" y="329.606" type="curve" smooth="yes"/>
-      <point x="209.365" y="361.597"/>
-      <point x="218.915" y="394.219"/>
-      <point x="225.423" y="416.45" type="curve" smooth="yes"/>
-      <point x="236.478" y="454.302" type="line"/>
-      <point x="156.827" y="454.302" type="line"/>
-      <point x="34.5849" y="228.143" type="line"/>
+      <point x="233" y="0" type="line"/>
+      <point x="164" y="229" type="line"/>
+      <point x="231" y="457" type="line"/>
+      <point x="156" y="457" type="line"/>
+      <point x="35" y="229" type="line"/>
+      <point x="157" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -40,14 +19,14 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>f605c406b133e20b4c7bc04b1c52d8d66f823e2823309e5dea1d5dd33bdbc95fc5b6f056abfb3bc4c335460c2eb68c9efe9799a2795e58c6fa77470a312d861c</string>
+    <string>w275m233,0l164,229l231,457l156,457l35,229l157,0</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 0 -21</string>
-          <string>hstem 18.54 -20</string>
+          <string>hstem 0 20</string>
+          <string>hstem 437 20</string>
         </array>
       </dict>
     </array>

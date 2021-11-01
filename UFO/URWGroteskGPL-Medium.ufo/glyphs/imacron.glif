@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="imacron" format="2">
-  <advance width="265"/>
+  <advance width="269"/>
   <unicode hex="012B"/>
   <outline>
     <contour>
-      <point x="-0.989116" y="568.42" type="line"/>
-      <point x="265.001" y="568.42" type="line"/>
-      <point x="265.001" y="641.5" type="line"/>
-      <point x="-0.989116" y="641.5" type="line"/>
+      <point x="209" y="457" type="line"/>
+      <point x="60" y="457" type="line"/>
+      <point x="60" y="0" type="line"/>
+      <point x="209" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="62.2106" y="0" type="line"/>
-      <point x="201.801" y="0" type="line"/>
-      <point x="201.801" y="454.302" type="line"/>
-      <point x="62.2106" y="454.302" type="line"/>
+      <point x="5" y="637" type="line" name="hr01"/>
+      <point x="5" y="570" type="line"/>
+      <point x="265" y="570" type="line"/>
+      <point x="265" y="637" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -23,16 +23,28 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w265m-0.99,568.42l265.,568.42l265.,641.5l-0.99,641.5m62.21,0l201.8,0l201.8,454.3l62.21,454.3</string>
+    <string>w269m209,457l60,457l60,0l209,0m5,637l5,570l265,570l265,637</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 454.3 0</string>
-          <string>hstem 568.42 -21</string>
-          <string>vstem 4.13 0</string>
+          <string>hstem 437 20</string>
+          <string>vstem 60 149</string>
+          <string>hstem 0 20</string>
+          <string>hstem 570 67</string>
         </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 570 67</string>
+          <string>vstem 5 260</string>
+          <string>hstem 0 20</string>
+          <string>hstem 437 20</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr01</string>
       </dict>
     </array>
   </dict>

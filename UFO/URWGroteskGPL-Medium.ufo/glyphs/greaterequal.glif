@@ -1,28 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="greaterequal" format="2">
-  <advance width="579"/>
+  <advance width="596"/>
   <unicode hex="2265"/>
   <outline>
     <contour>
-      <point x="23.0489" y="58.4995" type="line"/>
-      <point x="555.587" y="58.4995" type="line"/>
-      <point x="555.587" y="130.605" type="line"/>
-      <point x="23.0489" y="130.605" type="line"/>
+      <point x="554" y="321" type="line"/>
+      <point x="99" y="501" type="line"/>
+      <point x="57" y="446" type="line"/>
+      <point x="429" y="296" type="line"/>
+      <point x="59" y="150" type="line"/>
+      <point x="108" y="92" type="line"/>
+      <point x="554" y="270" type="line"/>
     </contour>
     <contour>
-      <point x="86.4633" y="132.515" type="line"/>
-      <point x="92.1426" y="132.515" type="line"/>
-      <point x="550.405" y="314.101" type="line"/>
-      <point x="553.612" y="314.101" type="line"/>
-      <point x="553.612" y="367.438" type="line"/>
-      <point x="550.361" y="367.438" type="line"/>
-      <point x="81.6769" y="548.121" type="line"/>
-      <point x="75.8198" y="548.121" type="line"/>
-      <point x="30.9993" y="489.551" type="line"/>
-      <point x="33.1823" y="489.551" type="line"/>
-      <point x="412.774" y="341.158" type="line"/>
-      <point x="36.388" y="191.568" type="line"/>
-      <point x="34.4536" y="191.568" type="line"/>
+      <point x="558" y="69" type="line"/>
+      <point x="39" y="69" type="line"/>
+      <point x="39" y="0" type="line"/>
+      <point x="558" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -32,13 +26,13 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>397e56b7d457720231ab76dfbd10b3bee6ab755c474797662277177adce0da3741fb43498c33a51e833b8be2b564271924ee208e2cd2c8ae346162ab5a709fd6</string>
+    <string>w596m554,321l99,501l57,446l429,296l59,150l108,92l554,270m558,69l39,69l39,0l558,0</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 132.51 59.05</string>
+          <string>hstem 0 69</string>
         </array>
       </dict>
     </array>

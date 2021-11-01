@@ -1,22 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="one" format="2">
-  <advance width="580"/>
+  <advance width="583"/>
   <unicode hex="0031"/>
   <outline>
     <contour>
-      <point x="278.836" y="0" type="line"/>
-      <point x="423.287" y="0" type="line"/>
-      <point x="423.287" y="667.825" type="line"/>
-      <point x="314.104" y="667.825" type="line"/>
-      <point x="311.61" y="662.349" type="line" smooth="yes"/>
-      <point x="274.393" y="580.622"/>
-      <point x="211.857" y="567.777"/>
-      <point x="117.758" y="560.543" type="curve" smooth="yes"/>
-      <point x="108.736" y="559.85" type="line"/>
-      <point x="104.049" y="559.85" type="line"/>
-      <point x="104.049" y="474.253" type="line"/>
-      <point x="109.408" y="474.253" type="line"/>
-      <point x="278.836" y="483.704" type="line"/>
+      <point x="431" y="667" type="line"/>
+      <point x="308" y="667" type="line"/>
+      <point x="278" y="592"/>
+      <point x="222" y="563"/>
+      <point x="94" y="555" type="curve"/>
+      <point x="94" y="453" type="line"/>
+      <point x="279" y="466" type="line"/>
+      <point x="279" y="0" type="line"/>
+      <point x="431" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -26,16 +22,15 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>9e089bc5ab5b4d6c5216018c4c42051a64f3f8a975355224897b91b5be3b89c0b49c5331e714cad8c42527f970cac108263e04d617486acb1991e2b48fc0eae5</string>
+    <string>w583m431,667l308,667c278,592 222,563 94,555l94,453l279,466l279,0l431,0</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 474.25 -21</string>
-          <string>hstem 492 65</string>
-          <string>hstem 667.83 -20</string>
-          <string>vstem 109.13 309.09</string>
+          <string>hstem 0 20</string>
+          <string>hstem 647 20</string>
+          <string>vstem 279 152</string>
         </array>
       </dict>
     </array>

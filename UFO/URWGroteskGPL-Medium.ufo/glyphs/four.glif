@@ -1,30 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="four" format="2">
-  <advance width="577"/>
+  <advance width="583"/>
   <unicode hex="0034"/>
   <outline>
     <contour>
-      <point x="33.0489" y="140.399" type="line"/>
-      <point x="38.125" y="140.399" type="line"/>
-      <point x="325.486" y="140.399" type="line"/>
-      <point x="320.41" y="140.399" type="line"/>
-      <point x="320.41" y="0" type="line"/>
-      <point x="457.949" y="0" type="line"/>
-      <point x="457.949" y="140.399" type="line"/>
-      <point x="452.873" y="140.399" type="line"/>
-      <point x="541.748" y="140.399" type="line"/>
-      <point x="546.824" y="140.399" type="line"/>
-      <point x="546.824" y="245.654" type="line"/>
-      <point x="541.748" y="245.654" type="line"/>
-      <point x="457.949" y="245.654" type="line"/>
-      <point x="457.949" y="667.825" type="line"/>
-      <point x="307.55" y="667.825" type="line"/>
-      <point x="33.0489" y="237.957" type="line"/>
+      <point x="471" y="667" type="line"/>
+      <point x="308" y="667" type="line"/>
+      <point x="35" y="255" type="line"/>
+      <point x="35" y="139" type="line"/>
+      <point x="327" y="139" type="line"/>
+      <point x="327" y="0" type="line"/>
+      <point x="471" y="0" type="line"/>
+      <point x="471" y="139" type="line"/>
+      <point x="557" y="139" type="line"/>
+      <point x="557" y="255" type="line"/>
+      <point x="471" y="255" type="line"/>
     </contour>
     <contour>
-      <point x="170.427" y="245.653" type="line"/>
-      <point x="320.41" y="498.5" type="line"/>
-      <point x="320.41" y="245.653" type="line"/>
+      <point x="327" y="535" type="line"/>
+      <point x="327" y="255" type="line"/>
+      <point x="157" y="255" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -34,16 +29,16 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>cf5ca58264ebca2a15096a5de77c875b917b957acca41b7f6df02e02953e7dabbd36241e1e883d16fd3d9727a0bef7831c4022fc475784757a21e2444f64087c</string>
+    <string>w583m471,667l308,667l35,255l35,139l327,139l327,0l471,0l471,139l557,139l557,255l471,255m327,535l327,255l157,255</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 0 -21</string>
-          <string>hstem 140.4 0.</string>
-          <string>hstem 667.83 -20</string>
-          <string>vstem 325.49 216.26</string>
+          <string>hstem 0 20</string>
+          <string>hstem 139 116</string>
+          <string>hstem 647 20</string>
+          <string>vstem 327 144</string>
         </array>
       </dict>
     </array>

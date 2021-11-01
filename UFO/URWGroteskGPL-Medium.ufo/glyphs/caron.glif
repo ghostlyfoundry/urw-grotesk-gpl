@@ -1,40 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="caron" format="2">
-  <advance width="530"/>
+  <advance width="500"/>
   <unicode hex="02C7"/>
   <outline>
     <contour>
-      <point x="212.479" y="517.721" type="line"/>
-      <point x="295.354" y="517.721" type="line"/>
-      <point x="439.149" y="688.302" type="line"/>
-      <point x="436.545" y="688.302" type="line"/>
-      <point x="379.873" y="703.027" type="line"/>
-      <point x="375.297" y="703.027" type="line"/>
-      <point x="255.764" y="600.805" type="line"/>
-      <point x="134.426" y="702.032" type="line"/>
-      <point x="129.898" y="702.032" type="line"/>
-      <point x="73.3652" y="687.343" type="line"/>
-      <point x="70.7464" y="687.343" type="line"/>
+      <point x="287" y="533" type="line"/>
+      <point x="433" y="693" type="line"/>
+      <point x="387" y="707" type="line"/>
+      <point x="249" y="605" type="line"/>
+      <point x="113" y="707" type="line"/>
+      <point x="67" y="693" type="line"/>
+      <point x="210" y="533" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>5bd21c0cfa7f5677d12d5618a8282912d1a0af7fa10a9ee3814ece272eb80dec67d68e3287bd454466177e175421c8aff64a0bc7e2b7fbe81d775ff7043c63c6</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 517.72 -21</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
 </glyph>

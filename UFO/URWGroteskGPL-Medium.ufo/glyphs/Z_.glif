@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Z" format="2">
-  <advance width="534"/>
+  <advance width="548"/>
   <unicode hex="005A"/>
   <outline>
     <contour>
-      <point x="-2.95106" y="0" type="line"/>
-      <point x="546.374" y="0" type="line"/>
-      <point x="546.374" y="110.13" type="line"/>
-      <point x="541.298" y="110.13" type="line"/>
-      <point x="174.282" y="110.13" type="line"/>
-      <point x="178.388" y="110.13" type="line"/>
-      <point x="509.837" y="566.183" type="line"/>
-      <point x="509.837" y="667.825" type="line"/>
-      <point x="30.6238" y="667.825" type="line"/>
-      <point x="30.6238" y="558.67" type="line"/>
-      <point x="35.6999" y="558.67" type="line"/>
-      <point x="336.542" y="558.67" type="line"/>
-      <point x="332.437" y="558.67" type="line"/>
-      <point x="-2.95106" y="97.7445" type="line"/>
+      <point x="36" y="667" type="line"/>
+      <point x="36" y="543" type="line"/>
+      <point x="323" y="543" type="line"/>
+      <point x="4" y="115" type="line"/>
+      <point x="4" y="0" type="line"/>
+      <point x="551" y="0" type="line"/>
+      <point x="551" y="125" type="line"/>
+      <point x="208" y="125" type="line"/>
+      <point x="517" y="546" type="line"/>
+      <point x="517" y="667" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -27,14 +23,14 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>f12d233915cb4cf2c54fb8a711c5999aacea5fa89b7853a7b4dafb0f7f322f3bcb309e2fa0a6658ad617b57fc661475d1e8ce81439ed02e35d412d1411263c90</string>
+    <string>w548m36,667l36,543l323,543l4,115l4,0l551,0l551,125l208,125l517,546l517,667</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 0 110.13</string>
-          <string>hstem 558.67 109.15</string>
+          <string>hstem 0 125</string>
+          <string>hstem 543 124</string>
         </array>
       </dict>
     </array>
