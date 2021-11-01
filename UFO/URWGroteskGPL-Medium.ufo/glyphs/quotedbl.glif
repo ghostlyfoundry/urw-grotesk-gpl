@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedbl" format="2">
+  <advance width="375"/>
+  <unicode hex="0022"/>
+  <outline>
+    <contour>
+      <point x="215.39" y="389.022" type="line"/>
+      <point x="312.413" y="389.022" type="line"/>
+      <point x="329.272" y="667.825" type="line"/>
+      <point x="199.585" y="667.825" type="line"/>
+    </contour>
+    <contour>
+      <point x="61.3732" y="389.022" type="line"/>
+      <point x="158.364" y="389.022" type="line"/>
+      <point x="175.222" y="667.825" type="line"/>
+      <point x="44.5148" y="667.825" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w375m215.39,389.02l312.41,389.02l329.27,667.83l199.59,667.83m61.37,389.02l158.36,389.02l175.22,667.83l44.51,667.83</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 389.02 -21</string>
+          <string>hstem 667.83 -20</string>
+          <string>vstem 62.92 95.15</string>
+          <string>vstem 219.42 94.65</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

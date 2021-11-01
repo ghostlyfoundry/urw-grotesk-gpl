@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ograve" format="2">
+  <advance width="761"/>
+  <unicode hex="00D2"/>
+  <outline>
+    <contour>
+      <point x="185.98" y="853.288" type="line"/>
+      <point x="184.48" y="853.288" type="line"/>
+      <point x="396.851" y="695.497" type="line"/>
+      <point x="400.756" y="695.497" type="line"/>
+      <point x="465.366" y="706.838" type="line"/>
+      <point x="468.338" y="706.838" type="line" name="hr01"/>
+      <point x="310.194" y="890.786" type="line"/>
+      <point x="304.817" y="890.786" type="line"/>
+    </contour>
+    <contour>
+      <point x="147.575" y="62.8862" type="curve" smooth="yes"/>
+      <point x="211.11" y="8.85916"/>
+      <point x="292.882" y="-13.6499"/>
+      <point x="380.874" y="-13.6499" type="curve" smooth="yes"/>
+      <point x="596.082" y="-13.6499"/>
+      <point x="719.723" y="120.499"/>
+      <point x="719.723" y="334.4" type="curve" smooth="yes"/>
+      <point x="719.723" y="549.661"/>
+      <point x="595.898" y="682.45"/>
+      <point x="379.886" y="682.45" type="curve" smooth="yes"/>
+      <point x="168.692" y="682.45"/>
+      <point x="40.0489" y="552.63"/>
+      <point x="40.0489" y="340.25" type="curve" smooth="yes"/>
+      <point x="40.0489" y="241.309"/>
+      <point x="58.8664" y="138.319"/>
+    </contour>
+    <contour>
+      <point x="379.886" y="95.5049" type="curve" smooth="yes"/>
+      <point x="241.328" y="95.5049"/>
+      <point x="198.326" y="226.881"/>
+      <point x="198.326" y="338.3" type="curve" smooth="yes"/>
+      <point x="198.326" y="447.314"/>
+      <point x="245.86" y="573.295"/>
+      <point x="379.886" y="573.295" type="curve" smooth="yes" name="hr02"/>
+      <point x="516.219" y="573.295"/>
+      <point x="561.447" y="444.667"/>
+      <point x="561.447" y="334.4" type="curve" smooth="yes"/>
+      <point x="561.447" y="224.133"/>
+      <point x="516.219" y="95.5049"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>506dc1000f1dba5cbe2b8a5b90bd8713e19a31765e93012a5f98dd4a6cfcc78ee922aa249c8c6f76893cb2f6a9b3cc8cadc62d796fc0a59ea66b134ee04958d3</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 237.2 616.09</string>
+          <string>vstem 294.9 398.95</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 467.44 99.08</string>
+          <string>hstem 237.2 616.09</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr01</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 436.57 136.72</string>
+          <string>vstem 294.9 398.95</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr02</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

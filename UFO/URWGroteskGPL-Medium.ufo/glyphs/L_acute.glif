@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lacute" format="2">
+  <advance width="482"/>
+  <unicode hex="0139"/>
+  <outline>
+    <contour>
+      <point x="93.4295" y="708.792" type="line"/>
+      <point x="96.3965" y="708.792" type="line"/>
+      <point x="161.084" y="697.437" type="line"/>
+      <point x="165.025" y="697.437" type="line"/>
+      <point x="377.264" y="858.058" type="line"/>
+      <point x="375.428" y="858.058" type="line"/>
+      <point x="253.413" y="888.48" type="line"/>
+      <point x="248.34" y="888.48" type="line"/>
+    </contour>
+    <contour>
+      <point x="80.0489" y="0" type="line"/>
+      <point x="484.212" y="0" type="line"/>
+      <point x="484.212" y="109.155" type="line"/>
+      <point x="479.136" y="109.155" type="line"/>
+      <point x="223.374" y="109.155" type="line"/>
+      <point x="228.451" y="109.155" type="line"/>
+      <point x="228.451" y="667.825" type="line"/>
+      <point x="80.0489" y="667.825" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>0a865218f2a84456651ee884e21deb483ddc97a7c398a140b68346b87c7fa49c915988d1d0935791a6bc2308e35a21e45f2aacda477f5f4894e89da6b4d824ef</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 667.83 29.61</string>
+          <string>hstem 888.48 -20</string>
+          <string>vstem 97.27 154.91</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

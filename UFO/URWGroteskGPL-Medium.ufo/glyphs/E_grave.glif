@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Egrave" format="2">
+  <advance width="541"/>
+  <unicode hex="00C8"/>
+  <outline>
+    <contour>
+      <point x="106.493" y="853.288" type="line" name="hr02"/>
+      <point x="104.993" y="853.288" type="line"/>
+      <point x="317.364" y="695.497" type="line"/>
+      <point x="321.269" y="695.497" type="line"/>
+      <point x="385.879" y="706.838" type="line"/>
+      <point x="388.851" y="706.838" type="line"/>
+      <point x="230.707" y="890.786" type="line" name="hr01"/>
+      <point x="225.33" y="890.786" type="line"/>
+    </contour>
+    <contour>
+      <point x="80.0489" y="0" type="line" name="hr03"/>
+      <point x="510.874" y="0" type="line"/>
+      <point x="510.874" y="109.155" type="line"/>
+      <point x="505.798" y="109.155" type="line"/>
+      <point x="223.374" y="109.155" type="line"/>
+      <point x="228.451" y="109.155" type="line"/>
+      <point x="228.451" y="285.673" type="line"/>
+      <point x="469.261" y="285.673" type="line"/>
+      <point x="474.337" y="285.673" type="line"/>
+      <point x="474.337" y="391.903" type="line" name="hr04"/>
+      <point x="469.261" y="391.903" type="line"/>
+      <point x="223.374" y="391.903" type="line"/>
+      <point x="228.451" y="391.903" type="line"/>
+      <point x="228.451" y="558.67" type="line" name="hr05"/>
+      <point x="223.374" y="558.67" type="line"/>
+      <point x="469.261" y="558.67" type="line"/>
+      <point x="474.337" y="558.67" type="line"/>
+      <point x="474.337" y="667.825" type="line"/>
+      <point x="80.0489" y="667.825" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>90e2b101d7a7b71a86b21d07218b9bd1b256e928ab51c56f1a25efeb47163c558da28afbb9ca28a460c28a299726ebd3c01ae17590911becd99d2ad31c120dd6</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 391.9 461.39</string>
+          <string>vstem 108.02 115.35</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 890.79</string>
+          <string>vstem 108.02 115.35</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr01</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 391.9 461.39</string>
+          <string>vstem 108.02 115.35</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr02</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 890.79</string>
+          <string>vstem 108.02 115.35</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr03</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 391.9 461.39</string>
+          <string>vstem 108.02 115.35</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr04</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 558.67 109.16</string>
+          <string>vstem 108.02 115.35</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr05</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 890.79</string>
+          <string>vstem 108.02 115.35</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr03</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

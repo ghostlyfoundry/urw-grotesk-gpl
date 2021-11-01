@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Aacute" format="2">
+  <advance width="640"/>
+  <unicode hex="00C1"/>
+  <outline>
+    <contour>
+      <point x="264.128" y="708.792" type="line"/>
+      <point x="267.095" y="708.792" type="line"/>
+      <point x="331.783" y="697.437" type="line"/>
+      <point x="335.724" y="697.437" type="line"/>
+      <point x="547.962" y="858.058" type="line"/>
+      <point x="546.127" y="858.058" type="line"/>
+      <point x="424.111" y="888.48" type="line"/>
+      <point x="419.039" y="888.48" type="line"/>
+    </contour>
+    <contour>
+      <point x="-13.6088" y="0" type="line"/>
+      <point x="135.431" y="0" type="line"/>
+      <point x="199.618" y="174.523" type="line"/>
+      <point x="426.579" y="174.523" type="line"/>
+      <point x="490.767" y="0" type="line"/>
+      <point x="645.565" y="0" type="line"/>
+      <point x="395.087" y="667.825" type="line"/>
+      <point x="248.023" y="667.825" type="line"/>
+    </contour>
+    <contour>
+      <point x="238.701" y="277.829" type="line"/>
+      <point x="315.83" y="484.303" type="line"/>
+      <point x="390.573" y="277.829" type="line"/>
+      <point x="395.346" y="277.829" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>17e8391b2e389f7884f81f02c5ccc96b21fdb50b168ca7d06805c43a6b145ec8e3f99ef8058843798697dd47fafaf7825e47b5c7a26b2bb3c22290a3782fd1f1</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 667.83</string>
+          <string>hstem 708.79 -20</string>
+          <string>hstem 858.06 -21</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

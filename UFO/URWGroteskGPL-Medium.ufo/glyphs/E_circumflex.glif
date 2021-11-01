@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ecircumflex" format="2">
+  <advance width="541"/>
+  <unicode hex="00CA"/>
+  <outline>
+    <contour>
+      <point x="85.7796" y="714.341" type="line"/>
+      <point x="88.4513" y="714.341" type="line"/>
+      <point x="147.956" y="701.122" type="line"/>
+      <point x="152.228" y="701.122" type="line"/>
+      <point x="281.785" y="804.763" type="line"/>
+      <point x="412.349" y="702.942" type="line"/>
+      <point x="416.747" y="702.942" type="line"/>
+      <point x="473.694" y="717.738" type="line"/>
+      <point x="476.17" y="717.738" type="line"/>
+      <point x="322.696" y="886.223" type="line" name="hr01"/>
+      <point x="240.523" y="886.223" type="line"/>
+    </contour>
+    <contour>
+      <point x="80.0489" y="0" type="line"/>
+      <point x="510.874" y="0" type="line"/>
+      <point x="510.874" y="109.155" type="line"/>
+      <point x="505.798" y="109.155" type="line"/>
+      <point x="223.374" y="109.155" type="line"/>
+      <point x="228.451" y="109.155" type="line"/>
+      <point x="228.451" y="285.673" type="line"/>
+      <point x="469.261" y="285.673" type="line"/>
+      <point x="474.337" y="285.673" type="line"/>
+      <point x="474.337" y="391.903" type="line"/>
+      <point x="469.261" y="391.903" type="line"/>
+      <point x="223.374" y="391.903" type="line"/>
+      <point x="228.451" y="391.903" type="line"/>
+      <point x="228.451" y="558.67" type="line"/>
+      <point x="223.374" y="558.67" type="line"/>
+      <point x="469.261" y="558.67" type="line"/>
+      <point x="474.337" y="558.67" type="line"/>
+      <point x="474.337" y="667.825" type="line"/>
+      <point x="80.0489" y="667.825" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>75893914f082c911501eb1ba296afe0530e2754f2077a4cac4ad922da2481a623bd744912a8031ab9e6856ec9507c14e148b315755b65dcdfed1f905bc268545</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 244.3 37.42</string>
+          <string>hstem 558.67 144.27</string>
+          <string>hstem 807.25 78.98</string>
+          <string>hstem 0 -20</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 558.67 327.55</string>
+          <string>hstem 0 -20</string>
+          <string>vstem 244.3 37.42</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr01</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

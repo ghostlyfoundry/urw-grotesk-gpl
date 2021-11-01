@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="K" format="2">
+  <advance width="625"/>
+  <unicode hex="004B"/>
+  <outline>
+    <contour>
+      <point x="80.0489" y="0" type="line"/>
+      <point x="227.463" y="0" type="line"/>
+      <point x="227.463" y="276.908" type="line"/>
+      <point x="467.471" y="0" type="line"/>
+      <point x="655.033" y="0" type="line"/>
+      <point x="347.337" y="356.765" type="line"/>
+      <point x="621.698" y="667.825" type="line"/>
+      <point x="453.72" y="667.825" type="line"/>
+      <point x="227.463" y="410.881" type="line"/>
+      <point x="227.463" y="667.825" type="line"/>
+      <point x="80.0489" y="667.825" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>e9df2efebee78e00ff9d8cc660034408f7fcd00ac4670614a93f70b9429791980a1198c027a2d9477e106099a4862727c9b3b053fc9f2278b1d0896138df48ab</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 -21</string>
+          <string>hstem 667.83 -20</string>
+          <string>vstem 85.13 137.26</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

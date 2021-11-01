@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zacute" format="2">
+  <advance width="461"/>
+  <unicode hex="017A"/>
+  <outline>
+    <contour>
+      <point x="155.79" y="524.51" type="line"/>
+      <point x="158.789" y="524.51" type="line"/>
+      <point x="223.427" y="513.164" type="line"/>
+      <point x="227.397" y="513.164" type="line"/>
+      <point x="439.462" y="673.653" type="line"/>
+      <point x="437.659" y="673.653" type="line"/>
+      <point x="315.843" y="705.24" type="line"/>
+      <point x="310.676" y="705.24" type="line"/>
+    </contour>
+    <contour>
+      <point x="12.0109" y="0" type="line"/>
+      <point x="447.85" y="0" type="line"/>
+      <point x="447.85" y="105.255" type="line"/>
+      <point x="442.736" y="105.255" type="line"/>
+      <point x="196.992" y="105.255" type="line"/>
+      <point x="436" y="359.029" type="line"/>
+      <point x="436" y="454.302" type="line"/>
+      <point x="37.6858" y="454.302" type="line"/>
+      <point x="37.6858" y="349.047" type="line"/>
+      <point x="42.7999" y="349.047" type="line"/>
+      <point x="256.882" y="349.047" type="line"/>
+      <point x="12.0109" y="90.409" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>665734b45d0b29123268a3143003dd0267f07adca4339f2ce794edb94a1f2533a100d17cb55fa7860f37b8cef95445dd5d6aa0dc453e550e35764719cc4669d6</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 91.89 362.41</string>
+          <string>hstem 524.51 180.73</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

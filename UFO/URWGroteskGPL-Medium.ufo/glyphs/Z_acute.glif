@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zacute" format="2">
+  <advance width="534"/>
+  <unicode hex="0179"/>
+  <outline>
+    <contour>
+      <point x="196.079" y="715.617" type="line"/>
+      <point x="199.046" y="715.617" type="line"/>
+      <point x="263.733" y="704.262" type="line"/>
+      <point x="267.674" y="704.262" type="line"/>
+      <point x="479.913" y="864.883" type="line"/>
+      <point x="478.078" y="864.883" type="line"/>
+      <point x="356.062" y="895.305" type="line"/>
+      <point x="350.989" y="895.305" type="line"/>
+    </contour>
+    <contour>
+      <point x="-2.95106" y="0" type="line"/>
+      <point x="546.374" y="0" type="line"/>
+      <point x="546.374" y="110.13" type="line"/>
+      <point x="541.298" y="110.13" type="line"/>
+      <point x="174.282" y="110.13" type="line"/>
+      <point x="178.388" y="110.13" type="line"/>
+      <point x="509.837" y="566.183" type="line"/>
+      <point x="509.837" y="667.825" type="line"/>
+      <point x="30.6238" y="667.825" type="line"/>
+      <point x="30.6238" y="558.67" type="line"/>
+      <point x="35.6999" y="558.67" type="line"/>
+      <point x="336.542" y="558.67" type="line"/>
+      <point x="332.437" y="558.67" type="line"/>
+      <point x="-2.95106" y="97.7445" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>08fd63f75f90c91303acfaacd2d8d8b8c665cd5e29783f58e7563b6f9c30aebbe09e0c1f44c0d67f19354ca69fc188b1413269c11d78456449e179ea1e0029b9</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 99.08 568.75</string>
+          <string>hstem 715.62 179.69</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

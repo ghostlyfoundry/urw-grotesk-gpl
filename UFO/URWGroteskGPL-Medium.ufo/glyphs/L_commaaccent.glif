@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lcommaaccent" format="2">
+  <advance width="482"/>
+  <unicode hex="013B"/>
+  <outline>
+    <contour>
+      <point x="180.208" y="-230.718" type="line"/>
+      <point x="185.048" y="-230.718" type="line"/>
+      <point x="252.869" y="-227.928" type="line"/>
+      <point x="256.787" y="-227.928" type="line"/>
+      <point x="331.15" y="-124.089" type="line"/>
+      <point x="331.15" y="-31.2441" type="line"/>
+      <point x="229.161" y="-31.2441" type="line"/>
+      <point x="229.161" y="-95.5714" type="line" smooth="yes"/>
+      <point x="229.161" y="-114.797"/>
+      <point x="222.676" y="-136.07"/>
+      <point x="213.858" y="-157.324" type="curve" smooth="yes"/>
+      <point x="208.213" y="-170.931"/>
+      <point x="201.921" y="-184.296"/>
+      <point x="195.994" y="-196.666" type="curve" smooth="yes"/>
+      <point x="192.363" y="-204.245"/>
+      <point x="188.858" y="-211.451"/>
+      <point x="185.868" y="-218.109" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="80.0489" y="0" type="line"/>
+      <point x="484.212" y="0" type="line"/>
+      <point x="484.212" y="109.155" type="line"/>
+      <point x="479.136" y="109.155" type="line"/>
+      <point x="223.374" y="109.155" type="line"/>
+      <point x="228.451" y="109.155" type="line"/>
+      <point x="228.451" y="667.825" type="line"/>
+      <point x="80.0489" y="667.825" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>2c55c8fa7d9d1a0d2870a72b0b84d2089a6b8bf2e58b9bb40715e18780551fce531f28cbc2a1de114fc892982926139eb8f4a9ff0123a66896fafb72bdbabcf7</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -157.32 61.75</string>
+          <string>hstem -51.24 20.</string>
+          <string>vstem 198.37 11.08</string>
+          <string>vstem 234.24 91.84</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

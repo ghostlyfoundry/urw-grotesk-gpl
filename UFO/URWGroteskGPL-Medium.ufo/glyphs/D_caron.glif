@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Dcaron" format="2">
+  <advance width="710"/>
+  <unicode hex="010E"/>
+  <outline>
+    <contour>
+      <point x="295.787" y="701.994" type="line"/>
+      <point x="378.05" y="701.994" type="line"/>
+      <point x="532.129" y="873.138" type="line"/>
+      <point x="529.752" y="873.138" type="line"/>
+      <point x="473.233" y="889.292" type="line"/>
+      <point x="468.684" y="889.292" type="line"/>
+      <point x="338.775" y="786.306" type="line"/>
+      <point x="207.045" y="888.296" type="line"/>
+      <point x="202.543" y="888.296" type="line"/>
+      <point x="146.152" y="872.179" type="line"/>
+      <point x="143.761" y="872.179" type="line"/>
+    </contour>
+    <contour>
+      <point x="223.374" y="109.155" type="line"/>
+      <point x="228.451" y="109.155" type="line"/>
+      <point x="228.451" y="558.67" type="line"/>
+      <point x="223.375" y="558.67" type="line"/>
+      <point x="316.199" y="558.67" type="line" smooth="yes"/>
+      <point x="364.096" y="558.66"/>
+      <point x="405.14" y="558.089"/>
+      <point x="442.527" y="532.246" type="curve" smooth="yes"/>
+      <point x="498.439" y="493.599"/>
+      <point x="513.56" y="408.569"/>
+      <point x="513.56" y="343.175" type="curve" smooth="yes" name="hr01"/>
+      <point x="513.56" y="206.073"/>
+      <point x="463.5" y="109.901"/>
+      <point x="317.187" y="109.155" type="curve"/>
+    </contour>
+    <contour>
+      <point x="80.0489" y="0" type="line"/>
+      <point x="329.037" y="0" type="line" smooth="yes"/>
+      <point x="546.325" y="0"/>
+      <point x="669.861" y="123.858"/>
+      <point x="669.861" y="347.075" type="curve" smooth="yes"/>
+      <point x="669.861" y="439.891"/>
+      <point x="644.764" y="546.101"/>
+      <point x="555.643" y="612.162" type="curve" smooth="yes"/>
+      <point x="492.34" y="659.086"/>
+      <point x="411.549" y="667.825"/>
+      <point x="332.987" y="667.825" type="curve" smooth="yes"/>
+      <point x="80.0489" y="667.825" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>fd04dc4cb12f666b09bc0eefcf332811aac6f81b470f5e393a098485dab5b8b2c4d41bb120a1549befe276e0f8ecd86df87cd2e8e7a827c377c4334d9c22ff59</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 471.84 46.8</string>
+          <string>hstem 241.28 647.02</string>
+          <string>vstem 85.13 231.07</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 343.18 315.91</string>
+          <string>vstem 471.84 46.8</string>
+          <string>vstem 85.13 231.07</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr01</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

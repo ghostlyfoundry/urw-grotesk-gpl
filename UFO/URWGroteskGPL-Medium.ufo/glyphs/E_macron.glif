@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Emacron" format="2">
+  <advance width="541"/>
+  <unicode hex="0112"/>
+  <outline>
+    <contour>
+      <point x="116.586" y="755.619" type="line" name="hr02"/>
+      <point x="437.8" y="755.619" type="line"/>
+      <point x="437.8" y="825.774" type="line" name="hr01"/>
+      <point x="116.586" y="825.774" type="line"/>
+    </contour>
+    <contour>
+      <point x="80.0489" y="0" type="line" name="hr03"/>
+      <point x="510.874" y="0" type="line"/>
+      <point x="510.874" y="109.155" type="line" name="hr04"/>
+      <point x="505.798" y="109.155" type="line"/>
+      <point x="223.374" y="109.155" type="line"/>
+      <point x="228.451" y="109.155" type="line"/>
+      <point x="228.451" y="285.673" type="line"/>
+      <point x="469.261" y="285.673" type="line"/>
+      <point x="474.337" y="285.673" type="line"/>
+      <point x="474.337" y="391.903" type="line"/>
+      <point x="469.261" y="391.903" type="line"/>
+      <point x="223.374" y="391.903" type="line"/>
+      <point x="228.451" y="391.903" type="line"/>
+      <point x="228.451" y="558.67" type="line" name="hr05"/>
+      <point x="223.374" y="558.67" type="line"/>
+      <point x="469.261" y="558.67" type="line"/>
+      <point x="474.337" y="558.67" type="line"/>
+      <point x="474.337" y="667.825" type="line"/>
+      <point x="80.0489" y="667.825" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>2791e8f5f6d2b9e078a8ba60093d23de34068709a0364b1020dbb1d67a7fb845f2a78c1694d120db40ecabaf5f07e067c00114a1c98da33783265031ef7e010a</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 391.9 363.72</string>
+          <string>hstem 109.15 176.52</string>
+          <string>vstem 121.66 101.71</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 825.77</string>
+          <string>vstem 121.66 101.71</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr01</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 391.9 363.72</string>
+          <string>hstem 109.15 176.52</string>
+          <string>vstem 121.66 101.71</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr02</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 825.77</string>
+          <string>vstem 121.66 101.71</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr03</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 109.15 176.52</string>
+          <string>vstem 121.66 101.71</string>
+          <string>hstem 391.9 363.72</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr04</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 558.67 109.16</string>
+          <string>vstem 121.66 101.71</string>
+          <string>hstem 109.15 176.52</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr05</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 825.77</string>
+          <string>vstem 121.66 101.71</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr03</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>
