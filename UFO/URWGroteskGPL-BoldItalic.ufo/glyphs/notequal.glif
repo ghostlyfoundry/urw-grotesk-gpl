@@ -11,7 +11,7 @@
       <point x="520.406" y="200.121" type="line"/>
       <point x="533.552" y="293.658" type="line"/>
       <point x="297.124" y="293.658" type="line"/>
-      <point x="353.968" y="381.906" type="line"/>
+      <point x="353.967" y="381.906" type="line"/>
       <point x="545.954" y="381.906" type="line"/>
       <point x="559.1" y="475.442" type="line"/>
       <point x="414.505" y="475.442" type="line"/>
@@ -23,7 +23,7 @@
       <point x="262.88" y="381.906" type="line"/>
       <point x="206.036" y="293.658" type="line"/>
       <point x="12.1755" y="293.658" type="line"/>
-      <point x="-0.970184" y="200.121" type="line"/>
+      <point x="-0.9702" y="200.121" type="line"/>
     </contour>
   </outline>
   <lib>

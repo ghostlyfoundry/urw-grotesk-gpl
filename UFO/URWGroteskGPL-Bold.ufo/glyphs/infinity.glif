@@ -59,12 +59,12 @@
       <point x="224.175" y="269.981"/>
       <point x="171.91" y="269.981" type="curve" smooth="yes"/>
       <point x="135.556" y="269.981"/>
-      <point x="110.387" y="296.14"/>
-      <point x="110.387" y="333.418" type="curve" smooth="yes"/>
-      <point x="110.387" y="372.822"/>
+      <point x="110.388" y="296.14"/>
+      <point x="110.388" y="333.418" type="curve" smooth="yes"/>
+      <point x="110.388" y="372.822"/>
       <point x="135.987" y="397.778"/>
       <point x="176.52" y="397.778" type="curve" smooth="yes"/>
-      <point x="217.674" y="397.778"/>
+      <point x="217.675" y="397.778"/>
       <point x="251.673" y="376.926"/>
     </contour>
   </outline>
