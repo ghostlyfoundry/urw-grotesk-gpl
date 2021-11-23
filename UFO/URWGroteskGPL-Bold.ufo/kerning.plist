@@ -1556,6 +1556,8 @@
   </dict>
   <key>a</key>
   <dict>
+    <key>at</key>
+    <integer>5</integer>
     <key>j</key>
     <integer>8</integer>
     <key>quoteright</key>
@@ -1578,6 +1580,8 @@
   </dict>
   <key>adieresis</key>
   <dict>
+    <key>at</key>
+    <integer>10</integer>
     <key>v</key>
     <integer>8</integer>
     <key>w</key>
@@ -1587,6 +1591,8 @@
   </dict>
   <key>b</key>
   <dict>
+    <key>at</key>
+    <integer>10</integer>
     <key>j</key>
     <integer>3</integer>
     <key>v</key>
@@ -1600,6 +1606,8 @@
   <dict>
     <key>J</key>
     <integer>44</integer>
+    <key>at</key>
+    <integer>15</integer>
     <key>h</key>
     <integer>13</integer>
     <key>j</key>
@@ -1618,6 +1626,8 @@
   </dict>
   <key>comma</key>
   <dict>
+    <key>at</key>
+    <integer>10</integer>
     <key>one</key>
     <integer>-101</integer>
     <key>quotedblright</key>
@@ -1627,6 +1637,8 @@
   </dict>
   <key>d</key>
   <dict>
+    <key>at</key>
+    <integer>5</integer>
     <key>j</key>
     <integer>8</integer>
   </dict>
@@ -1677,6 +1689,8 @@
   </dict>
   <key>e</key>
   <dict>
+    <key>at</key>
+    <integer>10</integer>
     <key>j</key>
     <integer>-4</integer>
     <key>quoteright</key>
@@ -1707,6 +1721,8 @@
   </dict>
   <key>eight</key>
   <dict>
+    <key>at</key>
+    <integer>10</integer>
     <key>four</key>
     <integer>2</integer>
     <key>one</key>
@@ -1729,6 +1745,8 @@
     <integer>8</integer>
     <key>aogonek</key>
     <integer>6</integer>
+    <key>at</key>
+    <integer>15</integer>
     <key>e</key>
     <integer>7</integer>
     <key>eacute</key>
@@ -1764,6 +1782,8 @@
   </dict>
   <key>five</key>
   <dict>
+    <key>at</key>
+    <integer>10</integer>
     <key>four</key>
     <integer>-2</integer>
     <key>one</key>
@@ -1773,6 +1793,8 @@
   </dict>
   <key>four</key>
   <dict>
+    <key>at</key>
+    <integer>15</integer>
     <key>four</key>
     <integer>10</integer>
     <key>one</key>
@@ -1786,6 +1808,8 @@
     <integer>4</integer>
     <key>adieresis</key>
     <integer>4</integer>
+    <key>at</key>
+    <integer>10</integer>
     <key>e</key>
     <integer>2</integer>
     <key>eacute</key>
@@ -1798,6 +1822,11 @@
     <integer>4</integer>
     <key>r</key>
     <integer>6</integer>
+  </dict>
+  <key>germandbls</key>
+  <dict>
+    <key>at</key>
+    <integer>25</integer>
   </dict>
   <key>guillemotright</key>
   <dict>
@@ -1835,6 +1864,8 @@
   </dict>
   <key>h</key>
   <dict>
+    <key>at</key>
+    <integer>9</integer>
     <key>quoteright</key>
     <integer>-1</integer>
     <key>v</key>
@@ -1860,11 +1891,15 @@
     <integer>8</integer>
     <key>Y</key>
     <integer>-29</integer>
+    <key>at</key>
+    <integer>35</integer>
   </dict>
   <key>i</key>
   <dict>
     <key>T</key>
     <integer>24</integer>
+    <key>at</key>
+    <integer>10</integer>
     <key>j</key>
     <integer>8</integer>
   </dict>
@@ -1875,6 +1910,8 @@
   </dict>
   <key>j</key>
   <dict>
+    <key>at</key>
+    <integer>10</integer>
     <key>eogonek</key>
     <integer>2</integer>
     <key>oacute</key>
@@ -1890,6 +1927,8 @@
     <integer>-15</integer>
     <key>aogonek</key>
     <integer>-13</integer>
+    <key>at</key>
+    <integer>10</integer>
     <key>c</key>
     <integer>-18</integer>
     <key>comma</key>
@@ -1921,6 +1960,8 @@
   </dict>
   <key>l</key>
   <dict>
+    <key>at</key>
+    <integer>10</integer>
     <key>j</key>
     <integer>8</integer>
     <key>v</key>
@@ -1985,6 +2026,8 @@
   </dict>
   <key>m</key>
   <dict>
+    <key>at</key>
+    <integer>10</integer>
     <key>j</key>
     <integer>5</integer>
     <key>p</key>
@@ -2000,6 +2043,8 @@
   <dict>
     <key>T</key>
     <integer>-37</integer>
+    <key>at</key>
+    <integer>10</integer>
     <key>j</key>
     <integer>5</integer>
     <key>p</key>
@@ -2015,6 +2060,8 @@
   </dict>
   <key>nine</key>
   <dict>
+    <key>at</key>
+    <integer>10</integer>
     <key>four</key>
     <integer>-3</integer>
     <key>one</key>
@@ -2022,10 +2069,17 @@
     <key>seven</key>
     <integer>-16</integer>
   </dict>
+  <key>numbersign</key>
+  <dict>
+    <key>at</key>
+    <integer>5</integer>
+  </dict>
   <key>o</key>
   <dict>
     <key>T</key>
     <integer>-41</integer>
+    <key>at</key>
+    <integer>10</integer>
     <key>j</key>
     <integer>3</integer>
     <key>quoteright</key>
@@ -2061,6 +2115,8 @@
   </dict>
   <key>odieresis</key>
   <dict>
+    <key>at</key>
+    <integer>10</integer>
     <key>t</key>
     <integer>11</integer>
     <key>v</key>
@@ -2101,6 +2157,8 @@
   </dict>
   <key>p</key>
   <dict>
+    <key>at</key>
+    <integer>10</integer>
     <key>j</key>
     <integer>3</integer>
     <key>t</key>
@@ -2112,6 +2170,8 @@
   </dict>
   <key>period</key>
   <dict>
+    <key>at</key>
+    <integer>10</integer>
     <key>one</key>
     <integer>-94</integer>
     <key>quotedblright</key>
@@ -2119,8 +2179,15 @@
     <key>quoteright</key>
     <integer>-14</integer>
   </dict>
+  <key>plus</key>
+  <dict>
+    <key>at</key>
+    <integer>10</integer>
+  </dict>
   <key>q</key>
   <dict>
+    <key>at</key>
+    <integer>10</integer>
     <key>c</key>
     <integer>5</integer>
     <key>u</key>
@@ -2237,6 +2304,8 @@
     <integer>-1</integer>
     <key>aogonek</key>
     <integer>-1</integer>
+    <key>at</key>
+    <integer>15</integer>
     <key>b</key>
     <integer>15</integer>
     <key>c</key>
@@ -2408,6 +2477,8 @@
   </dict>
   <key>s</key>
   <dict>
+    <key>at</key>
+    <integer>15</integer>
     <key>k</key>
     <integer>4</integer>
     <key>p</key>
@@ -2428,6 +2499,8 @@
   </dict>
   <key>seven</key>
   <dict>
+    <key>at</key>
+    <integer>5</integer>
     <key>colon</key>
     <integer>-9</integer>
     <key>comma</key>
@@ -2453,6 +2526,8 @@
   </dict>
   <key>six</key>
   <dict>
+    <key>at</key>
+    <integer>10</integer>
     <key>one</key>
     <integer>-44</integer>
     <key>seven</key>
@@ -2483,6 +2558,8 @@
     <integer>7</integer>
     <key>aogonek</key>
     <integer>6</integer>
+    <key>at</key>
+    <integer>15</integer>
     <key>c</key>
     <integer>4</integer>
     <key>colon</key>
@@ -2557,6 +2634,8 @@
   </dict>
   <key>three</key>
   <dict>
+    <key>at</key>
+    <integer>10</integer>
     <key>four</key>
     <integer>-2</integer>
     <key>one</key>
@@ -2566,6 +2645,8 @@
   </dict>
   <key>two</key>
   <dict>
+    <key>at</key>
+    <integer>10</integer>
     <key>one</key>
     <integer>-36</integer>
     <key>seven</key>
@@ -2573,10 +2654,22 @@
   </dict>
   <key>u</key>
   <dict>
+    <key>at</key>
+    <integer>10</integer>
     <key>j</key>
     <integer>8</integer>
     <key>quoteright</key>
     <integer>6</integer>
+  </dict>
+  <key>udieresis</key>
+  <dict>
+    <key>at</key>
+    <integer>10</integer>
+  </dict>
+  <key>underscore</key>
+  <dict>
+    <key>at</key>
+    <integer>15</integer>
   </dict>
   <key>v</key>
   <dict>
@@ -2588,6 +2681,8 @@
     <integer>-3</integer>
     <key>adieresis</key>
     <integer>-3</integer>
+    <key>at</key>
+    <integer>10</integer>
     <key>c</key>
     <integer>-6</integer>
     <key>colon</key>
@@ -2629,6 +2724,8 @@
     <integer>-8</integer>
     <key>adieresis</key>
     <integer>-8</integer>
+    <key>at</key>
+    <integer>10</integer>
     <key>c</key>
     <integer>-10</integer>
     <key>colon</key>
@@ -2662,6 +2759,8 @@
   <dict>
     <key>a</key>
     <integer>-14</integer>
+    <key>at</key>
+    <integer>10</integer>
     <key>c</key>
     <integer>-16</integer>
     <key>e</key>
@@ -2683,6 +2782,8 @@
     <integer>-4</integer>
     <key>adieresis</key>
     <integer>-4</integer>
+    <key>at</key>
+    <integer>10</integer>
     <key>c</key>
     <integer>-7</integer>
     <key>ccaron</key>
@@ -2729,6 +2830,8 @@
   </dict>
   <key>z</key>
   <dict>
+    <key>at</key>
+    <integer>10</integer>
     <key>colon</key>
     <integer>53</integer>
     <key>comma</key>
@@ -2777,6 +2880,8 @@
   </dict>
   <key>zero</key>
   <dict>
+    <key>at</key>
+    <integer>10</integer>
     <key>one</key>
     <integer>-23</integer>
     <key>seven</key>
