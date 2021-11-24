@@ -3,6 +3,7 @@
   <advance width="473"/>
   <unicode hex="0162"/>
   <outline>
+    <component base="cedilla"/>
     <contour>
       <point x="130" y="0" type="line"/>
       <point x="250" y="0" type="line"/>
@@ -13,17 +14,6 @@
       <point x="60" y="573" type="line"/>
       <point x="251" y="573" type="line"/>
     </contour>
-    <contour>
-      <point x="218" y="-53" type="line"/>
-      <point x="145" y="-53" type="line"/>
-      <point x="133" y="-110" type="line"/>
-      <point x="126" y="-134"/>
-      <point x="117" y="-153"/>
-      <point x="100" y="-179" type="curve"/>
-      <point x="64" y="-231" type="line"/>
-      <point x="113" y="-231" type="line"/>
-      <point x="200" y="-138" type="line"/>
-    </contour>
   </outline>
   <lib>
   <dict>
@@ -32,13 +22,13 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>b69ae6996ce019c8f544f8717d6c4caa6ca01fa78c6036b33fad3c037849217c20fc1d61d45b61b07b621c50865150e525a49771d0f6408443f745148d26b90d</string>
+    <string>w473m130,0l250,0l371,573l556,573l576,667l80,667l60,573l251,573</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -210 -21</string>
+          <string>hstem -231 21</string>
           <string>hstem 21 -21</string>
           <string>hstem 573 94</string>
         </array>

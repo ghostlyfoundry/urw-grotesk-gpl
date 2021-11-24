@@ -1830,8 +1830,12 @@
   </dict>
   <key>h</key>
   <dict>
+    <key>a</key>
+    <integer>-20</integer>
     <key>at</key>
     <integer>-4</integer>
+    <key>e</key>
+    <integer>-15</integer>
     <key>quoteright</key>
     <integer>-5</integer>
     <key>v</key>
@@ -2488,7 +2492,7 @@
     <key>colon</key>
     <integer>38</integer>
     <key>h</key>
-    <integer>-1</integer>
+    <integer>3</integer>
     <key>quoteright</key>
     <integer>9</integer>
     <key>semicolon</key>
@@ -2753,6 +2757,8 @@
     <integer>-3</integer>
     <key>semicolon</key>
     <integer>38</integer>
+    <key>z</key>
+    <integer>18</integer>
   </dict>
   <key>zacute</key>
   <dict>
