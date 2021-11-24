@@ -3675,8 +3675,12 @@
   </dict>
   <key>h</key>
   <dict>
+    <key>a</key>
+    <integer>-25</integer>
     <key>asterisk</key>
     <integer>-11</integer>
+    <key>e</key>
+    <integer>-30</integer>
     <key>endash</key>
     <integer>-6</integer>
     <key>quoteright</key>
@@ -3996,6 +4000,8 @@
   <dict>
     <key>T</key>
     <integer>-59</integer>
+    <key>e</key>
+    <integer>-20</integer>
     <key>endash</key>
     <integer>-6</integer>
     <key>g</key>

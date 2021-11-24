@@ -104,10 +104,5 @@
     <string>Scommaaccent</string>
     <string>Tcommaaccent</string>
   </array>
-  <key>public.kern2.b</key>
-  <array>
-    <string>a</string>
-    <string>b</string>
-  </array>
 </dict>
 </plist>

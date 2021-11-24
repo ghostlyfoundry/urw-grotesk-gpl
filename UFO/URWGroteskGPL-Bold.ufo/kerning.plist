@@ -1639,6 +1639,8 @@
   <dict>
     <key>at</key>
     <integer>5</integer>
+    <key>e</key>
+    <integer>-6</integer>
     <key>j</key>
     <integer>8</integer>
   </dict>
@@ -1864,8 +1866,12 @@
   </dict>
   <key>h</key>
   <dict>
+    <key>a</key>
+    <integer>-23</integer>
     <key>at</key>
     <integer>9</integer>
+    <key>e</key>
+    <integer>-8</integer>
     <key>quoteright</key>
     <integer>-1</integer>
     <key>v</key>
@@ -2045,6 +2051,8 @@
     <integer>-37</integer>
     <key>at</key>
     <integer>10</integer>
+    <key>d</key>
+    <integer>-5</integer>
     <key>j</key>
     <integer>5</integer>
     <key>p</key>
@@ -2580,6 +2588,8 @@
     <integer>7</integer>
     <key>quoteright</key>
     <integer>13</integer>
+    <key>r</key>
+    <integer>5</integer>
     <key>semicolon</key>
     <integer>35</integer>
     <key>y</key>
@@ -2738,8 +2748,12 @@
     <integer>-8</integer>
     <key>g</key>
     <integer>-8</integer>
+    <key>h</key>
+    <integer>10</integer>
     <key>hyphen</key>
     <integer>25</integer>
+    <key>i</key>
+    <integer>17</integer>
     <key>l</key>
     <integer>9</integer>
     <key>o</key>

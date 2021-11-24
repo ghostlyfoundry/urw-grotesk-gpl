@@ -1819,6 +1819,10 @@
   </dict>
   <key>h</key>
   <dict>
+    <key>a</key>
+    <integer>-18</integer>
+    <key>e</key>
+    <integer>-19</integer>
     <key>quoteright</key>
     <integer>-5</integer>
     <key>v</key>
@@ -2424,7 +2428,7 @@
     <key>eogonek</key>
     <integer>-8</integer>
     <key>h</key>
-    <integer>-3</integer>
+    <integer>5</integer>
     <key>o</key>
     <integer>-7</integer>
     <key>oacute</key>
@@ -2573,6 +2577,8 @@
     <integer>-5</integer>
     <key>g</key>
     <integer>-3</integer>
+    <key>h</key>
+    <integer>4</integer>
     <key>hyphen</key>
     <integer>29</integer>
     <key>l</key>
@@ -2669,6 +2675,8 @@
     <integer>-10</integer>
     <key>semicolon</key>
     <integer>31</integer>
+    <key>z</key>
+    <integer>23</integer>
   </dict>
   <key>zacute</key>
   <dict>

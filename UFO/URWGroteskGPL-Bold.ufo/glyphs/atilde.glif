@@ -107,7 +107,7 @@
           <string>vstem 33 205</string>
         </array>
         <key>pointTag</key>
-        <string>._.2193277145248</string>
+        <string>._.1916583256576</string>
       </dict>
       <dict>
         <key>stems</key>
@@ -119,7 +119,7 @@
           <string>hstem 543 77</string>
         </array>
         <key>pointTag</key>
-        <string>._.2193277146608</string>
+        <string>._.1916583257856</string>
       </dict>
       <dict>
         <key>stems</key>
@@ -131,7 +131,7 @@
           <string>vstem 389 193</string>
         </array>
         <key>pointTag</key>
-        <string>._.2193277147808</string>
+        <string>._.1916583261936</string>
       </dict>
       <dict>
         <key>stems</key>
@@ -155,7 +155,7 @@
           <string>vstem 389 193</string>
         </array>
         <key>pointTag</key>
-        <string>._.2193277145648</string>
+        <string>._.1916583262896</string>
       </dict>
       <dict>
         <key>stems</key>
@@ -167,7 +167,7 @@
           <string>vstem 389 193</string>
         </array>
         <key>pointTag</key>
-        <string>._.2193277146208</string>
+        <string>._.1916583260576</string>
       </dict>
     </array>
   </dict>

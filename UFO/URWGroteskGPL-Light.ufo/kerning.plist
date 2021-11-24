@@ -1603,6 +1603,10 @@
     <integer>10</integer>
     <key>j</key>
     <integer>-3</integer>
+    <key>r</key>
+    <integer>-14</integer>
+    <key>u</key>
+    <integer>-20</integer>
     <key>v</key>
     <integer>-13</integer>
     <key>w</key>
@@ -1697,6 +1701,8 @@
   </dict>
   <key>e</key>
   <dict>
+    <key>a</key>
+    <integer>-3</integer>
     <key>at</key>
     <integer>10</integer>
     <key>j</key>
@@ -1868,8 +1874,12 @@
   </dict>
   <key>h</key>
   <dict>
+    <key>a</key>
+    <integer>-25</integer>
     <key>at</key>
     <integer>-4</integer>
+    <key>e</key>
+    <integer>-18</integer>
     <key>quoteright</key>
     <integer>-5</integer>
     <key>v</key>
@@ -2036,6 +2046,8 @@
     <integer>-52</integer>
     <key>at</key>
     <integer>5</integer>
+    <key>c</key>
+    <integer>-10</integer>
     <key>j</key>
     <integer>-7</integer>
     <key>p</key>
@@ -2812,6 +2824,8 @@
     <integer>-6</integer>
     <key>semicolon</key>
     <integer>27</integer>
+    <key>z</key>
+    <integer>18</integer>
   </dict>
   <key>zacute</key>
   <dict>
